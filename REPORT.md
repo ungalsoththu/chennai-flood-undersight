@@ -2,8 +2,8 @@
 
 ## A public audit of Chennai's ₹107.2-crore Real-Time Flood Forecasting & Spatial Decision Support System
 
-**UngalSoththu — AI-native desk** · Report draft v0.3 · 2026-10-03 (v0.2 §5 financing · v0.3 media-claims register + data catalogue)
-**Companion data release:** four Hugging Face datasets (links in §3) + the 2026-12 rescue archive `chennai-rain-gauges` · **Media-claims register:** `file MEDIA-CLAIMS.md` (every public success/impact reference, claim-typed and cross-checked) · **Data catalogue:** `file DATA-CATALOGUE.md` (coverage reconciliation + per-layer freshness)
+**UngalSoththu — AI-native desk** · Report draft v0.4 · 2026-10-04 (v0.2 §5 financing · v0.3 media-claims + data catalogue · v0.4 question-bench loop: 200-question accountability bank, machine-scored, 25 gaps fixed — see `file CHAPTER.md`)
+**Companion data release:** four Hugging Face datasets (links in §3) + the 2026-12 rescue archive `chennai-rain-gauges` · **Media-claims register:** `file MEDIA-CLAIMS.md` (every public success/impact reference, claim-typed and cross-checked) · **Data catalogue:** `file DATA-CATALOGUE.md` (coverage reconciliation + per-layer freshness)**Question bank:** `file 200-QUESTIONS.md` (200 graded accountability questions) · **Chapter:** `file CHAPTER.md` (bench method, reviewer scorecard, gap fixes) · **Resident review bench:** https://cashlessconsumer.zo.space/rtff-200-review
 **Evidence grades used:** **A** = artifact captured in our archive (reproducible command in appendix) · **B** = captured + corroborated by dated press · **C** = press-reported only, not independently verified · **D** = inference from evidence (reasoning stated)
 
 ---
@@ -193,6 +193,9 @@ Point-in-time capture (2026-09-29); activations since Oct 2025 may have changed 
 | 20 | No media/official reference credits RTFF & SDSS for any warning during its first real NEM (Ditwah, Nov 30–Dec 6 2025) — credits go to IMD/RMC, CWC, collectors, GCC ICCC | D (documented absence) | media sweep 2026-10-03, `file MEDIA-CLAIMS.md` entries 17–18 |
 | 21 | Impact claims in the entire media corpus are prospective only ("can save lives", "will predict"); zero retrospective verified outcomes; the Oct 2026 IFMC launch re-offers the 2025 promise under a new centre | D | `file MEDIA-CLAIMS.md` register + Pattern analysis |
 | 22 | Project cost reported as ₹71 crore in Nov 2022 (sensor-expansion phase) vs ₹107.2 crore at Oct 2025 launch — +51% in three years, no public sanction/revision trail | B (press, two datapoints) | New Indian Express 2022-11-02 vs launch coverage; `file ELI10.md` §2A |
+| 24 | Per-district station counts: Chennai 379, Tiruvallur 247, Chengalpattu 104, Ranipet 89, Kancheepuram 92, Vellore 31; 36 stations in Andhra Pradesh (Chittoor) | A | station-registry lat/lon tally, 2026-10-04 |
+| 25 | AMC/sensor-vendor name fields are blank across all station-registry rows in the mirror | A | registry scan 2026-10-04 |
+| 26 | Archived model runs and bulletins end 2025-12-02 — before the Ditwah-remnant peak (Dec 3–5) | A | model-run + bulletin layer inspection |
 | 23 | Build history: piloted NEM 2021 (incl. Cyclone Nivar field campaigns), operationalized NEM 2022–23, documented in Current Science 127(1) Jul 2024; predecessor portal chennaifloodsdss.in (live from \~2021) died Aug 2025 after the move to chennaifloodmonitor.tn.gov.in | B | Current Science 2024 + IIT-M press 2021-11 + Wayback 2025-08-31 |
 
 ## Appendix B — Reproduction

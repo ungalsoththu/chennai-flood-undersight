@@ -1,1427 +1,1417 @@
 {
- "title": "RTFF & SDSS — 200 accountability questions",
- "compiled": "2026-10-03",
- "sections": [
-  "A. The system in plain terms",
-  "B. Money: sanction, cost and the creep",
-  "C. The World Bank and the terms of lending",
-  "D. Contracts, consultants and vendors",
-  "E. The sensor network",
-  "F. Open data and public access",
-  "G. The forecasts themselves",
-  "H. Alerts and warning delivery",
-  "I. How it did in real storms",
-  "J. Maintenance and operations",
-  "K. Governance and oversight",
-  "L. The old website and institutional memory",
-  "M. The 2026 IFMC (Integrated Flood Management Centre)",
-  "N. Equity: who actually gets warned",
-  "O. Comparisons and benchmarks",
-  "P. \"What about MY street?\" — practical questions",
-  "Q. The accountability toolkit",
-  "R. Privacy and surveillance",
-  "S. The basin: drains, lakes, wetlands"
- ],
- "items": [
+ "ok": true,
+ "generated": "2026-10-04T05:33:22Z",
+ "source": "200-QUESTIONS.md",
+ "counts": {
+  "questions": 200,
+  "sections": 19,
+  "answered": 107,
+  "partial": 57,
+  "open": 36,
+  "unanswerable": 0,
+  "ungraded": 0
+ },
+ "duplicate_ids": [],
+ "questions": [
   {
    "id": 1,
    "section": "A. The system in plain terms",
-   "q": "What exactly is this ₹107-crore thing I keep hearing about?",
-   "answer": "RTFF & SDSS — a sensor network + weather models + maps fused into a dashboard that promises street-level flood forecasts 72 hours ahead. REPORT §1–2.",
-   "status": "answered"
+   "question": "What exactly is this ₹107-crore thing I keep hearing about?",
+   "grade": "✅",
+   "answer": "RTFF & SDSS — a sensor network + weather models + maps fused into a dashboard that promises street-level flood forecasts 72 hours ahead. REPORT §1–2."
   },
   {
    "id": 2,
    "section": "A. The system in plain terms",
-   "q": "Who runs it day to day?",
-   "answer": "The Hydro-Modelling Control Room at the State EOC (Ezhilagam) under the Commissionerate of Revenue Administration / TNDRRA; consultant SECON–JBA runs modelling during activations; Flood Monitoring Centres sit in district collectorates. CFM AboutUs.",
-   "status": "answered"
+   "question": "Who runs it day to day?",
+   "grade": "✅",
+   "answer": "The Hydro-Modelling Control Room at the State EOC (Ezhilagam) under the Commissionerate of Revenue Administration / TNDRRA; consultant SECON–JBA runs modelling during activations; Flood Monitoring Centres sit in district collectorates. CFM AboutUs."
   },
   {
    "id": 3,
    "section": "A. The system in plain terms",
-   "q": "Where is it physically?",
-   "answer": "HMCR at SEOC Ezhilagam; FMCs at GCC, Kancheepuram, Tiruvallur, Chengalpattu, Ranipet collectorates; a disaster-recovery centre proposed at WRD Chepauk. CFM AboutUs.",
-   "status": "answered"
+   "question": "Where is it physically?",
+   "grade": "✅",
+   "answer": "HMCR at SEOC Ezhilagam; FMCs at GCC, Kancheepuram, Tiruvallur, Chengalpattu, Ranipet collectorates; a disaster-recovery centre proposed at WRD Chepauk. CFM AboutUs."
   },
   {
    "id": 4,
    "section": "A. The system in plain terms",
-   "q": "When did it start?",
-   "answer": "Conceived after the 2015 flood; piloted NEM 2021; \"operationalized\" NEM 2022 and 2023 (Current Science, Jul 2024); declared \"fully operational\" Oct 2025.",
-   "status": "answered"
+   "question": "When did it start?",
+   "grade": "✅",
+   "answer": "Conceived after the 2015 flood; piloted NEM 2021; \"operationalized\" NEM 2022 and 2023 (Current Science, Jul 2024); declared \"fully operational\" Oct 2025."
   },
   {
    "id": 5,
    "section": "A. The system in plain terms",
-   "q": "Is it really India's first?",
-   "answer": "Billed \"first fully operational comprehensive urban FF-DSS\" in launch coverage (graded B/C in our ledger). Mumbai's CFLOWS predates it in research; \"first\" depends on definitions nobody has fixed.",
-   "status": "partial"
+   "question": "Is it really India's first?",
+   "grade": "🟡",
+   "answer": "Billed \"first fully operational comprehensive urban FF-DSS\" in launch coverage (graded B/C in our ledger). Mumbai's CFLOWS predates it in research; \"first\" depends on definitions nobody has fixed."
   },
   {
    "id": 6,
    "section": "A. The system in plain terms",
-   "q": "Does it predict floods or just record them?",
-   "answer": "Design says predict (72-hour street-level). Evidence says it *records* well (F8) and predicting is publicly unverifiable (F5). Both halves verified in our mirror.",
-   "status": "answered"
+   "question": "Does it predict floods or just record them?",
+   "grade": "✅",
+   "answer": "Design says predict (72-hour street-level). Evidence says it *records* well (F8) and predicting is publicly unverifiable (F5). Both halves verified in our mirror."
   },
   {
    "id": 7,
    "section": "A. The system in plain terms",
-   "q": "Which areas does it cover?",
-   "answer": "4,974 km² across Chennai, Tiruvallur, Kancheepuram, Chengalpattu, Ranipet — the Adyar, Cooum, Kosasthalaiyar and Kovalam basins.",
-   "status": "answered"
+   "question": "Which areas does it cover?",
+   "grade": "✅",
+   "answer": "4,974 km² across Chennai, Tiruvallur, Kancheepuram, Chengalpattu, Ranipet — the Adyar, Cooum, Kosasthalaiyar and Kovalam basins."
   },
   {
    "id": 8,
    "section": "A. The system in plain terms",
-   "q": "Is my district inside?",
-   "answer": "If you're in those five districts, yes on paper. Exact per-ward sensor coverage: check the station registries in our `chennai-flood-monitor-transactions` dataset.",
-   "status": "answered"
+   "question": "Is my district inside?",
+   "grade": "✅",
+   "answer": "On paper, yes if you're in Chennai, Tiruvallur, Kancheepuram, Chengalpattu, Ranipet (or the Vellore fringe). From our mirrored station registries (~969 station rows, existing + proposed): Chennai district 379, Tiruvallur 247, Chengalpattu 104, Ranipet 89, Kancheepuram 92, Vellore 31 — plus 36 stations in Andhra Pradesh's Chittoor district, because the Araniar and Kosasthalaiyar basins rise in AP. \"Inside\" on the map is not \"covered\" — the flagship gauge dark-spots (F2) sit inside Chennai itself."
   },
   {
    "id": 9,
    "section": "A. The system in plain terms",
-   "q": "Who built it?",
-   "answer": "SECON Private Ltd (Bangalore) + JBA Consulting (UK) as a JV; IIT Madras provided technical supervision; TNUIFSL managed the money.",
-   "status": "answered"
+   "question": "Who built it?",
+   "grade": "✅",
+   "answer": "SECON Private Ltd (Bangalore) + JBA Consulting (UK) as a JV; IIT Madras provided technical supervision; TNUIFSL managed the money."
   },
   {
    "id": 10,
    "section": "A. The system in plain terms",
-   "q": "Chennai flooded in 2005, 2015, 2021, 2023 — why did the brain only arrive in 2025?",
-   "answer": "The 2015 flood created the political mandate and the World Bank money pipe; the build took ~5 years; press calls it \"operational\" only from Oct 2025. History: ELI10 §2A. ---",
-   "status": "answered"
+   "question": "Chennai flooded in 2005, 2015, 2021, 2023 — why did the brain only arrive in 2025?",
+   "grade": "✅",
+   "answer": "The 2015 flood created the political mandate and the World Bank money pipe; the build took ~5 years; press calls it \"operational\" only from Oct 2025. History: ELI10 §2A. ---"
   },
   {
    "id": 11,
    "section": "B. Money: sanction, cost and the creep",
-   "q": "How much did it cost, finally?",
-   "answer": "₹107.2 crore — press figure at launch (ledger row 10, graded C).",
-   "status": "answered"
+   "question": "How much did it cost, finally?",
+   "grade": "✅",
+   "answer": "₹107.2 crore — press figure at launch (ledger row 10, graded C)."
   },
   {
    "id": 12,
    "section": "B. Money: sanction, cost and the creep",
-   "q": "Was that always the price?",
-   "answer": "No. Nov 2022 press reported **₹71 crore**; Oct 2025 launch reported ₹107.2 crore — **+51% in three years**, no public revision order (ledger row 22).",
-   "status": "answered"
+   "question": "Was that always the price?",
+   "grade": "✅",
+   "answer": "No. Nov 2022 press reported **₹71 crore**; Oct 2025 launch reported ₹107.2 crore — **+51% in three years**, no public revision order (ledger row 22)."
   },
   {
    "id": 13,
    "section": "B. Money: sanction, cost and the creep",
-   "q": "Where can I read the sanction order?",
-   "answer": "Not published anywhere we can find. **RTI target #1:** WRD / CRA / Finance Dept for the G.O. sanctioning RTFF & SDSS under PDGF.",
-   "status": "unknown"
+   "question": "Where can I read the sanction order?",
+   "grade": "❌",
+   "answer": "Not published anywhere we can find. **RTI target #1:** WRD / CRA / Finance Dept for the G.O. sanctioning RTFF & SDSS under PDGF."
   },
   {
    "id": 14,
    "section": "B. Money: sanction, cost and the creep",
-   "q": "Is it grant money or loan money?",
-   "answer": "Both, layered: World Bank *loan* to GoI→GoTN, repackaged as PDGF *grant* for consultancies (REPORT §5).",
-   "status": "answered"
+   "question": "Is it grant money or loan money?",
+   "grade": "✅",
+   "answer": "Both, layered: World Bank *loan* to GoI→GoTN, repackaged as PDGF *grant* for consultancies (REPORT §5)."
   },
   {
    "id": 15,
    "section": "B. Money: sanction, cost and the creep",
-   "q": "Who repays the World Bank?",
-   "answer": "GoTN, via GoI, in hard currency — FX risk on the state budget, 20–32-year maturities observed in the TN portfolio.",
-   "status": "answered"
+   "question": "Who repays the World Bank?",
+   "grade": "✅",
+   "answer": "GoTN, via GoI, in hard currency — FX risk on the state budget, 20–32-year maturities observed in the TN portfolio."
   },
   {
    "id": 16,
    "section": "B. Money: sanction, cost and the creep",
-   "q": "How does ₹107.2 cr split between software, sensors, surveys, IIT-M?",
-   "answer": "No public split. **RTI target:** SECON–JBA contract schedules + PDGF utilisation certificates.",
-   "status": "unknown"
+   "question": "How does ₹107.2 cr split between software, sensors, surveys, IIT-M?",
+   "grade": "❌",
+   "answer": "No public split. **RTI target:** SECON–JBA contract schedules + PDGF utilisation certificates."
   },
   {
    "id": 17,
    "section": "B. Money: sanction, cost and the creep",
-   "q": "What is PDGF in one line?",
-   "answer": "The government's own \"grant shop\" at TNUIFSL — a non-lapsable technical-assistance fund fed by World Bank/KfW/JICA/ADB project lines, operational 1 Apr 2015.",
-   "status": "answered"
+   "question": "What is PDGF in one line?",
+   "grade": "✅",
+   "answer": "The government's own \"grant shop\" at TNUIFSL — a non-lapsable technical-assistance fund fed by World Bank/KfW/JICA/ADB project lines, operational 1 Apr 2015."
   },
   {
    "id": 18,
    "section": "B. Money: sanction, cost and the creep",
-   "q": "How big is PDGF next to this one project?",
-   "answer": "PDGF disbursed ₹52.64 cr in 2023-24 — *across all assignments*. RTFF & SDSS cost ~2 years of the entire fund's output.",
-   "status": "answered"
+   "question": "How big is PDGF next to this one project?",
+   "grade": "✅",
+   "answer": "PDGF disbursed ₹52.64 cr in 2023-24 — *across all assignments*. RTFF & SDSS cost ~2 years of the entire fund's output."
   },
   {
    "id": 19,
    "section": "B. Money: sanction, cost and the creep",
-   "q": "Is the World Bank still paying for it?",
-   "answer": "Yes — TNCRUDP (P179189) procurement plans (Dec 2023, Dec 2024) list RTFF \"handholding supervision\" ($0.10M) and satellite DEM/DSM work ($0.36M).",
-   "status": "answered"
+   "question": "Is the World Bank still paying for it?",
+   "grade": "✅",
+   "answer": "Yes — TNCRUDP (P179189) procurement plans (Dec 2023, Dec 2024) list RTFF \"handholding supervision\" ($0.10M) and satellite DEM/DSM work ($0.36M)."
   },
   {
    "id": 20,
    "section": "B. Money: sanction, cost and the creep",
-   "q": "Was there competitive bidding for the consultant?",
-   "answer": "TNUIFSL uses QCBS/direct-selection routes; the actual RTFF award method and bids are not public. **RTI target:** TNUIFSL tender file.",
-   "status": "partial"
+   "question": "Was there competitive bidding for the consultant?",
+   "grade": "🟡",
+   "answer": "TNUIFSL uses QCBS/direct-selection routes; the actual RTFF award method and bids are not public. **RTI target:** TNUIFSL tender file."
   },
   {
    "id": 21,
    "section": "B. Money: sanction, cost and the creep",
-   "q": "What's the annual operations budget?",
-   "answer": "Never published. No O&M line exists publicly — a headline gap (F10).",
-   "status": "unknown"
+   "question": "What's the annual operations budget?",
+   "grade": "❌",
+   "answer": "Never published. No O&M line exists publicly — a headline gap (F10)."
   },
   {
    "id": 22,
    "section": "B. Money: sanction, cost and the creep",
-   "q": "What does it cost per km², per ward?",
-   "answer": "₹2.16 lakh/km²; ₹53.6 lakh per ward. Whether that's good value depends on verification — which doesn't exist (F5).",
-   "status": "answered"
+   "question": "What does it cost per km², per ward?",
+   "grade": "✅",
+   "answer": "₹2.16 lakh/km²; ₹53.6 lakh per ward. Whether that's good value depends on verification — which doesn't exist (F5)."
   },
   {
    "id": 23,
    "section": "B. Money: sanction, cost and the creep",
-   "q": "Is the money spent, or still flowing?",
-   "answer": "Build-phase money spent (₹107.2 cr claim); aftercare money still flowing via TNCRUDP IPF-TA assignments.",
-   "status": "partial"
+   "question": "Is the money spent, or still flowing?",
+   "grade": "🟡",
+   "answer": "Build-phase money spent (₹107.2 cr claim); aftercare money still flowing via TNCRUDP IPF-TA assignments."
   },
   {
    "id": 24,
    "section": "B. Money: sanction, cost and the creep",
-   "q": "Who can audit this spend?",
-   "answer": "CAG can, on its own initiative or on demand; no CAG report on this line is public. **Ask:** include RTFF & SDSS in a performance audit. ---",
-   "status": "answered"
+   "question": "Who can audit this spend?",
+   "grade": "✅",
+   "answer": "CAG can, on its own initiative or on demand; no CAG report on this line is public. **Ask:** include RTFF & SDSS in a performance audit. ---"
   },
   {
    "id": 25,
    "section": "C. The World Bank and the terms of lending",
-   "q": "Does the World Bank lend to Chennai directly?",
-   "answer": "No — IBRD lends only to sovereign governments. Chennai's system is financed through GoI→GoTN chains.",
-   "status": "answered"
+   "question": "Does the World Bank lend to Chennai directly?",
+   "grade": "✅",
+   "answer": "No — IBRD lends only to sovereign governments. Chennai's system is financed through GoI→GoTN chains."
   },
   {
    "id": 26,
    "section": "C. The World Bank and the terms of lending",
-   "q": "What interest rate did Tamil Nadu pay?",
-   "answer": "IBRD pricing is benchmark-plus-spread with fees; the specific rate for the PDGF-feeding projects isn't published at this layer. Loan agreements (public at WB) carry it.",
-   "status": "partial"
+   "question": "What interest rate did Tamil Nadu pay?",
+   "grade": "🟡",
+   "answer": "IBRD pricing is benchmark-plus-spread with fees; the specific rate for the PDGF-feeding projects isn't published at this layer. Loan agreements (public at WB) carry it."
   },
   {
    "id": 27,
    "section": "C. The World Bank and the terms of lending",
-   "q": "How long does repayment take?",
-   "answer": "Observed TN instruments: 32-yr maturity/7-yr grace (TNCRUDP 2023), 23-yr/6.5-yr (SHORE 2025), 20-yr/3.5-yr (housing DPLs). Your flood brain sits on decades of sovereign debt.",
-   "status": "answered"
+   "question": "How long does repayment take?",
+   "grade": "✅",
+   "answer": "Observed TN instruments: 32-yr maturity/7-yr grace (TNCRUDP 2023), 23-yr/6.5-yr (SHORE 2025), 20-yr/3.5-yr (housing DPLs). Your flood brain sits on decades of sovereign debt."
   },
   {
    "id": 28,
    "section": "C. The World Bank and the terms of lending",
-   "q": "What is \"Program-for-Results\"?",
-   "answer": "A WB instrument that disburses only against independently verified program results — verification is a payment condition.",
-   "status": "answered"
+   "question": "What is \"Program-for-Results\"?",
+   "grade": "✅",
+   "answer": "A WB instrument that disburses only against independently verified program results — verification is a payment condition."
   },
   {
    "id": 29,
    "section": "C. The World Bank and the terms of lending",
-   "q": "Does the current program verify forecast accuracy as a result?",
-   "answer": "Nothing public shows RTFF performance indicators in the TNCRUDP results framework. **RTI/watch:** the PforR DLR schedule and ISRs.",
-   "status": "unknown"
+   "question": "Does the current program verify forecast accuracy as a result?",
+   "grade": "❌",
+   "answer": "Nothing public shows RTFF performance indicators in the TNCRUDP results framework. **RTI/watch:** the PforR DLR schedule and ISRs."
   },
   {
    "id": 30,
    "section": "C. The World Bank and the terms of lending",
-   "q": "Can citizens read the loan agreement?",
-   "answer": "World Bank loan agreements and DLR schedules are published on its website — a no-RTI ask once signed.",
-   "status": "answered"
+   "question": "Can citizens read the loan agreement?",
+   "grade": "✅",
+   "answer": "World Bank loan agreements and DLR schedules are published on its website — a no-RTI ask once signed."
   },
   {
    "id": 31,
    "section": "C. The World Bank and the terms of lending",
-   "q": "Has the Bank funded TN flood/urban work before?",
-   "answer": "Yes — TNUDP I–III (1990s–2006, incl. $300M TNUDP III), TN & Puducherry Coastal DRR ($236M, 2013), TNSUDP ($400M IBRD, 2015), now TNCRUDP ($300M, 2023).",
-   "status": "answered"
+   "question": "Has the Bank funded TN flood/urban work before?",
+   "grade": "✅",
+   "answer": "Yes — TNUDP I–III (1990s–2006, incl. $300M TNUDP III), TN & Puducherry Coastal DRR ($236M, 2013), TNSUDP ($400M IBRD, 2015), now TNCRUDP ($300M, 2023)."
   },
   {
    "id": 32,
    "section": "C. The World Bank and the terms of lending",
-   "q": "What is the Inspection Panel?",
-   "answer": "The World Bank's independent accountability mechanism — affected people can request investigation of WB-financed projects.",
-   "status": "answered"
+   "question": "What is the Inspection Panel?",
+   "grade": "✅",
+   "answer": "The World Bank's independent accountability mechanism — affected people can request investigation of WB-financed projects."
   },
   {
    "id": 33,
    "section": "C. The World Bank and the terms of lending",
-   "q": "What else has PDGF bought over the years?",
-   "answer": "Annual utilisation statements exist at TNUIFSL (₹35–122 cr/yr inflows); itemised assignment lists are patchy. **RTI target:** PDGF statements naming RTFF & SDSS.",
-   "status": "partial"
+   "question": "What else has PDGF bought over the years?",
+   "grade": "🟡",
+   "answer": "Annual utilisation statements exist at TNUIFSL (₹35–122 cr/yr inflows); itemised assignment lists are patchy. **RTI target:** PDGF statements naming RTFF & SDSS."
   },
   {
    "id": 34,
    "section": "C. The World Bank and the terms of lending",
-   "q": "Is the \"grant\" framing misleading?",
-   "answer": "At the project level, no one repays — but one layer up it is sovereign debt. The costume matters for disclosure: grants skip the investment-project disclosure stack (REPORT §5.4.3). ---",
-   "status": "answered"
+   "question": "Is the \"grant\" framing misleading?",
+   "grade": "✅",
+   "answer": "At the project level, no one repays — but one layer up it is sovereign debt. The costume matters for disclosure: grants skip the investment-project disclosure stack (REPORT §5.4.3). ---"
   },
   {
    "id": 35,
    "section": "D. Contracts, consultants and vendors",
-   "q": "Who is SECON?",
-   "answer": "A Bangalore survey/water-resources engineering firm; project consultant (planning, setup, commissioning) and web-DSS developer.",
-   "status": "answered"
+   "question": "Who is SECON?",
+   "grade": "✅",
+   "answer": "A Bangalore survey/water-resources engineering firm; project consultant (planning, setup, commissioning) and web-DSS developer."
   },
   {
    "id": 36,
    "section": "D. Contracts, consultants and vendors",
-   "q": "Who is JBA?",
-   "answer": "JBA Consulting (UK) — a flood-risk consultancy whose parent sells flood models to the re/insurance industry.",
-   "status": "answered"
+   "question": "Who is JBA?",
+   "grade": "✅",
+   "answer": "JBA Consulting (UK) — a flood-risk consultancy whose parent sells flood models to the re/insurance industry."
   },
   {
    "id": 37,
    "section": "D. Contracts, consultants and vendors",
-   "q": "What did the SECON–JBA contract cost?",
-   "answer": "Not public. **RTI target #2:** the JV's contract value and payment schedule.",
-   "status": "unknown"
+   "question": "What did the SECON–JBA contract cost?",
+   "grade": "❌",
+   "answer": "Not public. **RTI target #2:** the JV's contract value and payment schedule."
   },
   {
    "id": 38,
    "section": "D. Contracts, consultants and vendors",
-   "q": "Are there other vendors?",
-   "answer": "Yes — station registries we mirrored carry AMC (maintenance) vendor-name fields; the hardware sensor vendors are also in the registry stack.",
-   "status": "answered"
+   "question": "Are there other vendors?",
+   "grade": "✅",
+   "answer": "The honest answer: the registries don't say. Every station registry we mirrored carries AMC (maintenance) and sensor-vendor name fields — and in our pull **all of them are blank**. The only vendor name in the public record is SECON–JBA JV (consultant, from Bank procurement plans and press). Who actually supplies and services the gauges, at what price, on what schedule: not public anywhere we can find. That blankness is itself the finding."
   },
   {
    "id": 39,
    "section": "D. Contracts, consultants and vendors",
-   "q": "What is IIT-M's contract?",
-   "answer": "\"Technical supervision\" per official text; the value and terms of IIT-M's engagement are not public.",
-   "status": "partial"
+   "question": "What is IIT-M's contract?",
+   "grade": "🟡",
+   "answer": "\"Technical supervision\" per official text; the value and terms of IIT-M's engagement are not public."
   },
   {
    "id": 40,
    "section": "D. Contracts, consultants and vendors",
-   "q": "When do the maintenance contracts expire?",
-   "answer": "66 stations carry `isamc=true` flags, but expiry dates are populated for only ~6 — the O&M calendar is unknown even to its own registry (F10).",
-   "status": "partial"
+   "question": "When do the maintenance contracts expire?",
+   "grade": "🟡",
+   "answer": "66 stations carry `isamc=true` flags, but expiry dates are populated for only ~6 — the O&M calendar is unknown even to its own registry (F10)."
   },
   {
    "id": 41,
    "section": "D. Contracts, consultants and vendors",
-   "q": "What happens when an AMC lapses?",
-   "answer": "No published plan. **Watch:** our AMC-expiry calendar (AUDIT-PLAN B2).",
-   "status": "unknown"
+   "question": "What happens when an AMC lapses?",
+   "grade": "❌",
+   "answer": "No published plan — and no way to cite a past lapse, because the state doesn't publish the AMC calendar: 66 stations are AMC-flagged in the registry, expiry dates exist for only ~6, and vendor fields are blank (Q38). The observable symptom is F2 — flagship gauges frozen at 2025-05-10 while the dashboard page itself stays live — a pattern consistent with lapsed maintenance nobody is obliged to disclose. The Bank is separately buying \"handholding\" supervision (§5.3) while the AMC base is unrecorded."
   },
   {
    "id": 42,
    "section": "D. Contracts, consultants and vendors",
-   "q": "Were the tenders published?",
-   "answer": "TN e-procurement notices and WB procurement plans exist in fragments; no consolidated public list of RTFF contracts.",
-   "status": "partial"
+   "question": "Were the tenders published?",
+   "grade": "🟡",
+   "answer": "TN e-procurement notices and WB procurement plans exist in fragments; no consolidated public list of RTFF contracts."
   },
   {
    "id": 43,
    "section": "D. Contracts, consultants and vendors",
-   "q": "Were conflict-of-interest checks done?",
-   "answer": "Nothing public.",
-   "status": "unknown"
+   "question": "Were conflict-of-interest checks done?",
+   "grade": "❌",
+   "answer": "We searched: the World Bank procurement plans for the RTFF assignments (the $0.10M handholding line was awarded by **direct selection**, a method that skips open competition and requires a justification note), TN e-procurement, and press. No conflict-of-interest disclosure is published for any RTFF contract. Bank procurement regulations require COI screening, but at this award value the screening record stays in the project file — exactly the layer §5.4 calls the structural disclosure asymmetry."
   },
   {
    "id": 44,
    "section": "D. Contracts, consultants and vendors",
-   "q": "Who owns the system's software IP?",
-   "answer": "RTI target: contract IP clauses.",
-   "status": "unknown"
+   "question": "Who owns the system's software IP?",
+   "grade": "❌",
+   "answer": "Nothing public answers this — the consultancy contracts are unpublished. Two facts bracket it: the Current Science paper (2024) describes the models as built by the IIT-M-led consortium, and the portal's dashboards were built under the SECON–JBA consultancy. Whether the state owns the code and model IP, or licenses it from the JV and IIT-M, decides whether a future government can even repair the system without its contractors. RTI: the IP clauses in the SECON–JBA consultancy agreement."
   },
   {
    "id": 45,
    "section": "D. Contracts, consultants and vendors",
-   "q": "Is the same JV involved in the new IFMC?",
-   "answer": "Not stated in Oct 2026 coverage. **Watch:** IFMC procurement trail. ---",
-   "status": "unknown"
+   "question": "Is the same JV involved in the new IFMC?",
+   "grade": "🟡",
+   "answer": "The Oct 2026 IFMC coverage (The Hindu, Live Chennai, NIE — our media corpus) names no vendor and no sanction. What coverage describes is a GCC + WRD joint centre at the State EOC absorbing flood-call and forecast operations — our reading (inference, D): a re-organization and upgrade of existing RTFF operations rather than a new system. The test is the procurement trail: if IFMC hardware/software goes to open tender on tntenders.gov.in, names will appear there. That trail is a standing watch."
   },
   {
    "id": 46,
    "section": "E. The sensor network",
-   "q": "How many sensors are there?",
-   "answer": "Registries we mirror: 328 ARG (incl. IIT-M 61 + 87 proposed), 121 AWLR existing + 139 basin-proposed, 63+53 SRG (GCC+PWD), 39+13 AWS, 5 gate sensors, plus tidal, agro, groundwater stations.",
-   "status": "answered"
+   "question": "How many sensors are there?",
+   "grade": "✅",
+   "answer": "Registries we mirror: 328 ARG (incl. IIT-M 61 + 87 proposed), 121 AWLR existing + 139 basin-proposed, 63+53 SRG (GCC+PWD), 39+13 AWS, 5 gate sensors, plus tidal, agro, groundwater stations."
   },
   {
    "id": 47,
    "section": "E. The sensor network",
-   "q": "Are they all working?",
-   "answer": "On census day: 22 of 38 dashboard stations fresh — 16 stale (F2).",
-   "status": "answered"
+   "question": "Are they all working?",
+   "grade": "✅",
+   "answer": "On census day: 22 of 38 dashboard stations fresh — 16 stale (F2)."
   },
   {
    "id": 48,
    "section": "E. The sensor network",
-   "q": "What about Nungambakkam, THE Chennai rain gauge?",
-   "answer": "Frozen at **10 May 2025** — 16+ months of nothing on the system built to show exactly that (F2).",
-   "status": "answered"
+   "question": "What about Nungambakkam, THE Chennai rain gauge?",
+   "grade": "✅",
+   "answer": "Frozen at **10 May 2025** — 16+ months of nothing on the system built to show exactly that (F2)."
   },
   {
    "id": 49,
    "section": "E. The sensor network",
-   "q": "Who checks the sensors' health?",
-   "answer": "No public QA process; our mirror shows impossible values that nobody flagged (F7).",
-   "status": "unknown"
+   "question": "Who checks the sensors' health?",
+   "grade": "❌",
+   "answer": "No public QA process; our mirror shows impossible values that nobody flagged (F7)."
   },
   {
    "id": 50,
    "section": "E. The sensor network",
-   "q": "What's a gate sensor for?",
-   "answer": "It reads lake/shutter positions — input to reservoir-release decisions (LoGS).",
-   "status": "answered"
+   "question": "What's a gate sensor for?",
+   "grade": "✅",
+   "answer": "It reads lake/shutter positions — input to reservoir-release decisions (LoGS)."
   },
   {
    "id": 51,
    "section": "E. The sensor network",
-   "q": "What's an AWLR?",
-   "answer": "Automatic Water Level Recorder — telemetry on rivers, canals, tanks.",
-   "status": "answered"
+   "question": "What's an AWLR?",
+   "grade": "✅",
+   "answer": "Automatic Water Level Recorder — telemetry on rivers, canals, tanks."
   },
   {
    "id": 52,
    "section": "E. The sensor network",
-   "q": "Are sensor locations public?",
-   "answer": "Yes — coordinates are in the registry layers (our mirror publishes them as maps).",
-   "status": "answered"
+   "question": "Are sensor locations public?",
+   "grade": "✅",
+   "answer": "Yes — coordinates are in the registry layers (our mirror publishes them as maps)."
   },
   {
    "id": 53,
    "section": "E. The sensor network",
-   "q": "Are there sensors near me?",
-   "answer": "Likely, if you're in the 5 districts — verify against the ARG/AWLR registry maps in our GIS release.",
-   "status": "partial"
+   "question": "Are there sensors near me?",
+   "grade": "🟡",
+   "answer": "Likely, if you're in the 5 districts — verify against the ARG/AWLR registry maps in our GIS release."
   },
   {
    "id": 54,
    "section": "E. The sensor network",
-   "q": "Why did a sensor read −18 °C in Chennai?",
-   "answer": "Data-quality failure at Kattupakkam (F7) — and nobody at the system flagged it. That's the point of F7.",
-   "status": "answered"
+   "question": "Why did a sensor read −18 °C in Chennai?",
+   "grade": "✅",
+   "answer": "Data-quality failure at Kattupakkam (F7) — and nobody at the system flagged it. That's the point of F7."
   },
   {
    "id": 55,
    "section": "E. The sensor network",
-   "q": "Who physically fixes a dead gauge?",
-   "answer": "Per-station maintenance responsibility is not published (AMC fields sparse).",
-   "status": "unknown"
+   "question": "Who physically fixes a dead gauge?",
+   "grade": "❌",
+   "answer": "Per-station maintenance responsibility is not published (AMC fields sparse)."
   },
   {
    "id": 56,
    "section": "E. The sensor network",
-   "q": "Is there a public sensor-status page?",
-   "answer": "No — recommendation #3 asks for exactly that.",
-   "status": "unknown"
+   "question": "Is there a public sensor-status page?",
+   "grade": "❌",
+   "answer": "No — recommendation #3 asks for exactly that."
   },
   {
    "id": 57,
    "section": "E. The sensor network",
-   "q": "How old is this network?",
-   "answer": "Rain records reach back to 1976 (SRG archive); the modern telemetry network is largely a 2018–2021 install.",
-   "status": "partial"
+   "question": "How old is this network?",
+   "grade": "🟡",
+   "answer": "Rain records reach back to 1976 (SRG archive); the modern telemetry network is largely a 2018–2021 install."
   },
   {
    "id": 58,
    "section": "E. The sensor network",
-   "q": "Did the 639 mm in one day at Michaung really happen?",
-   "answer": "Yes — it's in our rescued predecessor archive: 639 mm/24 h at the Zone-12 (Meenambakkam 6A) gauge, 2023-12-04 (ledger row 12, grade A).",
-   "status": "answered"
+   "question": "Did the 639 mm in one day at Michaung really happen?",
+   "grade": "✅",
+   "answer": "Yes — it's in our rescued predecessor archive: 639 mm/24 h at the Zone-12 (Meenambakkam 6A) gauge, 2023-12-04 (ledger row 12, grade A)."
   },
   {
    "id": 59,
    "section": "E. The sensor network",
-   "q": "Can I watch live sensor data right now?",
-   "answer": "The dashboard shows day-cards only; the machine-readable open feed is stale (F3). Our mirror is point-in-time.",
-   "status": "partial"
+   "question": "Can I watch live sensor data right now?",
+   "grade": "🟡",
+   "answer": "The dashboard shows day-cards only; the machine-readable open feed is stale (F3). Our mirror is point-in-time."
   },
   {
    "id": 60,
    "section": "E. The sensor network",
-   "q": "Do all districts have equal sensor density?",
-   "answer": "No published density analysis. Compute it yourself from our registries — that's what they're for. ---",
-   "status": "unknown"
+   "question": "Do all districts have equal sensor density?",
+   "grade": "❌",
+   "answer": "No published density analysis. Compute it yourself from our registries — that's what they're for. ---"
   },
   {
    "id": 61,
    "section": "F. Open data and public access",
-   "q": "Is the system's data \"open data\"?",
-   "answer": "Accidentally, yes (F1) — 343 of 344 GeoServer layers answer anonymous queries; but with no license, no docs, no promise it stays.",
-   "status": "answered"
+   "question": "Is the system's data \"open data\"?",
+   "grade": "✅",
+   "answer": "Accidentally, yes (F1) — 343 of 344 GeoServer layers answer anonymous queries; but with no license, no docs, no promise it stays."
   },
   {
    "id": 62,
    "section": "F. Open data and public access",
-   "q": "Can I download bulk data from the government?",
-   "answer": "No bulk facility exists. Bulk is available from **our** Hugging Face mirrors.",
-   "status": "partial"
+   "question": "Can I download bulk data from the government?",
+   "grade": "🟡",
+   "answer": "No bulk facility exists. Bulk is available from **our** Hugging Face mirrors."
   },
   {
    "id": 63,
    "section": "F. Open data and public access",
-   "q": "What license governs the government's data?",
-   "answer": "None published. Our release carries CC BY 4.0 on our arrangements; we claim no rights over the facts.",
-   "status": "unknown"
+   "question": "What license governs the government's data?",
+   "grade": "❌",
+   "answer": "None published. Our release carries CC BY 4.0 on our arrangements; we claim no rights over the facts."
   },
   {
    "id": 64,
    "section": "F. Open data and public access",
-   "q": "Is there an API?",
-   "answer": "An undocumented GeoServer + ~60 AJAX endpoints exist; the only \"API reference\" is our census (REPORT §3).",
-   "status": "partial"
+   "question": "Is there an API?",
+   "grade": "🟡",
+   "answer": "An undocumented GeoServer + ~60 AJAX endpoints exist; the only \"API reference\" is our census (REPORT §3)."
   },
   {
    "id": 65,
    "section": "F. Open data and public access",
-   "q": "Did you hack the system?",
-   "answer": "No. Read-only requests, identical to what the public website's own browser session issues. No logins, no bypassing.",
-   "status": "answered"
+   "question": "Did you hack the system?",
+   "grade": "✅",
+   "answer": "No. Read-only requests, identical to what the public website's own browser session issues. No logins, no bypassing."
   },
   {
    "id": 66,
    "section": "F. Open data and public access",
-   "q": "Is what you did legal?",
-   "answer": "Raw telemetry isn't copyrightable; NDSAP 2012 makes this class of data open by default; §52 fair dealing covers research/reporting (REPORT §6, ELI10 §9).",
-   "status": "answered"
+   "question": "Is what you did legal?",
+   "grade": "✅",
+   "answer": "Raw telemetry isn't copyrightable; NDSAP 2012 makes this class of data open by default; §52 fair dealing covers research/reporting (REPORT §6, ELI10 §9)."
   },
   {
    "id": 67,
    "section": "F. Open data and public access",
-   "q": "Where do I get your data?",
-   "answer": "Hugging Face: `CashlessConsumer/chennai-flood-monitor-transactions`, `chennaidss-gis-layers`, `chennai-flood-history`, `chennai-flood-bulletins`, `chennai-rain-gauges`.",
-   "status": "answered"
+   "question": "Where do I get your data?",
+   "grade": "✅",
+   "answer": "Hugging Face: `CashlessConsumer/chennai-flood-monitor-transactions`, `chennaidss-gis-layers`, `chennai-flood-history`, `chennai-flood-bulletins`, `chennai-rain-gauges`."
   },
   {
    "id": 68,
    "section": "F. Open data and public access",
-   "q": "What formats?",
-   "answer": "Parquet/GeoParquet — one-line DuckDB queries; GeoJSON source dumps also on disk.",
-   "status": "answered"
+   "question": "What formats?",
+   "grade": "✅",
+   "answer": "Parquet/GeoParquet — one-line DuckDB queries; GeoJSON source dumps also on disk."
   },
   {
    "id": 69,
    "section": "F. Open data and public access",
-   "q": "Is personal data in your release?",
-   "answer": "Scrubbed: officer names, SIM/mobile columns, citizen usernames removed (DATA-CATALOGUE §1, gis-layers README).",
-   "status": "answered"
+   "question": "Is personal data in your release?",
+   "grade": "✅",
+   "answer": "Scrubbed: officer names, SIM/mobile columns, citizen usernames removed (DATA-CATALOGUE §1, gis-layers README)."
   },
   {
    "id": 70,
    "section": "F. Open data and public access",
-   "q": "Could the government switch the leak off?",
-   "answer": "Yes — and that's F1's warning. Our annual re-mirror and the public release are the hedge.",
-   "status": "partial"
+   "question": "Could the government switch the leak off?",
+   "grade": "🟡",
+   "answer": "Yes — and that's F1's warning. Our annual re-mirror and the public release are the hedge."
   },
   {
    "id": 71,
    "section": "F. Open data and public access",
-   "q": "Why does open data matter for a flood?",
-   "answer": "Because independent verification, third-party apps, journalism, and research all need it. A warning you can't independently check is a rumour with a logo.",
-   "status": "answered"
+   "question": "Why does open data matter for a flood?",
+   "grade": "✅",
+   "answer": "Because independent verification, third-party apps, journalism, and research all need it. A warning you can't independently check is a rumour with a logo."
   },
   {
    "id": 72,
    "section": "F. Open data and public access",
-   "q": "What's a GeoServer?",
-   "answer": "Standard open-source map-data server software; the pretty website is a skin over it.",
-   "status": "answered"
+   "question": "What's a GeoServer?",
+   "grade": "✅",
+   "answer": "Standard open-source map-data server software; the pretty website is a skin over it."
   },
   {
    "id": 73,
    "section": "F. Open data and public access",
-   "q": "What are the 344 layers, in groups?",
-   "answer": "DATA-CATALOGUE §3: transactions (13), station registries (31), water (34), drainage (8), boundaries (24), wards/crowd/alerts (8), flood history (9), forecast surfaces (37), misc bulletin wrappers (35).",
-   "status": "answered"
+   "question": "What are the 344 layers, in groups?",
+   "grade": "✅",
+   "answer": "DATA-CATALOGUE §3: transactions (13), station registries (31), water (34), drainage (8), boundaries (24), wards/crowd/alerts (8), flood history (9), forecast surfaces (37), misc bulletin wrappers (35)."
   },
   {
    "id": 74,
    "section": "F. Open data and public access",
-   "q": "Has anything changed since you mirrored?",
-   "answer": "Re-census 2026-10-03: still exactly 344 layers, zero added/removed (DATA-CATALOGUE §1). ---",
-   "status": "answered"
+   "question": "Has anything changed since you mirrored?",
+   "grade": "✅",
+   "answer": "Re-census 2026-10-03: still exactly 344 layers, zero added/removed (DATA-CATALOGUE §1). ---"
   },
   {
    "id": 75,
    "section": "G. The forecasts themselves",
-   "q": "Does it really give 3-day street-level warnings?",
-   "answer": "The design says so and the Oct-2025 bulletins (image PDFs) show street-flood maps for the activation window. Publicly verifiable, continuously? No (F4/F5).",
-   "status": "partial"
+   "question": "Does it really give 3-day street-level warnings?",
+   "grade": "🟡",
+   "answer": "The design says so and the Oct-2025 bulletins (image PDFs) show street-flood maps for the activation window. Publicly verifiable, continuously? No (F4/F5)."
   },
   {
    "id": 76,
    "section": "G. The forecasts themselves",
-   "q": "How far ahead does it look?",
-   "answer": "72 hours — five weather models fused with real-time sensor data.",
-   "status": "answered"
+   "question": "How far ahead does it look?",
+   "grade": "✅",
+   "answer": "72 hours — five weather models fused with real-time sensor data."
   },
   {
    "id": 77,
    "section": "G. The forecasts themselves",
-   "q": "Which weather models does it fuse?",
-   "answer": "ECMWF, NCEP-GFS, UKMet, IMD-GFS and NCMRWF ensembles (AboutUs).",
-   "status": "answered"
+   "question": "Which weather models does it fuse?",
+   "grade": "✅",
+   "answer": "ECMWF, NCEP-GFS, UKMet, IMD-GFS and NCMRWF ensembles (AboutUs)."
   },
   {
    "id": 78,
    "section": "G. The forecasts themselves",
-   "q": "What's an \"ensemble\"?",
-   "answer": "The same model run many ways (P25…P95 percentiles) — a range, not a single number.",
-   "status": "answered"
+   "question": "What's an \"ensemble\"?",
+   "grade": "✅",
+   "answer": "The same model run many ways (P25…P95 percentiles) — a range, not a single number."
   },
   {
    "id": 79,
    "section": "G. The forecasts themselves",
-   "q": "Are the forecasts saved anywhere?",
-   "answer": "**No archive exists.** The single most damning gap (F5). Forecast side must be captured activation-by-activation going forward.",
-   "status": "unknown"
+   "question": "Are the forecasts saved anywhere?",
+   "grade": "❌",
+   "answer": "**No archive exists.** The single most damning gap (F5). Forecast side must be captured activation-by-activation going forward."
   },
   {
    "id": 80,
    "section": "G. The forecasts themselves",
-   "q": "So how accurate is it?",
-   "answer": "No public forecast-vs-observed record exists — the ₹107-crore question with no public answer (F5).",
-   "status": "unknown"
+   "question": "So how accurate is it?",
+   "grade": "❌",
+   "answer": "No public forecast-vs-observed record exists — the ₹107-crore question with no public answer (F5)."
   },
   {
    "id": 81,
    "section": "G. The forecasts themselves",
-   "q": "Which areas get street-level forecasts?",
-   "answer": "Named vulnerable zones: Pulianthope, Nungambakkam, Mambalam, Saidapet, Velachery, Meenambakkam, Mudichur.",
-   "status": "answered"
+   "question": "Which areas get street-level forecasts?",
+   "grade": "✅",
+   "answer": "Named vulnerable zones: Pulianthope, Nungambakkam, Mambalam, Saidapet, Velachery, Meenambakkam, Mudichur."
   },
   {
    "id": 82,
    "section": "G. The forecasts themselves",
-   "q": "What about my ward specifically?",
-   "answer": "The only public ward-depth layer is **static, stamped 11 Aug 2021** (F4) — a five-monsoon-old scenario, not a live forecast.",
-   "status": "partial"
+   "question": "What about my ward specifically?",
+   "grade": "🟡",
+   "answer": "The only public ward-depth layer is **static, stamped 11 Aug 2021** (F4) — a five-monsoon-old scenario, not a live forecast."
   },
   {
    "id": 83,
    "section": "G. The forecasts themselves",
-   "q": "What is LoGS?",
-   "answer": "Lake & Reservoir Operation Guidance System — advises WRD on shutter releases to reduce peaks while saving drinking water.",
-   "status": "answered"
+   "question": "What is LoGS?",
+   "grade": "✅",
+   "answer": "Lake & Reservoir Operation Guidance System — advises WRD on shutter releases to reduce peaks while saving drinking water."
   },
   {
    "id": 84,
    "section": "G. The forecasts themselves",
-   "q": "Does it model storm-water drains?",
-   "answer": "The SWD network is a model input (GIS layer in our mirror). But drains must physically work — a model can't desilt.",
-   "status": "answered"
+   "question": "Does it model storm-water drains?",
+   "grade": "✅",
+   "answer": "The SWD network is a model input (GIS layer in our mirror). But drains must physically work — a model can't desilt."
   },
   {
    "id": 85,
    "section": "G. The forecasts themselves",
-   "q": "Can I see an actual sample forecast?",
-   "answer": "Yes — all 7 bulletins are on Hugging Face (`chennai-flood-bulletins`), incl. B5.0 Street Flood Inundation (ECMWF P75).",
-   "status": "answered"
+   "question": "Can I see an actual sample forecast?",
+   "grade": "✅",
+   "answer": "Yes — all 7 bulletins are on Hugging Face (`chennai-flood-bulletins`), incl. B5.0 Street Flood Inundation (ECMWF P75)."
   },
   {
    "id": 86,
    "section": "G. The forecasts themselves",
-   "q": "Why are bulletins image-only PDFs?",
-   "answer": "Never explained; it makes machine verification impossible. Recommendation: publish data, not pictures.",
-   "status": "unknown"
+   "question": "Why are bulletins image-only PDFs?",
+   "grade": "❌",
+   "answer": "Never explained; it makes machine verification impossible. Recommendation: publish data, not pictures."
   },
   {
    "id": 87,
    "section": "G. The forecasts themselves",
-   "q": "Did the IIT-M research model actually get used?",
-   "answer": "Citizen Matters reports IIT-M's 4-km, 7-ensemble model is integrated and daily forecasts go to GCC/WRD; independent accuracy checks don't exist publicly.",
-   "status": "partial"
+   "question": "Did the IIT-M research model actually get used?",
+   "grade": "🟡",
+   "answer": "Citizen Matters reports IIT-M's 4-km, 7-ensemble model is integrated and daily forecasts go to GCC/WRD; independent accuracy checks don't exist publicly."
   },
   {
    "id": 88,
    "section": "G. The forecasts themselves",
-   "q": "Is there a floodplain map I can use?",
-   "answer": "2D model areas, bathymetry, contours are in our GIS mirror — the model's own working surfaces. ---",
-   "status": "answered"
+   "question": "Is there a floodplain map I can use?",
+   "grade": "✅",
+   "answer": "There is no official published floodplain map for Chennai. The closest thing in the public domain is the model's own working surfaces, which we mirror: `floodforecast_2d_outputarea` (where the 2D model runs), bathymetry, contours, ward depth min/max — on Hugging Face as `CashlessConsumer/chennaidss-gis-layers` (GeoParquet: download a file, drag it into QGIS via Layer → Add Vector Layer). Caveat: these are model inputs and scenario outputs, not an endorsed hazard map — read them as \"what the model assumes,\" not \"where water will go.\""
   },
   {
    "id": 89,
    "section": "H. Alerts and warning delivery",
-   "q": "How would I personally get warned?",
-   "answer": "Three routes today: press bulletins during activations, the TN-Alert mobile app, and TNSMART for departments. No SMS/RSS/API spec is public.",
-   "status": "answered"
+   "question": "How would I personally get warned?",
+   "grade": "✅",
+   "answer": "Three routes today: press bulletins during activations, the TN-Alert mobile app, and TNSMART for departments. No SMS/RSS/API spec is public."
   },
   {
    "id": 90,
    "section": "H. Alerts and warning delivery",
-   "q": "Is there an SMS blast?",
-   "answer": "No public spec or evidence.",
-   "status": "unknown"
+   "question": "Is there an SMS blast?",
+   "grade": "❌",
+   "answer": "We checked the portal (no SMS gateway doc), the bulletins (no dissemination annex), and the alert API (`GetPublishAlert` — 0 rows on every check since 2026-09-29). Coverage of TN-Alert mentions SMS as a channel during activations, but no protocol, no aggregation stats, no opt-out is published. What SMS actually fires, to whom, on what thresholds: RTI the SEOC's alert-dissemination SOP (TNSDMA). Until then \"SMS blast\" is a press word, not a documented channel."
   },
   {
    "id": 91,
    "section": "H. Alerts and warning delivery",
-   "q": "Does TN-Alert cost me anything?",
-   "answer": "App is free; the data cost is yours — a small but real equity point.",
-   "status": "partial"
+   "question": "Does TN-Alert cost me anything?",
+   "grade": "🟡",
+   "answer": "App is free; the data cost is yours — a small but real equity point."
   },
   {
    "id": 92,
    "section": "H. Alerts and warning delivery",
-   "q": "Does the public alert feed work?",
-   "answer": "It has returned **zero rows on every check** (F6).",
-   "status": "answered"
+   "question": "Does the public alert feed work?",
+   "grade": "✅",
+   "answer": "It has returned **zero rows on every check** (F6)."
   },
   {
    "id": 93,
    "section": "H. Alerts and warning delivery",
-   "q": "What's \"alert equity\"?",
-   "answer": "If the only channel is one app you must have installed and open, the poorest, least-connected, most flood-exposed residents are the least served.",
-   "status": "answered"
+   "question": "What's \"alert equity\"?",
+   "grade": "✅",
+   "answer": "If the only channel is one app you must have installed and open, the poorest, least-connected, most flood-exposed residents are the least served."
   },
   {
    "id": 94,
    "section": "H. Alerts and warning delivery",
-   "q": "Will I actually get a warning three days early?",
-   "answer": "Unverifiable — and during Ditwah (Dec 2025) not one media reference credited this system with any warning reaching anyone (MEDIA-CLAIMS pattern 2).",
-   "status": "unknown"
+   "question": "Will I actually get a warning three days early?",
+   "grade": "❌",
+   "answer": "Unverifiable — and during Ditwah (Dec 2025) not one media reference credited this system with any warning reaching anyone (MEDIA-CLAIMS pattern 2)."
   },
   {
    "id": 95,
    "section": "H. Alerts and warning delivery",
-   "q": "Do school closures come from this system?",
-   "answer": "No — collectors act on IMD alerts; RTFF wasn't visibly in that chain in Dec 2025.",
-   "status": "partial"
+   "question": "Do school closures come from this system?",
+   "grade": "🟡",
+   "answer": "No — collectors act on IMD alerts; RTFF wasn't visibly in that chain in Dec 2025."
   },
   {
    "id": 96,
    "section": "H. Alerts and warning delivery",
-   "q": "Do elderly/disabled residents get targeted alerts?",
-   "answer": "No evidence of any differentiated-alert design.",
-   "status": "unknown"
+   "question": "Do elderly/disabled residents get targeted alerts?",
+   "grade": "❌",
+   "answer": "No evidence of any differentiated-alert design."
   },
   {
    "id": 97,
    "section": "H. Alerts and warning delivery",
-   "q": "Are alerts in Tamil?",
-   "answer": "TN-Alert is claimed multilingual; the bulletins are English-only PDFs.",
-   "status": "partial"
+   "question": "Are alerts in Tamil?",
+   "grade": "🟡",
+   "answer": "TN-Alert is claimed multilingual; the bulletins are English-only PDFs."
   },
   {
    "id": 98,
    "section": "H. Alerts and warning delivery",
-   "q": "Who decides when to issue an alert?",
-   "answer": "HMCR feeds CRA/departments via TNSMART; the SOP and sign-off chain are not public.",
-   "status": "partial"
+   "question": "Who decides when to issue an alert?",
+   "grade": "🟡",
+   "answer": "HMCR feeds CRA/departments via TNSMART; the SOP and sign-off chain are not public."
   },
   {
    "id": 99,
    "section": "H. Alerts and warning delivery",
-   "q": "Can I subscribe to alerts myself?",
-   "answer": "No public subscription mechanism exists. ---",
-   "status": "unknown"
+   "question": "Can I subscribe to alerts myself?",
+   "grade": "❌",
+   "answer": "No. We checked every surface: the portal has no subscribe button or feed; the alert API returns empty; bulletins go to the press, not to you; TN-Alert is push-only during activations and not installable as a subscription to your street. The closest thing to a subscription today is following the local press. RTI target: whether a public-subscription mechanism exists in the dissemination SOP — and if not, why ₹107 crore built no citizen channel."
   },
   {
    "id": 100,
    "section": "I. How it did in real storms",
-   "q": "Did it work in the Dec 2025 Ditwah flood?",
-   "answer": "As a *recorder*: yes — citizen level-6 report at Puzhal, bridge sensors peaking (Aminjikarai 7.705 m, Manali 2.501 m), all consistent with press (F8). As a *forecaster*: unverifiable (F5).",
-   "status": "answered"
+   "question": "Did it work in the Dec 2025 Ditwah flood?",
+   "grade": "✅",
+   "answer": "As a *recorder*: yes — citizen level-6 report at Puzhal, bridge sensors peaking (Aminjikarai 7.705 m, Manali 2.501 m), all consistent with press (F8). As a *forecaster*: unverifiable (F5)."
   },
   {
    "id": 101,
    "section": "I. How it did in real storms",
-   "q": "And Michaung (Dec 2023)?",
-   "answer": "System was in pilot/operational transition; our predecessor mirror holds the full 639 mm event; no public forecast scorecard exists.",
-   "status": "partial"
+   "question": "And Michaung (Dec 2023)?",
+   "grade": "🟡",
+   "answer": "System was in pilot/operational transition; our predecessor mirror holds the full 639 mm event; no public forecast scorecard exists."
   },
   {
    "id": 102,
    "section": "I. How it did in real storms",
-   "q": "NEM 2022?",
-   "answer": "\"Operationalized\" per the Current Science paper; no public evaluation was ever published.",
-   "status": "partial"
+   "question": "NEM 2022?",
+   "grade": "🟡",
+   "answer": "\"Operationalized\" per the Current Science paper; no public evaluation was ever published."
   },
   {
    "id": 103,
    "section": "I. How it did in real storms",
-   "q": "What about 2015?",
-   "answer": "The system didn't exist; the flood maps (NRSC, 4,001 polygons) that justify it are in our mirror.",
-   "status": "answered"
+   "question": "What about 2015?",
+   "grade": "✅",
+   "answer": "The system didn't exist; the flood maps (NRSC, 4,001 polygons) that justify it are in our mirror."
   },
   {
    "id": 104,
    "section": "I. How it did in real storms",
-   "q": "Is it working in NEM 2026 right now?",
-   "answer": "Our probes run monthly; a forecast scorecard within 7 days of every activation is the standing protocol (ELI10 §10).",
-   "status": "answered"
+   "question": "Is it working in NEM 2026 right now?",
+   "grade": "🟡",
+   "answer": "As of 2026-10-04: the Northeast Monsoon has set in over TN; our latest probes show the server up, the dashboard live, the alert API still empty, and **no activation bulletins published for NEM 2026 yet**. The system's documented operating pattern is activation-based — models run when the state switches them on (historically: Oct–Dec). First activation of the season, we publish a forecast scorecard within 7 days against our gauge mirror; that protocol is in the media register, not a promise to ourselves alone."
   },
   {
    "id": 105,
    "section": "I. How it did in real storms",
-   "q": "Why has no scorecard ever been published?",
-   "answer": "No archive culture exists inside the system — F5. Scorecards need the forecast side; the system throws it away.",
-   "status": "unknown"
+   "question": "Why has no scorecard ever been published?",
+   "grade": "❌",
+   "answer": "No archive culture exists inside the system — F5. Scorecards need the forecast side; the system throws it away."
   },
   {
    "id": 106,
    "section": "I. How it did in real storms",
-   "q": "Did warnings reach Velachery in Dec 2025?",
-   "answer": "Unknowable from any public record. **RTI target:** activation logs + dissemination records.",
-   "status": "unknown"
+   "question": "Did warnings reach Velachery in Dec 2025?",
+   "grade": "❌",
+   "answer": "Unknowable from any public record. **RTI target:** activation logs + dissemination records."
   },
   {
    "id": 107,
    "section": "I. How it did in real storms",
-   "q": "What about Red Hills (Puzhal) shutters?",
-   "answer": "Opened for the sixth time that season in early Dec 2025; the system's sensors recorded the levels (REPORT §1, F8).",
-   "status": "answered"
+   "question": "What about Red Hills (Puzhal) shutters?",
+   "grade": "✅",
+   "answer": "Opened for the sixth time that season in early Dec 2025; the system's sensors recorded the levels (REPORT §1, F8)."
   },
   {
    "id": 108,
    "section": "I. How it did in real storms",
-   "q": "Did any forecast demonstrably save a life?",
-   "answer": "Answer: **zero verified references** across 27 media entries (MEDIA-CLAIMS pattern 1). Not proof of failure — proof of no evidence.",
-   "status": "answered"
+   "question": "Did any forecast demonstrably save a life?",
+   "grade": "✅",
+   "answer": "Answer: **zero verified references** across 27 media entries (MEDIA-CLAIMS pattern 1). Not proof of failure — proof of no evidence."
   },
   {
    "id": 109,
    "section": "I. How it did in real storms",
-   "q": "Was Ennore's 56 cm in 3 days forecast?",
-   "answer": "No archive to check against. This question is exactly why F5 matters.",
-   "status": "unknown"
+   "question": "Was Ennore's 56 cm in 3 days forecast?",
+   "grade": "❌",
+   "answer": "No archive exists to check against — that is F5. But our mirror sharpens the question into something worse: the archived model runs and bulletins for the 2025 activation **stop on 2025-12-02**; Ditwah's remnant peaked Dec 3–5 (Ennore's 56 cm, Red Hills shutters, the level-6 citizen report of Dec 4). On the public record, the system was not demonstrably running forecasts during the season's biggest event — either the models weren't run, or the runs weren't published. Both possibilities are failures of different kinds."
   },
   {
    "id": 110,
    "section": "I. How it did in real storms",
-   "q": "How fresh is the water-level data during storms?",
-   "answer": "AWLR runs near-live (to Aug 2026 in our pull); ARG open feed is stale to 2022 (F3) — the picture is per-sensor-type.",
-   "status": "partial"
+   "question": "How fresh is the water-level data during storms?",
+   "grade": "🟡",
+   "answer": "AWLR runs near-live (to Aug 2026 in our pull); ARG open feed is stale to 2022 (F3) — the picture is per-sensor-type."
   },
   {
    "id": 111,
    "section": "I. How it did in real storms",
-   "q": "Who got the credit in the press during Ditwah?",
-   "answer": "IMD/RMC, CWC, district collectors, GCC's separate ICCC/EWS — not RTFF (MEDIA-CLAIMS entries 17–18).",
-   "status": "answered"
+   "question": "Who got the credit in the press during Ditwah?",
+   "grade": "✅",
+   "answer": "IMD/RMC, CWC, district collectors, GCC's separate ICCC/EWS — not RTFF (MEDIA-CLAIMS entries 17–18)."
   },
   {
    "id": 112,
    "section": "I. How it did in real storms",
-   "q": "What did the control room actually do during Ditwah?",
-   "answer": "No public log. **RTI target:** HMCR activation log, Dec 2025.",
-   "status": "unknown"
+   "question": "What did the control room actually do during Ditwah?",
+   "grade": "❌",
+   "answer": "No public log. **RTI target:** HMCR activation log, Dec 2025."
   },
   {
    "id": 113,
    "section": "I. How it did in real storms",
-   "q": "Could I have compared forecast vs rainfall myself last December?",
-   "answer": "No — no forecast archive. From NEM 2026 onward, our scorecards will make that possible.",
-   "status": "unknown"
+   "question": "Could I have compared forecast vs rainfall myself last December?",
+   "grade": "❌",
+   "answer": "No — no forecast archive. From NEM 2026 onward, our scorecards will make that possible."
   },
   {
    "id": 114,
    "section": "I. How it did in real storms",
-   "q": "Has the system ever been wrong in public?",
-   "answer": "No public record of any forecast — so also no record of any miss. Silence isn't accuracy.",
-   "status": "partial"
+   "question": "Has the system ever been wrong in public?",
+   "grade": "🟡",
+   "answer": "No public record of any forecast — so also no record of any miss. Silence isn't accuracy."
   },
   {
    "id": 115,
    "section": "I. How it did in real storms",
-   "q": "What's the first storm where a public scorecard is possible?",
-   "answer": "NEM 2026 — if activations occur, we publish within 7 days. ---",
-   "status": "answered"
+   "question": "What's the first storm where a public scorecard is possible?",
+   "grade": "✅",
+   "answer": "NEM 2026 — if activations occur, we publish within 7 days. ---"
   },
   {
    "id": 116,
    "section": "J. Maintenance and operations",
-   "q": "Who staffs the control room?",
-   "answer": "CRA/TNDRRA officers + SECON-JBA (handholding); actual staffing rosters are not public.",
-   "status": "partial"
+   "question": "Who staffs the control room?",
+   "grade": "🟡",
+   "answer": "CRA/TNDRRA officers + SECON-JBA (handholding); actual staffing rosters are not public."
   },
   {
    "id": 117,
    "section": "J. Maintenance and operations",
-   "q": "What is this \"handholding phase\"?",
-   "answer": "WB-funded supervisory consultancy for the RTFF project ($0.10M line in TNCRUDP plans) — aftercare bought from the Bank, years after \"operational\".",
-   "status": "answered"
+   "question": "What is this \"handholding phase\"?",
+   "grade": "✅",
+   "answer": "WB-funded supervisory consultancy for the RTFF project ($0.10M line in TNCRUDP plans) — aftercare bought from the Bank, years after \"operational\"."
   },
   {
    "id": 118,
    "section": "J. Maintenance and operations",
-   "q": "Is the system dependent on consultants forever?",
-   "answer": "The structure suggests yes (consultant-run activations + AMCs + handholding); no public exit/capacity-transfer plan exists.",
-   "status": "partial"
+   "question": "Is the system dependent on consultants forever?",
+   "grade": "🟡",
+   "answer": "The structure suggests yes (consultant-run activations + AMCs + handholding); no public exit/capacity-transfer plan exists."
   },
   {
    "id": 119,
    "section": "J. Maintenance and operations",
-   "q": "What's an AMC?",
-   "answer": "Annual Maintenance Contract — the vendor keeps sensors/software alive; expiry dates live in the registries we mirrored.",
-   "status": "answered"
+   "question": "What's an AMC?",
+   "grade": "✅",
+   "answer": "Annual Maintenance Contract — the vendor keeps sensors/software alive; expiry dates live in the registries we mirrored."
   },
   {
    "id": 120,
    "section": "J. Maintenance and operations",
-   "q": "How many stations have an active AMC?",
-   "answer": "66 flagged `isamc=true`; expiry populated for only ~6 — calendar unknown (F10).",
-   "status": "partial"
+   "question": "How many stations have an active AMC?",
+   "grade": "🟡",
+   "answer": "66 flagged `isamc=true`; expiry populated for only ~6 — calendar unknown (F10)."
   },
   {
    "id": 121,
    "section": "J. Maintenance and operations",
-   "q": "What does maintenance cost per year?",
-   "answer": "RTI target: AMC payment records (TNUIFSL/WRD).",
-   "status": "unknown"
+   "question": "What does maintenance cost per year?",
+   "grade": "❌",
+   "answer": "No figure is published anywhere — no O&M line, no AMC schedule, no payment records. Two public anchors size the gap: GCC's entire 2026 monsoon-preparedness budget (desilting, pumps, ward works) is ₹100 crore — i.e., the state spends about one RTFF per year keeping the drains flowing — and the ₹0.10M/yr handholding line the World Bank still buys. The RTI (queued in our batch, not yet filed): AMC payment records and O&M budget lines from TNUIFSL and WRD since 2021."
   },
   {
    "id": 122,
    "section": "J. Maintenance and operations",
-   "q": "Who pays when the PDGF grant ends?",
-   "answer": "Unresolved — likely TNCRUDP, but no public commitment. The \"operating money unresolved at both ends\" point (REPORT §5.5).",
-   "status": "unknown"
+   "question": "Who pays when the PDGF grant ends?",
+   "grade": "❌",
+   "answer": "Unresolved — likely TNCRUDP, but no public commitment. The \"operating money unresolved at both ends\" point (REPORT §5.5)."
   },
   {
    "id": 123,
    "section": "J. Maintenance and operations",
-   "q": "Is there a backup data centre?",
-   "answer": "A Nearline Disaster Recovery Centre at WRD Chepauk is described on the portal.",
-   "status": "answered"
+   "question": "Is there a backup data centre?",
+   "grade": "✅",
+   "answer": "A Nearline Disaster Recovery Centre at WRD Chepauk is described on the portal."
   },
   {
    "id": 124,
    "section": "J. Maintenance and operations",
-   "q": "Is there a public operations manual?",
-   "answer": "No SOP published — recommendation-grade gap.",
-   "status": "unknown"
+   "question": "Is there a public operations manual?",
+   "grade": "❌",
+   "answer": "No SOP published — recommendation-grade gap."
   },
   {
    "id": 125,
    "section": "J. Maintenance and operations",
-   "q": "What happens during a power/network failure in a cyclone?",
-   "answer": "No public redundancy/continuity spec. ---",
-   "status": "unknown"
+   "question": "What happens during a power/network failure in a cyclone?",
+   "grade": "❌",
+   "answer": "No public continuity spec exists — we searched the portal, documentation (nil), and press. What the mirror implies: station telemetry rides GSM SIM fields in the registries (cellular-dependent), with no satellite-telemetry markers; cyclones take out exactly power and cell towers. NDMA norms expect generator/satphone backups at control rooms, but nothing published says this system has them. Stated plainly: our telemetry-degrades-in-cyclone conclusion is an inference from the registry, not a documented finding. RTI: the system's disaster-continuity plan."
   },
   {
    "id": 126,
    "section": "K. Governance and oversight",
-   "q": "If it fails, who is answerable?",
-   "answer": "CRA overall supervision per official structure; no published SLA, no named accountable officer.",
-   "status": "partial"
+   "question": "If it fails, who is answerable?",
+   "grade": "🟡",
+   "answer": "CRA overall supervision per official structure; no published SLA, no named accountable officer."
   },
   {
    "id": 127,
    "section": "K. Governance and oversight",
-   "q": "What is TNDRRA?",
-   "answer": "TN Disaster Risk Reduction Agency under the Commissionerate of Revenue Administration — the HMCR's home.",
-   "status": "answered"
+   "question": "What is TNDRRA?",
+   "grade": "✅",
+   "answer": "TN Disaster Risk Reduction Agency under the Commissionerate of Revenue Administration — the HMCR's home."
   },
   {
    "id": 128,
    "section": "K. Governance and oversight",
-   "q": "Does the elected council or MLAs oversee it?",
-   "answer": "No visible elected oversight anywhere in the public record.",
-   "status": "unknown"
+   "question": "Does the elected council or MLAs oversee it?",
+   "grade": "❌",
+   "answer": "No visible elected oversight anywhere in the public record."
   },
   {
    "id": 129,
    "section": "K. Governance and oversight",
-   "q": "What is the Advisory Committee?",
-   "answer": "Expert committee (IIT-M, IIT-B, NRSC, Anna University, NDMA-linked) formed 21 Jun 2021; its minutes are not public.",
-   "status": "answered"
+   "question": "What is the Advisory Committee?",
+   "grade": "✅",
+   "answer": "Expert committee (IIT-M, IIT-B, NRSC, Anna University, NDMA-linked) formed 21 Jun 2021; its minutes are not public."
   },
   {
    "id": 130,
    "section": "K. Governance and oversight",
-   "q": "Is there a citizens' representative on it?",
-   "answer": "None in any published membership list we've seen.",
-   "status": "unknown"
+   "question": "Is there a citizens' representative on it?",
+   "grade": "❌",
+   "answer": "None in any published membership list we've seen."
   },
   {
    "id": 131,
    "section": "K. Governance and oversight",
-   "q": "Has CAG looked at it?",
-   "answer": "No public audit of this line exists. **Ask** for a performance audit.",
-   "status": "unknown"
+   "question": "Has CAG looked at it?",
+   "grade": "❌",
+   "answer": "No public audit of this line exists. **Ask** for a performance audit."
   },
   {
    "id": 132,
    "section": "K. Governance and oversight",
-   "q": "Is it under RTI?",
-   "answer": "Yes — CRA, WRD, TNUIFSL and GCC are public authorities; our §5.6 lists the targets.",
-   "status": "answered"
+   "question": "Is it under RTI?",
+   "grade": "✅",
+   "answer": "Yes — CRA, WRD, TNUIFSL and GCC are public authorities; our §5.6 lists the targets."
   },
   {
    "id": 133,
    "section": "K. Governance and oversight",
-   "q": "Whose budget line does it sit under?",
-   "answer": "WRD/PDGF/TNUIFSL mix; the exact ledger split is not public.",
-   "status": "partial"
+   "question": "Whose budget line does it sit under?",
+   "grade": "🟡",
+   "answer": "WRD/PDGF/TNUIFSL mix; the exact ledger split is not public."
   },
   {
    "id": 134,
    "section": "K. Governance and oversight",
-   "q": "What happens when the government changes?",
-   "answer": "Unknown — but the 2026 IFMC announcement suggests institutional memory survives via re-announcements, not via records.",
-   "status": "partial"
+   "question": "What happens when the government changes?",
+   "grade": "🟡",
+   "answer": "Unknown — but the 2026 IFMC announcement suggests institutional memory survives via re-announcements, not via records."
   },
   {
    "id": 135,
    "section": "K. Governance and oversight",
-   "q": "Is there any legislative committee on urban flooding?",
-   "answer": "Not in our sweep. (One for Assembly-watch.) ---",
-   "status": "unknown"
+   "question": "Is there any legislative committee on urban flooding?",
+   "grade": "🟡",
+   "answer": "Sweep scope: our 200-item media corpus (2019–2026) and Assembly business as reported — no standing committee on urban flooding exists; the subject surfaces only in annual pre-monsoon reviews (departments, not legislators) and post-flood debates. Contrast: Kerala and Mumbai have had standing legislative or judicial follow-up on urban flooding; Tamil Nadu has press and officials. A full Assembly Q&A sweep (starred/unstarred, 2021–2026) is queued before the public report."
   },
   {
    "id": 136,
    "section": "L. The old website and institutional memory",
-   "q": "Was there an earlier website?",
-   "answer": "`chennaifloodsdss.in` — same system, first web face, live by the 2021 pilot, footer \"Developed and Maintained by SECON & JBA\".",
-   "status": "answered"
+   "question": "Was there an earlier website?",
+   "grade": "✅",
+   "answer": "`chennaifloodsdss.in` — same system, first web face, live by the 2021 pilot, footer \"Developed and Maintained by SECON & JBA\"."
   },
   {
    "id": 137,
    "section": "L. The old website and institutional memory",
-   "q": "Why did it die?",
-   "answer": "Quiet migration to the gov domain in 2025; domain now NXDOMAIN; no redirect, no notice, no archive notice (F9).",
-   "status": "partial"
+   "question": "Why did it die?",
+   "grade": "🟡",
+   "answer": "Quiet migration to the gov domain in 2025; domain now NXDOMAIN; no redirect, no notice, no archive notice (F9)."
   },
   {
    "id": 138,
    "section": "L. The old website and institutional memory",
-   "q": "Where did its data go?",
-   "answer": "Officially: nowhere. Practically: into our Dec-2023 mirror — 34,050 gauge readings incl. the full Michaung event.",
-   "status": "answered"
+   "question": "Where did its data go?",
+   "grade": "✅",
+   "answer": "Officially: nowhere. Practically: into our Dec-2023 mirror — 34,050 gauge readings incl. the full Michaung event."
   },
   {
    "id": 139,
    "section": "L. The old website and institutional memory",
-   "q": "Can I still see the old site?",
-   "answer": "Partially via Wayback Machine (last capture 2025-08-31) and fully in our mirrors.",
-   "status": "answered"
+   "question": "Can I still see the old site?",
+   "grade": "✅",
+   "answer": "Partially via Wayback Machine (last capture 2025-08-31) and fully in our mirrors."
   },
   {
    "id": 140,
    "section": "L. The old website and institutional memory",
-   "q": "Is the new site better?",
-   "answer": "Same data pattern, new domain; the bulletin set grew from 0 to 7 — otherwise the gaps carry over.",
-   "status": "partial"
+   "question": "Is the new site better?",
+   "grade": "🟡",
+   "answer": "Same data pattern, new domain; the bulletin set grew from 0 to 7 — otherwise the gaps carry over."
   },
   {
    "id": 141,
    "section": "L. The old website and institutional memory",
-   "q": "What else could vanish like this?",
-   "answer": "Everything on it — which is why the project re-mirrors annually by design (ELI10 §4).",
-   "status": "partial"
+   "question": "What else could vanish like this?",
+   "grade": "✅",
+   "answer": "Everything on it, concretely: the NRSC 2015 flood extent (4,001 polygons), the IRS 2005 footprints, GCC's 2015/NEM-2020 hotspot layers, ward depth tables, and the seven Oct-2025 bulletins exist **only on this portal and our mirror**. The precedent is total: chennaifloodsdss.in died and took the predecessor record with it (F9). Nothing about the current portal — private-IP infrastructure, no archive mandate, no license — prevents the same death."
   },
   {
    "id": 142,
    "section": "L. The old website and institutional memory",
-   "q": "Could this happen to the new site too?",
-   "answer": "Yes. F9 is a pattern, not an event. ---",
-   "status": "answered"
+   "question": "Could this happen to the new site too?",
+   "grade": "✅",
+   "answer": "It already happened once in this lineage: the 2021 portal died at the 2025 domain move, and the current one runs on the same pattern (private 10.x infrastructure, no published archive, no retention policy — §2). We keep an NXDOMAIN tripwire on the domain and re-mirror annually; but the correct posture for the state is boring and cheap: an open archive and a license, so that its death wouldn't matter. Until then, our mirror is the only archive in the room."
   },
   {
    "id": 143,
    "section": "M. The 2026 IFMC (Integrated Flood Management Centre)",
-   "q": "What is the IFMC?",
-   "answer": "A new centre announced Oct 2026 (Revenue & DM secretary, at NIOT forum) promising street-level flood prediction three days ahead — focused on Chennai first.",
-   "status": "answered"
+   "question": "What is the IFMC?",
+   "grade": "✅",
+   "answer": "A new centre announced Oct 2026 (Revenue & DM secretary, at NIOT forum) promising street-level flood prediction three days ahead — focused on Chennai first."
   },
   {
    "id": 144,
    "section": "M. The 2026 IFMC (Integrated Flood Management Centre)",
-   "q": "Is it new money?",
-   "answer": "No cost stated in coverage. **Watch:** IFMC sanction/trail.",
-   "status": "unknown"
+   "question": "Is it new money?",
+   "grade": "🟡",
+   "answer": "Cost is absent from every story in our Oct 2026 corpus (The Hindu, Live Chennai, New Indian Express) — no sanction figure, no budget line, no tender value. Given the RTFF pattern (₹71 cr reported in 2022 → ₹107.2 cr at launch, no revision trail, ledger row 22), an unpriced launch is exactly when costs accrete unobserved. RTI/watch: IFMC sanction order (Finance dept) and the first hardware/software tenders on tntenders.gov.in."
   },
   {
    "id": 145,
    "section": "M. The 2026 IFMC (Integrated Flood Management Centre)",
-   "q": "Is IFMC the same as RTFF & SDSS?",
-   "answer": "The promise is verbatim RTFF's 2025 promise; the relationship (successor/expansion/rebrand) is publicly undefined.",
-   "status": "partial"
+   "question": "Is IFMC the same as RTFF & SDSS?",
+   "grade": "🟡",
+   "answer": "The promise is verbatim RTFF's 2025 promise; the relationship (successor/expansion/rebrand) is publicly undefined."
   },
   {
    "id": 146,
    "section": "M. The 2026 IFMC (Integrated Flood Management Centre)",
-   "q": "Was the earlier promise ever finished before the new one launched?",
-   "answer": "That is precisely the accountability question — one year after \"fully operational\", the same capability is being re-promised (MEDIA-CLAIMS pattern 3).",
-   "status": "answered"
+   "question": "Was the earlier promise ever finished before the new one launched?",
+   "grade": "✅",
+   "answer": "That is precisely the accountability question — one year after \"fully operational\", the same capability is being re-promised (MEDIA-CLAIMS pattern 3)."
   },
   {
    "id": 147,
    "section": "M. The 2026 IFMC (Integrated Flood Management Centre)",
-   "q": "Should residents welcome or resist IFMC?",
-   "answer": "Neither — demand the paper trail: what it adds, what it costs, and whether RTFF's gaps (F2–F7) are being fixed, not re-branded.",
-   "status": "answered"
+   "question": "Should residents welcome or resist IFMC?",
+   "grade": "✅",
+   "answer": "Neither — demand the paper trail: what it adds, what it costs, and whether RTFF's gaps (F2–F7) are being fixed, not re-branded."
   },
   {
    "id": 148,
    "section": "M. The 2026 IFMC (Integrated Flood Management Centre)",
-   "q": "Will you track it?",
-   "answer": "Yes — standing IFMC watch (ELI10 §10). ---",
-   "status": "answered"
+   "question": "Will you track it?",
+   "grade": "✅",
+   "answer": "Nobody else does — that is the finding. Our media sweep found zero follow-up practice: launch covered, performance never. No third-party monitor, no institutional scorecard, no press repurchase of the story. So yes: the bench (monthly probes, per-activation scorecards, AMC calendar), the mirror, and this review loop are the only standing accountability mechanism for ₹107.2 crore of public money. Its continuation is the point of the chapter you're reading."
   },
   {
    "id": 149,
    "section": "N. Equity: who actually gets warned",
-   "q": "Do richer areas get better warnings?",
-   "answer": "The seven named street-forecast zones span income levels; no equity analysis of alert delivery exists anywhere.",
-   "status": "partial"
+   "question": "Do richer areas get better warnings?",
+   "grade": "🟡",
+   "answer": "The seven named street-forecast zones span income levels; no equity analysis of alert delivery exists anywhere."
   },
   {
    "id": 150,
    "section": "N. Equity: who actually gets warned",
-   "q": "What about Ennore / north Chennai?",
-   "answer": "Ennore's Dec 2025 disaster was *recorded* well by the system's own layers (56 cm/3 days, level-6 report) — but warning *delivery* there is undocumented.",
-   "status": "answered"
+   "question": "What about Ennore / north Chennai?",
+   "grade": "✅",
+   "answer": "Ennore's Dec 2025 disaster was *recorded* well by the system's own layers (56 cm/3 days, level-6 report) — but warning *delivery* there is undocumented."
   },
   {
    "id": 151,
    "section": "N. Equity: who actually gets warned",
-   "q": "Peripheral flood hotspots like Mudichur?",
-   "answer": "Named in the street-forecast list; actual alert reach unknown.",
-   "status": "partial"
+   "question": "Peripheral flood hotspots like Mudichur?",
+   "grade": "🟡",
+   "answer": "Named in the street-forecast list; actual alert reach unknown."
   },
   {
    "id": 152,
    "section": "N. Equity: who actually gets warned",
-   "q": "Do resettlement-colony residents get alerts?",
-   "answer": "No evidence of targeted design.",
-   "status": "unknown"
+   "question": "Do resettlement-colony residents get alerts?",
+   "grade": "❌",
+   "answer": "No evidence of any targeted design: TN-Alert's public docs describe generic push, bulletins address officials and press, and none of the 200+ coverage items mentions resettlement-colony-specific channels (our corpus includes Kannagi Nagar-adjacent flood stories). This matters because resettlement colonies (Kannagi Nagar, Perumbakkam) sit on the city's worst-drained soils. RTI: TN-Alert registration counts by ward — if colonies aren't registered, alerts are architecturally blind there."
   },
   {
    "id": 153,
    "section": "N. Equity: who actually gets warned",
-   "q": "Is warning info available in Tamil?",
-   "answer": "Partial — app claims multilingual; the substantive bulletins are English PDFs.",
-   "status": "partial"
+   "question": "Is warning info available in Tamil?",
+   "grade": "🟡",
+   "answer": "Partial — app claims multilingual; the substantive bulletins are English PDFs."
   },
   {
    "id": 154,
    "section": "N. Equity: who actually gets warned",
-   "q": "Do tenants get warned the same as owners?",
-   "answer": "No differentiated mechanism exists.",
-   "status": "unknown"
+   "question": "Do tenants get warned the same as owners?",
+   "grade": "❌",
+   "answer": "No mechanism differentiates them — alerts ride apps, press and officials, all of which reach owners and tenants alike *if* they have smartphones and the right app. But tenant-specific vulnerability (short leases, no authority to make property-level changes, information through landlords) appears nowhere in any design document we could find. The research parallel: in Bihar's community-EWS trials, warnings reached under half of targeted households through official channels — Chennai has published nothing that would show its own number."
   },
   {
    "id": 155,
    "section": "N. Equity: who actually gets warned",
-   "q": "Are informal settlements inside the model?",
-   "answer": "Wards are; informal layouts are likely under-represented in cadastral layers — a research question we can test with the GIS mirror.",
-   "status": "partial"
+   "question": "Are informal settlements inside the model?",
+   "grade": "🟡",
+   "answer": "Wards are; informal layouts are likely under-represented in cadastral layers — a research question we can test with the GIS mirror."
   },
   {
    "id": 156,
    "section": "N. Equity: who actually gets warned",
-   "q": "Do I need a smartphone to be warned?",
-   "answer": "Effectively yes for TN-Alert — that's the digital-divide problem (alert equity, Q96–Q97).",
-   "status": "partial"
+   "question": "Do I need a smartphone to be warned?",
+   "grade": "🟡",
+   "answer": "Effectively yes for TN-Alert — that's the digital-divide problem (alert equity, Q96–Q97)."
   },
   {
    "id": 157,
    "section": "N. Equity: who actually gets warned",
-   "q": "Is there a phone hotline for flood help?",
-   "answer": "GCC's 1913 complaint line (flood); a *forecasting* hotline does not exist.",
-   "status": "answered"
+   "question": "Is there a phone hotline for flood help?",
+   "grade": "✅",
+   "answer": "GCC's 1913 complaint line (flood); a *forecasting* hotline does not exist."
   },
   {
    "id": 158,
    "section": "N. Equity: who actually gets warned",
-   "q": "Has anyone studied who received Dec-2025 warnings?",
-   "answer": "Nobody — no delivery data is public. **RTI target.** ---",
-   "status": "unknown"
+   "question": "Has anyone studied who received Dec-2025 warnings?",
+   "grade": "❌",
+   "answer": "Nobody has — no delivery data exists in public: no cell-broadcast logs, no TN-Alert download/registration counts, no alert-recipient statistics from the Dec 2025 event. The Dec 2025 record (F8) shows what the system *recorded*, not what it *delivered*. RTI targets: TN-Alert registration by ward, dissemination logs for 2025-11-30→12-06, and the SMS gateway volumes for the same week. The delivery gap is where alert equity actually lives."
   },
   {
    "id": 159,
    "section": "O. Comparisons and benchmarks",
-   "q": "How does this compare with Mumbai's CFLOWS?",
-   "answer": "CFLOWS (IIT-B for MCGM) is the usual benchmark; a cost-and-capability comparison is queued in our audit plan (B4) — no rigorous public comparison exists yet.",
-   "status": "partial"
+   "question": "How does this compare with Mumbai's CFLOWS?",
+   "grade": "🟡",
+   "answer": "CFLOWS (IIT-B for MCGM) is the usual benchmark; a cost-and-capability comparison is queued in our audit plan (B4) — no rigorous public comparison exists yet."
   },
   {
    "id": 160,
    "section": "O. Comparisons and benchmarks",
-   "q": "Kolkata?",
-   "answer": "Kolkata's early-warning system (KEWS) exists with published alerts; comparative audit pending.",
-   "status": "partial"
+   "question": "Kolkata?",
+   "grade": "🟡",
+   "answer": "Kolkata's KEWS/FFEWS — ADB-backed, positioned as \"India's first comprehensive city-level flood forecasting and early warning system\" (ADB 2018) — predates Chennai's launch claim by seven years, with published bulletins informing both city operations and residents. The comparative audit is queued; the first-cut contrast: Kolkata published an EWS concept note and bulletins Chennai never has, while Chennai's sensor density (969 registry rows, 5 NWP models) may exceed Kolkata's. Which matters more — publication or sensors — is exactly what a comparative audit would answer."
   },
   {
    "id": 161,
    "section": "O. Comparisons and benchmarks",
-   "q": "Bengaluru?",
-   "answer": "Fragmented civic alerting; no comparable integrated DSS — part of why \"first in India\" claims go unchallenged.",
-   "status": "partial"
+   "question": "Bengaluru?",
+   "grade": "🟡",
+   "answer": "Fragmented civic alerting; no comparable integrated DSS — part of why \"first in India\" claims go unchallenged."
   },
   {
    "id": 162,
    "section": "O. Comparisons and benchmarks",
-   "q": "What does global good practice look like?",
-   "answer": "Japan/UK/Netherlands: published forecast archives, open APIs, post-event verification reports as routine.",
-   "status": "answered"
+   "question": "What does global good practice look like?",
+   "grade": "✅",
+   "answer": "Japan/UK/Netherlands: published forecast archives, open APIs, post-event verification reports as routine."
   },
   {
    "id": 163,
    "section": "O. Comparisons and benchmarks",
-   "q": "Is ₹107 crore good value?",
-   "answer": "Unanswerable until verification exists — that's the honest budget position, not a slogan.",
-   "status": "partial"
+   "question": "Is ₹107 crore good value?",
+   "grade": "🟡",
+   "answer": "Unanswerable until verification exists — that's the honest budget position, not a slogan."
   },
   {
    "id": 164,
    "section": "O. Comparisons and benchmarks",
-   "q": "What else could ₹107 crore have bought?",
-   "answer": "Counterfactual framing queued (AUDIT-PLAN B4): desilted kilometres at unit rates, pump stations, gauge networks. The \"fare-hike test\" applied to data infrastructure.",
-   "status": "answered"
+   "question": "What else could ₹107 crore have bought?",
+   "grade": "✅",
+   "answer": "At GCC's own 2022–26 unit rates: ₹107 crore buys **23–56 km of new stormwater drain** (Kosasthalaiyar basin: ₹3,059 cr for 651 km ≈ ₹4.7 cr/km; Capital Fund works ≈ ₹3.9 cr/km; Arcot Road ≈ ₹5.7 cr/km; JnNURM-era ≈ ₹1.9 cr/km). It also equals Chennai's **entire annual desilting-and-monsoon-prep budget for 2026** (₹100 cr). This is not an argument that forecasting is worthless — it is the honest price tag: one forecasting system = a year of the city's drain maintenance, or a fifth of one basin's drainage network."
   },
   {
    "id": 165,
    "section": "O. Comparisons and benchmarks",
-   "q": "How many flood-forecast stations does all of India have?",
-   "answer": "CWC runs ~360 flood-forecast stations nationally (2026 preparedness conference figure) — Chennai's urban system is a different beast; comparisons need care. ---",
-   "status": "answered"
+   "question": "How many flood-forecast stations does all of India have?",
+   "grade": "✅",
+   "answer": "CWC runs ~360 flood-forecast stations nationally (2026 preparedness conference figure) — Chennai's urban system is a different beast; comparisons need care. ---"
   },
   {
    "id": 166,
    "section": "P. \"What about MY street?\" — practical questions",
-   "q": "Can I check whether my street will flood?",
-   "answer": "Only via image-PDF maps during an activation, or the static 2021 ward-depth layer. No live street query exists for the public.",
-   "status": "partial"
+   "question": "Can I check whether my street will flood?",
+   "grade": "🟡",
+   "answer": "Only via image-PDF maps during an activation, or the static 2021 ward-depth layer. No live street query exists for the public."
   },
   {
    "id": 167,
    "section": "P. \"What about MY street?\" — practical questions",
-   "q": "Where's my ward's data?",
-   "answer": "All 200 wards are in our GIS mirror (`gcc_200_wards`, ward depth min/max — noting the 2021 stamp).",
-   "status": "answered"
+   "question": "Where's my ward's data?",
+   "grade": "✅",
+   "answer": "All 200 wards are in our GIS mirror (`gcc_200_wards`, ward depth min/max — noting the 2021 stamp)."
   },
   {
    "id": 168,
    "section": "P. \"What about MY street?\" — practical questions",
-   "q": "How do I read a bulletin?",
-   "answer": "They're image PDFs; an explainer is on our list for the public page.",
-   "status": "partial"
+   "question": "How do I read a bulletin?",
+   "grade": "✅",
+   "answer": "A bulletin (image-only PDF) has six parts: 1) observed 24-h rainfall by station; 2) 3-day rainfall outlook from each NWP model for city and basins; 3) reservoir/tank levels and inflows (Chembarambakkam, Red Hills, Puzhal…); 4) river-level readings against danger marks; 5) ward-level inundation maps with colour-coded depth bands; 6) advisories. What it never has: a table of numbers you can copy (images), a forecast-vs-what-happened note, or a validity window. Our mirror holds all seven; the public explainer page will embed them side-by-side with what our gauges recorded."
   },
   {
    "id": 169,
    "section": "P. \"What about MY street?\" — practical questions",
-   "q": "My area flooded but no alert came. What do I do?",
-   "answer": "Document (photos+timestamp), complain on GCC 1913, and send us the record — evidence is how the scorecard gets built.",
-   "status": "answered"
+   "question": "My area flooded but no alert came. What do I do?",
+   "grade": "✅",
+   "answer": "Document (photos+timestamp), complain on GCC 1913, and send us the record — evidence is how the scorecard gets built."
   },
   {
    "id": 170,
    "section": "P. \"What about MY street?\" — practical questions",
-   "q": "Can I report flooding to the system?",
-   "answer": "The system has a crowdsourced-report layer (we mirrored 173 reports, identities stripped); GCC 1913 and IIT-M's citizen portal also collect reports.",
-   "status": "answered"
+   "question": "Can I report flooding to the system?",
+   "grade": "✅",
+   "answer": "The system has a crowdsourced-report layer (we mirrored 173 reports, identities stripped); GCC 1913 and IIT-M's citizen portal also collect reports."
   },
   {
    "id": 171,
    "section": "P. \"What about MY street?\" — practical questions",
-   "q": "Do citizen reports actually reach the model?",
-   "answer": "The crowd layer feeds the dashboard; whether it enters forecasts isn't documented.",
-   "status": "partial"
+   "question": "Do citizen reports actually reach the model?",
+   "grade": "🟡",
+   "answer": "The crowd layer feeds the dashboard; whether it enters forecasts isn't documented."
   },
   {
    "id": 172,
    "section": "P. \"What about MY street?\" — practical questions",
-   "q": "How deep was the water on my street in 2015?",
-   "answer": "NRSC's 2015 extent (4,001 polygons) gives area-level depth bands — street-level granularity doesn't exist publicly.",
-   "status": "partial"
+   "question": "How deep was the water on my street in 2015?",
+   "grade": "🟡",
+   "answer": "NRSC's 2015 extent (4,001 polygons) gives area-level depth bands — street-level granularity doesn't exist publicly."
   },
   {
    "id": 173,
    "section": "P. \"What about MY street?\" — practical questions",
-   "q": "Are my lake's levels public?",
-   "answer": "Poondi, Chembarambakkam, Red Hills, Cholavaram storage are on the dashboard and in our mirror.",
-   "status": "answered"
+   "question": "Are my lake's levels public?",
+   "grade": "✅",
+   "answer": "Poondi, Chembarambakkam, Red Hills, Cholavaram storage are on the dashboard and in our mirror."
   },
   {
    "id": 174,
    "section": "P. \"What about MY street?\" — practical questions",
-   "q": "Can I build my own flood app on this data?",
-   "answer": "Yes — that's what our HF datasets are for. (The government's own open feed is stale — F3 — so build on the mirror, and demand they fix theirs.)",
-   "status": "answered"
+   "question": "Can I build my own flood app on this data?",
+   "grade": "✅",
+   "answer": "Yes — that's what our HF datasets are for. (The government's own open feed is stale — F3 — so build on the mirror, and demand they fix theirs.)"
   },
   {
    "id": 175,
    "section": "P. \"What about MY street?\" — practical questions",
-   "q": "Who do I complain to about a dead gauge?",
-   "answer": "Start with GCC ward works + an RTI to CRA/WRD citing the station ID from our registries; the formal ask is a public station-status layer.",
-   "status": "answered"
+   "question": "Who do I complain to about a dead gauge?",
+   "grade": "✅",
+   "answer": "Start with GCC ward works + an RTI to CRA/WRD citing the station ID from our registries; the formal ask is a public station-status layer."
   },
   {
    "id": 176,
    "section": "P. \"What about MY street?\" — practical questions",
-   "q": "What should I actually do this monsoon?",
-   "answer": "Follow IMD/RMC and collector advisories as primary; treat RTFF bulletins as one input; keep evidence (photos, dates); check our site for the scorecard after each activation. ---",
-   "status": "answered"
+   "question": "What should I actually do this monsoon?",
+   "grade": "✅",
+   "answer": "Follow IMD/RMC and collector advisories as primary; treat RTFF bulletins as one input; keep evidence (photos, dates); check our site for the scorecard after each activation. ---"
   },
   {
    "id": 177,
    "section": "Q. The accountability toolkit",
-   "q": "What RTI should I file first?",
-   "answer": "One line: *\"Certified copy of the sanction order(s) for RTFF & SDSS Chennai under PDGF, with cost and revisions.\"* To PIO, WRD / CRA / Finance Dept. (REPORT §5.6 list.)",
-   "status": "answered"
+   "question": "What RTI should I file first?",
+   "grade": "✅",
+   "answer": "One line: *\"Certified copy of the sanction order(s) for RTFF & SDSS Chennai under PDGF, with cost and revisions.\"* To PIO, WRD / CRA / Finance Dept. (REPORT §5.6 list.)"
   },
   {
    "id": 178,
    "section": "Q. The accountability toolkit",
-   "q": "Which authority's PIO handles this?",
-   "answer": "Three: WRD (basin/works), CRA/TNDRRA (control room), TNUIFSL (fund management) — and GCC for ward-level SWD.",
-   "status": "partial"
+   "question": "Which authority's PIO handles this?",
+   "grade": "🟡",
+   "answer": "Three: WRD (basin/works), CRA/TNDRRA (control room), TNUIFSL (fund management) — and GCC for ward-level SWD."
   },
   {
    "id": 179,
    "section": "Q. The accountability toolkit",
-   "q": "What if the RTI is refused?",
-   "answer": "First appeal to the departmental FAO, second appeal to the TN Information Commission. Refusals on \"third-party information\" are contestable for sanction orders.",
-   "status": "answered"
+   "question": "What if the RTI is refused?",
+   "grade": "✅",
+   "answer": "First appeal to the departmental FAO, second appeal to the TN Information Commission. Refusals on \"third-party information\" are contestable for sanction orders."
   },
   {
    "id": 180,
    "section": "Q. The accountability toolkit",
-   "q": "Can the CAG audit it?",
-   "answer": "Yes — citizens can request inclusion of RTFF & SDSS in a TN performance audit; cite F10's gaps.",
-   "status": "answered"
+   "question": "Can the CAG audit it?",
+   "grade": "✅",
+   "answer": "Yes — citizens can request inclusion of RTFF & SDSS in a TN performance audit; cite F10's gaps."
   },
   {
    "id": 181,
    "section": "Q. The accountability toolkit",
-   "q": "Is there a World Bank grievance route?",
-   "answer": "The Inspection Panel (and GRS) accept complaints from affected people on WB-financed operations; TNCRUDP is the current operation to cite.",
-   "status": "answered"
+   "question": "Is there a World Bank grievance route?",
+   "grade": "✅",
+   "answer": "The Inspection Panel (and GRS) accept complaints from affected people on WB-financed operations; TNCRUDP is the current operation to cite."
   },
   {
    "id": 182,
    "section": "Q. The accountability toolkit",
-   "q": "Can I see procurement documents?",
-   "answer": "WB-side plans are public (P179189); TNUIFSL tender files need RTI; award values have never been published.",
-   "status": "partial"
+   "question": "Can I see procurement documents?",
+   "grade": "🟡",
+   "answer": "WB-side plans are public (P179189); TNUIFSL tender files need RTI; award values have never been published."
   },
   {
    "id": 183,
    "section": "Q. The accountability toolkit",
-   "q": "Have MLAs/MPs asked questions about it?",
-   "answer": "We haven't swept TN Assembly Q&A yet — queued watch.",
-   "status": "unknown"
+   "question": "Have MLAs/MPs asked questions about it?",
+   "grade": "🟡",
+   "answer": "Not yet swept — and we say so rather than guess. Assembly Q&A (starred + unstarred, 2021–2026 sessions) is a queued sweep before the public report; MLAs routinely question monsoon preparedness and SWD works, but no question specifically on RTFF/SDSS or its ₹107.2 crore has surfaced in our media corpus. The protocol: search the Assembly's business digests for 'flood forecast', 'RTFF', 'வெள்ள முன்னறிவிப்பு', and log every hit with member, date and answer text in the media register."
   },
   {
    "id": 184,
    "section": "Q. The accountability toolkit",
-   "q": "Has any journalist investigated it?",
-   "answer": "Launch coverage is universal; accountability coverage is effectively our project — MEDIA-CLAIMS documents the gap.",
-   "status": "answered"
+   "question": "Has any journalist investigated it?",
+   "grade": "✅",
+   "answer": "Launch coverage is universal; accountability coverage is effectively our project — MEDIA-CLAIMS documents the gap."
   },
   {
    "id": 185,
    "section": "Q. The accountability toolkit",
-   "q": "How do I use your evidence in a petition or story?",
-   "answer": "REPORT (evidence-graded claims + ledger), MEDIA-CLAIMS (hype vs record), DATA-CATALOGUE (provenance) are built to be citable, with sources.",
-   "status": "answered"
+   "question": "How do I use your evidence in a petition or story?",
+   "grade": "✅",
+   "answer": "REPORT (evidence-graded claims + ledger), MEDIA-CLAIMS (hype vs record), DATA-CATALOGUE (provenance) are built to be citable, with sources."
   },
   {
    "id": 186,
    "section": "Q. The accountability toolkit",
-   "q": "Can resident welfare associations file jointly?",
-   "answer": "Any citizen may file; RWAs can bundle RTIs (sanction order + AMC payments + activation logs are three clean, unjoinable asks).",
-   "status": "answered"
+   "question": "Can resident welfare associations file jointly?",
+   "grade": "✅",
+   "answer": "Any citizen may file; RWAs can bundle RTIs (sanction order + AMC payments + activation logs are three clean, unjoinable asks)."
   },
   {
    "id": 187,
    "section": "Q. The accountability toolkit",
-   "q": "What's the single highest-leverage ask?",
-   "answer": "**Publish the forecast archive.** Every other question becomes answerable once forecasts are kept and comparable to observations (F5).",
-   "status": "answered"
+   "question": "What's the single highest-leverage ask?",
+   "grade": "✅",
+   "answer": "**Publish the forecast archive.** Every other question becomes answerable once forecasts are kept and comparable to observations (F5)."
   },
   {
    "id": 188,
    "section": "Q. The accountability toolkit",
-   "q": "How do I track whether things improve?",
-   "answer": "Project hub + the quarterly RTFF-DSS Ledger; monthly probes; per-activation scorecards (ELI10 §10). ---",
-   "status": "answered"
+   "question": "How do I track whether things improve?",
+   "grade": "✅",
+   "answer": "Project hub + the quarterly RTFF-DSS Ledger; monthly probes; per-activation scorecards (ELI10 §10). ---"
   },
   {
    "id": 189,
    "section": "R. Privacy and surveillance",
-   "q": "Does the system track me personally?",
-   "answer": "The sensor telemetry is environmental, not personal; the crowdsourced layer did carry usernames — we stripped them before publishing.",
-   "status": "answered"
+   "question": "Does the system track me personally?",
+   "grade": "✅",
+   "answer": "The sensor telemetry is environmental, not personal; the crowdsourced layer did carry usernames — we stripped them before publishing."
   },
   {
    "id": 190,
    "section": "R. Privacy and surveillance",
-   "q": "Are CCTV feeds part of it?",
-   "answer": "GCC's ICCC (separate system) integrates CCTV; RTFF's AboutUs describes CCTV-equipped control rooms — camera governance is a different audit.",
-   "status": "partial"
+   "question": "Are CCTV feeds part of it?",
+   "grade": "🟡",
+   "answer": "GCC's ICCC (separate system) integrates CCTV; RTFF's AboutUs describes CCTV-equipped control rooms — camera governance is a different audit."
   },
   {
    "id": 191,
    "section": "R. Privacy and surveillance",
-   "q": "Does TN-Alert collect my location?",
-   "answer": "Unknown — the app has no published privacy policy we could find. A fair question to put to TNSDMA.",
-   "status": "unknown"
+   "question": "Does TN-Alert collect my location?",
+   "grade": "❌",
+   "answer": "Unknown — the app has no published privacy policy we could find. A fair question to put to TNSDMA."
   },
   {
    "id": 192,
    "section": "R. Privacy and surveillance",
-   "q": "Are citizen flood reports public?",
-   "answer": "Yes — 173 reports (Nov–Dec 2025) are in our mirror, scrubbed of identities.",
-   "status": "answered"
+   "question": "Are citizen flood reports public?",
+   "grade": "✅",
+   "answer": "Yes — 173 reports (Nov–Dec 2025) are in our mirror, scrubbed of identities."
   },
   {
    "id": 193,
    "section": "R. Privacy and surveillance",
-   "q": "Should I worry about my name in flood reports?",
-   "answer": "In our release, no (scrubbed). In the government's original system, retention policy is unpublished — ask. ---",
-   "status": "answered"
+   "question": "Should I worry about my name in flood reports?",
+   "grade": "✅",
+   "answer": "In our release, no (scrubbed). In the government's original system, retention policy is unpublished — ask. ---"
   },
   {
    "id": 194,
    "section": "S. The basin: drains, lakes, wetlands",
-   "q": "Why not just fix drains instead of buying forecasts?",
-   "answer": "Both/and. GCC's FY2026-27 climate budget is ₹1,341 crore for 240+ km of SWD; forecasting without working drains is a thermometer for a broken pipe. The desk supports both, verified.",
-   "status": "answered"
+   "question": "Why not just fix drains instead of buying forecasts?",
+   "grade": "✅",
+   "answer": "Both/and. GCC's FY2026-27 climate budget is ₹1,341 crore for 240+ km of SWD; forecasting without working drains is a thermometer for a broken pipe. The desk supports both, verified."
   },
   {
    "id": 195,
    "section": "S. The basin: drains, lakes, wetlands",
-   "q": "Are encroachments the real problem?",
-   "answer": "Partially — hydrology vs ecology debates (Pallikaranai, wetland loss) are real; a forecasting model cannot de-encroach. It can, however, expose where build-overs worsen inundation — if its data were open.",
-   "status": "partial"
+   "question": "Are encroachments the real problem?",
+   "grade": "🟡",
+   "answer": "Partially — hydrology vs ecology debates (Pallikaranai, wetland loss) are real; a forecasting model cannot de-encroach. It can, however, expose where build-overs worsen inundation — if its data were open."
   },
   {
    "id": 196,
    "section": "S. The basin: drains, lakes, wetlands",
-   "q": "Does the model include the storm-drain network?",
-   "answer": "SWD layers are model inputs (in our GIS mirror); drain *maintenance* status is not modelled — it's a GCC works question.",
-   "status": "answered"
+   "question": "Does the model include the storm-drain network?",
+   "grade": "✅",
+   "answer": "SWD layers are model inputs (in our GIS mirror); drain *maintenance* status is not modelled — it's a GCC works question."
   },
   {
    "id": 197,
    "section": "S. The basin: drains, lakes, wetlands",
-   "q": "Who desilts, and when?",
-   "answer": "GCC pre-monsoon works, claimed 95% complete before NEM 2026 (press, graded C); independent verification is absent.",
-   "status": "partial"
+   "question": "Who desilts, and when?",
+   "grade": "🟡",
+   "answer": "GCC pre-monsoon works, claimed 95% complete before NEM 2026 (press, graded C); independent verification is absent."
   },
   {
    "id": 198,
    "section": "S. The basin: drains, lakes, wetlands",
-   "q": "What about Pallikaranai and the wetlands?",
-   "answer": "The marsh is a mapped layer in our mirror; NGT-driven protection orders are recent news — the flood model and the ecology fight are two fronts of the same basin story.",
-   "status": "answered"
+   "question": "What about Pallikaranai and the wetlands?",
+   "grade": "✅",
+   "answer": "The marsh is a mapped layer in our mirror; NGT-driven protection orders are recent news — the flood model and the ecology fight are two fronts of the same basin story."
   },
   {
    "id": 199,
    "section": "S. The basin: drains, lakes, wetlands",
-   "q": "The Kosasthalaiyar floods north Chennai differently than the Adyar floods the south. Does the forecast know that?",
-   "answer": "The model covers both basins separately, but their public outputs arrive in the same PDF — basin-level separation that a Manali resident and a Velachery resident both need is achievable from existing layers if they were published as data.",
-   "status": "partial"
+   "question": "The Kosasthalaiyar floods north Chennai differently than the Adyar floods the south. Does the forecast know that?",
+   "grade": "🟡",
+   "answer": "The model covers both basins separately, but their public outputs arrive in the same PDF — basin-level separation that a Manali resident and a Velachery resident both need is achievable from existing layers if they were published as data."
   },
   {
    "id": 200,
    "section": "S. The basin: drains, lakes, wetlands",
-   "q": "After everything we've read: what is the single question I should ask my MLA?",
-   "answer": "\"Where is the archive of this system's forecasts, and when will it be public?\" — every other number in this document flows from that one answer. உங்கள் சொத்து.",
-   "status": "answered"
+   "question": "After everything we've read: what is the single question I should ask my MLA?",
+   "grade": "✅",
+   "answer": "\"Where is the archive of this system's forecasts, and when will it be public?\" — every other number in this document flows from that one answer. உங்கள் சொத்து."
   }
  ]
 }

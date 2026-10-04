@@ -30,7 +30,7 @@
 ✅ 4,974 km² across Chennai, Tiruvallur, Kancheepuram, Chengalpattu, Ranipet — the Adyar, Cooum, Kosasthalaiyar and Kovalam basins.
 
 **Q8. Is my district inside?**
-✅ If you're in those five districts, yes on paper. Exact per-ward sensor coverage: check the station registries in our `chennai-flood-monitor-transactions` dataset.
+✅ On paper, yes if you're in Chennai, Tiruvallur, Kancheepuram, Chengalpattu, Ranipet (or the Vellore fringe). From our mirrored station registries (~969 station rows, existing + proposed): Chennai district 379, Tiruvallur 247, Chengalpattu 104, Ranipet 89, Kancheepuram 92, Vellore 31 — plus 36 stations in Andhra Pradesh's Chittoor district, because the Araniar and Kosasthalaiyar basins rise in AP. "Inside" on the map is not "covered" — the flagship gauge dark-spots (F2) sit inside Chennai itself.
 
 **Q9. Who built it?**
 ✅ SECON Private Ltd (Bangalore) + JBA Consulting (UK) as a JV; IIT Madras provided technical supervision; TNUIFSL managed the money.
@@ -132,7 +132,7 @@
 ❌ Not public. **RTI target #2:** the JV's contract value and payment schedule.
 
 **Q38. Are there other vendors?**
-✅ Yes — station registries we mirrored carry AMC (maintenance) vendor-name fields; the hardware sensor vendors are also in the registry stack.
+✅ The honest answer: the registries don't say. Every station registry we mirrored carries AMC (maintenance) and sensor-vendor name fields — and in our pull **all of them are blank**. The only vendor name in the public record is SECON–JBA JV (consultant, from Bank procurement plans and press). Who actually supplies and services the gauges, at what price, on what schedule: not public anywhere we can find. That blankness is itself the finding.
 
 **Q39. What is IIT-M's contract?**
 🟡 "Technical supervision" per official text; the value and terms of IIT-M's engagement are not public.
@@ -141,21 +141,19 @@
 🟡 66 stations carry `isamc=true` flags, but expiry dates are populated for only ~6 — the O&M calendar is unknown even to its own registry (F10).
 
 **Q41. What happens when an AMC lapses?**
-❌ No published plan. **Watch:** our AMC-expiry calendar (AUDIT-PLAN B2).
+❌ No published plan — and no way to cite a past lapse, because the state doesn't publish the AMC calendar: 66 stations are AMC-flagged in the registry, expiry dates exist for only ~6, and vendor fields are blank (Q38). The observable symptom is F2 — flagship gauges frozen at 2025-05-10 while the dashboard page itself stays live — a pattern consistent with lapsed maintenance nobody is obliged to disclose. The Bank is separately buying "handholding" supervision (§5.3) while the AMC base is unrecorded.
 
 **Q42. Were the tenders published?**
 🟡 TN e-procurement notices and WB procurement plans exist in fragments; no consolidated public list of RTFF contracts.
 
 **Q43. Were conflict-of-interest checks done?**
-❌ Nothing public.
+❌ We searched: the World Bank procurement plans for the RTFF assignments (the $0.10M handholding line was awarded by **direct selection**, a method that skips open competition and requires a justification note), TN e-procurement, and press. No conflict-of-interest disclosure is published for any RTFF contract. Bank procurement regulations require COI screening, but at this award value the screening record stays in the project file — exactly the layer §5.4 calls the structural disclosure asymmetry.
 
 **Q44. Who owns the system's software IP?**
-❌ RTI target: contract IP clauses.
+❌ Nothing public answers this — the consultancy contracts are unpublished. Two facts bracket it: the Current Science paper (2024) describes the models as built by the IIT-M-led consortium, and the portal's dashboards were built under the SECON–JBA consultancy. Whether the state owns the code and model IP, or licenses it from the JV and IIT-M, decides whether a future government can even repair the system without its contractors. RTI: the IP clauses in the SECON–JBA consultancy agreement.
 
 **Q45. Is the same JV involved in the new IFMC?**
-❌ Not stated in Oct 2026 coverage. **Watch:** IFMC procurement trail.
-
----
+🟡 The Oct 2026 IFMC coverage (The Hindu, Live Chennai, NIE — our media corpus) names no vendor and no sanction. What coverage describes is a GCC + WRD joint centre at the State EOC absorbing flood-call and forecast operations — our reading (inference, D): a re-organization and upgrade of existing RTFF operations rather than a new system. The test is the procurement trail: if IFMC hardware/software goes to open tender on tntenders.gov.in, names will appear there. That trail is a standing watch.
 
 ## E. The sensor network
 
@@ -294,9 +292,7 @@
 🟡 Citizen Matters reports IIT-M's 4-km, 7-ensemble model is integrated and daily forecasts go to GCC/WRD; independent accuracy checks don't exist publicly.
 
 **Q88. Is there a floodplain map I can use?**
-✅ 2D model areas, bathymetry, contours are in our GIS mirror — the model's own working surfaces.
-
----
+✅ There is no official published floodplain map for Chennai. The closest thing in the public domain is the model's own working surfaces, which we mirror: `floodforecast_2d_outputarea` (where the 2D model runs), bathymetry, contours, ward depth min/max — on Hugging Face as `CashlessConsumer/chennaidss-gis-layers` (GeoParquet: download a file, drag it into QGIS via Layer → Add Vector Layer). Caveat: these are model inputs and scenario outputs, not an endorsed hazard map — read them as "what the model assumes," not "where water will go."
 
 ## H. Alerts and warning delivery
 
@@ -304,7 +300,7 @@
 ✅ Three routes today: press bulletins during activations, the TN-Alert mobile app, and TNSMART for departments. No SMS/RSS/API spec is public.
 
 **Q90. Is there an SMS blast?**
-❌ No public spec or evidence.
+❌ We checked the portal (no SMS gateway doc), the bulletins (no dissemination annex), and the alert API (`GetPublishAlert` — 0 rows on every check since 2026-09-29). Coverage of TN-Alert mentions SMS as a channel during activations, but no protocol, no aggregation stats, no opt-out is published. What SMS actually fires, to whom, on what thresholds: RTI the SEOC's alert-dissemination SOP (TNSDMA). Until then "SMS blast" is a press word, not a documented channel.
 
 **Q91. Does TN-Alert cost me anything?**
 🟡 App is free; the data cost is yours — a small but real equity point.
@@ -331,9 +327,7 @@
 🟡 HMCR feeds CRA/departments via TNSMART; the SOP and sign-off chain are not public.
 
 **Q99. Can I subscribe to alerts myself?**
-❌ No public subscription mechanism exists.
-
----
+❌ No. We checked every surface: the portal has no subscribe button or feed; the alert API returns empty; bulletins go to the press, not to you; TN-Alert is push-only during activations and not installable as a subscription to your street. The closest thing to a subscription today is following the local press. RTI target: whether a public-subscription mechanism exists in the dissemination SOP — and if not, why ₹107 crore built no citizen channel.
 
 ## I. How it did in real storms
 
@@ -350,7 +344,7 @@
 ✅ The system didn't exist; the flood maps (NRSC, 4,001 polygons) that justify it are in our mirror.
 
 **Q104. Is it working in NEM 2026 right now?**
-✅ Our probes run monthly; a forecast scorecard within 7 days of every activation is the standing protocol (ELI10 §10).
+🟡 As of 2026-10-04: the Northeast Monsoon has set in over TN; our latest probes show the server up, the dashboard live, the alert API still empty, and **no activation bulletins published for NEM 2026 yet**. The system's documented operating pattern is activation-based — models run when the state switches them on (historically: Oct–Dec). First activation of the season, we publish a forecast scorecard within 7 days against our gauge mirror; that protocol is in the media register, not a promise to ourselves alone.
 
 **Q105. Why has no scorecard ever been published?**
 ❌ No archive culture exists inside the system — F5. Scorecards need the forecast side; the system throws it away.
@@ -365,7 +359,7 @@
 ✅ Answer: **zero verified references** across 27 media entries (MEDIA-CLAIMS pattern 1). Not proof of failure — proof of no evidence.
 
 **Q109. Was Ennore's 56 cm in 3 days forecast?**
-❌ No archive to check against. This question is exactly why F5 matters.
+❌ No archive exists to check against — that is F5. But our mirror sharpens the question into something worse: the archived model runs and bulletins for the 2025 activation **stop on 2025-12-02**; Ditwah's remnant peaked Dec 3–5 (Ennore's 56 cm, Red Hills shutters, the level-6 citizen report of Dec 4). On the public record, the system was not demonstrably running forecasts during the season's biggest event — either the models weren't run, or the runs weren't published. Both possibilities are failures of different kinds.
 
 **Q110. How fresh is the water-level data during storms?**
 🟡 AWLR runs near-live (to Aug 2026 in our pull); ARG open feed is stale to 2022 (F3) — the picture is per-sensor-type.
@@ -405,7 +399,7 @@
 🟡 66 flagged `isamc=true`; expiry populated for only ~6 — calendar unknown (F10).
 
 **Q121. What does maintenance cost per year?**
-❌ RTI target: AMC payment records (TNUIFSL/WRD).
+❌ No figure is published anywhere — no O&M line, no AMC schedule, no payment records. Two public anchors size the gap: GCC's entire 2026 monsoon-preparedness budget (desilting, pumps, ward works) is ₹100 crore — i.e., the state spends about one RTFF per year keeping the drains flowing — and the ₹0.10M/yr handholding line the World Bank still buys. The RTI (queued in our batch, not yet filed): AMC payment records and O&M budget lines from TNUIFSL and WRD since 2021.
 
 **Q122. Who pays when the PDGF grant ends?**
 ❌ Unresolved — likely TNCRUDP, but no public commitment. The "operating money unresolved at both ends" point (REPORT §5.5).
@@ -417,9 +411,7 @@
 ❌ No SOP published — recommendation-grade gap.
 
 **Q125. What happens during a power/network failure in a cyclone?**
-❌ No public redundancy/continuity spec.
-
----
+❌ No public continuity spec exists — we searched the portal, documentation (nil), and press. What the mirror implies: station telemetry rides GSM SIM fields in the registries (cellular-dependent), with no satellite-telemetry markers; cyclones take out exactly power and cell towers. NDMA norms expect generator/satphone backups at control rooms, but nothing published says this system has them. Stated plainly: our telemetry-degrades-in-cyclone conclusion is an inference from the registry, not a documented finding. RTI: the system's disaster-continuity plan.
 
 ## K. Governance and oversight
 
@@ -451,9 +443,7 @@
 🟡 Unknown — but the 2026 IFMC announcement suggests institutional memory survives via re-announcements, not via records.
 
 **Q135. Is there any legislative committee on urban flooding?**
-❌ Not in our sweep. (One for Assembly-watch.)
-
----
+🟡 Sweep scope: our 200-item media corpus (2019–2026) and Assembly business as reported — no standing committee on urban flooding exists; the subject surfaces only in annual pre-monsoon reviews (departments, not legislators) and post-flood debates. Contrast: Kerala and Mumbai have had standing legislative or judicial follow-up on urban flooding; Tamil Nadu has press and officials. A full Assembly Q&A sweep (starred/unstarred, 2021–2026) is queued before the public report.
 
 ## L. The old website and institutional memory
 
@@ -473,12 +463,10 @@
 🟡 Same data pattern, new domain; the bulletin set grew from 0 to 7 — otherwise the gaps carry over.
 
 **Q141. What else could vanish like this?**
-🟡 Everything on it — which is why the project re-mirrors annually by design (ELI10 §4).
+✅ Everything on it, concretely: the NRSC 2015 flood extent (4,001 polygons), the IRS 2005 footprints, GCC's 2015/NEM-2020 hotspot layers, ward depth tables, and the seven Oct-2025 bulletins exist **only on this portal and our mirror**. The precedent is total: chennaifloodsdss.in died and took the predecessor record with it (F9). Nothing about the current portal — private-IP infrastructure, no archive mandate, no license — prevents the same death.
 
 **Q142. Could this happen to the new site too?**
-✅ Yes. F9 is a pattern, not an event.
-
----
+✅ It already happened once in this lineage: the 2021 portal died at the 2025 domain move, and the current one runs on the same pattern (private 10.x infrastructure, no published archive, no retention policy — §2). We keep an NXDOMAIN tripwire on the domain and re-mirror annually; but the correct posture for the state is boring and cheap: an open archive and a license, so that its death wouldn't matter. Until then, our mirror is the only archive in the room.
 
 ## M. The 2026 IFMC (Integrated Flood Management Centre)
 
@@ -486,7 +474,7 @@
 ✅ A new centre announced Oct 2026 (Revenue & DM secretary, at NIOT forum) promising street-level flood prediction three days ahead — focused on Chennai first.
 
 **Q144. Is it new money?**
-❌ No cost stated in coverage. **Watch:** IFMC sanction/trail.
+🟡 Cost is absent from every story in our Oct 2026 corpus (The Hindu, Live Chennai, New Indian Express) — no sanction figure, no budget line, no tender value. Given the RTFF pattern (₹71 cr reported in 2022 → ₹107.2 cr at launch, no revision trail, ledger row 22), an unpriced launch is exactly when costs accrete unobserved. RTI/watch: IFMC sanction order (Finance dept) and the first hardware/software tenders on tntenders.gov.in.
 
 **Q145. Is IFMC the same as RTFF & SDSS?**
 🟡 The promise is verbatim RTFF's 2025 promise; the relationship (successor/expansion/rebrand) is publicly undefined.
@@ -498,9 +486,7 @@
 ✅ Neither — demand the paper trail: what it adds, what it costs, and whether RTFF's gaps (F2–F7) are being fixed, not re-branded.
 
 **Q148. Will you track it?**
-✅ Yes — standing IFMC watch (ELI10 §10).
-
----
+✅ Nobody else does — that is the finding. Our media sweep found zero follow-up practice: launch covered, performance never. No third-party monitor, no institutional scorecard, no press repurchase of the story. So yes: the bench (monthly probes, per-activation scorecards, AMC calendar), the mirror, and this review loop are the only standing accountability mechanism for ₹107.2 crore of public money. Its continuation is the point of the chapter you're reading.
 
 ## N. Equity: who actually gets warned
 
@@ -514,13 +500,13 @@
 🟡 Named in the street-forecast list; actual alert reach unknown.
 
 **Q152. Do resettlement-colony residents get alerts?**
-❌ No evidence of targeted design.
+❌ No evidence of any targeted design: TN-Alert's public docs describe generic push, bulletins address officials and press, and none of the 200+ coverage items mentions resettlement-colony-specific channels (our corpus includes Kannagi Nagar-adjacent flood stories). This matters because resettlement colonies (Kannagi Nagar, Perumbakkam) sit on the city's worst-drained soils. RTI: TN-Alert registration counts by ward — if colonies aren't registered, alerts are architecturally blind there.
 
 **Q153. Is warning info available in Tamil?**
 🟡 Partial — app claims multilingual; the substantive bulletins are English PDFs.
 
 **Q154. Do tenants get warned the same as owners?**
-❌ No differentiated mechanism exists.
+❌ No mechanism differentiates them — alerts ride apps, press and officials, all of which reach owners and tenants alike *if* they have smartphones and the right app. But tenant-specific vulnerability (short leases, no authority to make property-level changes, information through landlords) appears nowhere in any design document we could find. The research parallel: in Bihar's community-EWS trials, warnings reached under half of targeted households through official channels — Chennai has published nothing that would show its own number.
 
 **Q155. Are informal settlements inside the model?**
 🟡 Wards are; informal layouts are likely under-represented in cadastral layers — a research question we can test with the GIS mirror.
@@ -532,9 +518,7 @@
 ✅ GCC's 1913 complaint line (flood); a *forecasting* hotline does not exist.
 
 **Q158. Has anyone studied who received Dec-2025 warnings?**
-❌ Nobody — no delivery data is public. **RTI target.**
-
----
+❌ Nobody has — no delivery data exists in public: no cell-broadcast logs, no TN-Alert download/registration counts, no alert-recipient statistics from the Dec 2025 event. The Dec 2025 record (F8) shows what the system *recorded*, not what it *delivered*. RTI targets: TN-Alert registration by ward, dissemination logs for 2025-11-30→12-06, and the SMS gateway volumes for the same week. The delivery gap is where alert equity actually lives.
 
 ## O. Comparisons and benchmarks
 
@@ -542,7 +526,7 @@
 🟡 CFLOWS (IIT-B for MCGM) is the usual benchmark; a cost-and-capability comparison is queued in our audit plan (B4) — no rigorous public comparison exists yet.
 
 **Q160. Kolkata?**
-🟡 Kolkata's early-warning system (KEWS) exists with published alerts; comparative audit pending.
+🟡 Kolkata's KEWS/FFEWS — ADB-backed, positioned as "India's first comprehensive city-level flood forecasting and early warning system" (ADB 2018) — predates Chennai's launch claim by seven years, with published bulletins informing both city operations and residents. The comparative audit is queued; the first-cut contrast: Kolkata published an EWS concept note and bulletins Chennai never has, while Chennai's sensor density (969 registry rows, 5 NWP models) may exceed Kolkata's. Which matters more — publication or sensors — is exactly what a comparative audit would answer.
 
 **Q161. Bengaluru?**
 🟡 Fragmented civic alerting; no comparable integrated DSS — part of why "first in India" claims go unchallenged.
@@ -554,7 +538,7 @@
 🟡 Unanswerable until verification exists — that's the honest budget position, not a slogan.
 
 **Q164. What else could ₹107 crore have bought?**
-✅ Counterfactual framing queued (AUDIT-PLAN B4): desilted kilometres at unit rates, pump stations, gauge networks. The "fare-hike test" applied to data infrastructure.
+✅ At GCC's own 2022–26 unit rates: ₹107 crore buys **23–56 km of new stormwater drain** (Kosasthalaiyar basin: ₹3,059 cr for 651 km ≈ ₹4.7 cr/km; Capital Fund works ≈ ₹3.9 cr/km; Arcot Road ≈ ₹5.7 cr/km; JnNURM-era ≈ ₹1.9 cr/km). It also equals Chennai's **entire annual desilting-and-monsoon-prep budget for 2026** (₹100 cr). This is not an argument that forecasting is worthless — it is the honest price tag: one forecasting system = a year of the city's drain maintenance, or a fifth of one basin's drainage network.
 
 **Q165. How many flood-forecast stations does all of India have?**
 ✅ CWC runs ~360 flood-forecast stations nationally (2026 preparedness conference figure) — Chennai's urban system is a different beast; comparisons need care.
@@ -570,7 +554,7 @@
 ✅ All 200 wards are in our GIS mirror (`gcc_200_wards`, ward depth min/max — noting the 2021 stamp).
 
 **Q168. How do I read a bulletin?**
-🟡 They're image PDFs; an explainer is on our list for the public page.
+✅ A bulletin (image-only PDF) has six parts: 1) observed 24-h rainfall by station; 2) 3-day rainfall outlook from each NWP model for city and basins; 3) reservoir/tank levels and inflows (Chembarambakkam, Red Hills, Puzhal…); 4) river-level readings against danger marks; 5) ward-level inundation maps with colour-coded depth bands; 6) advisories. What it never has: a table of numbers you can copy (images), a forecast-vs-what-happened note, or a validity window. Our mirror holds all seven; the public explainer page will embed them side-by-side with what our gauges recorded.
 
 **Q169. My area flooded but no alert came. What do I do?**
 ✅ Document (photos+timestamp), complain on GCC 1913, and send us the record — evidence is how the scorecard gets built.
@@ -619,7 +603,7 @@
 🟡 WB-side plans are public (P179189); TNUIFSL tender files need RTI; award values have never been published.
 
 **Q183. Have MLAs/MPs asked questions about it?**
-❌ We haven't swept TN Assembly Q&A yet — queued watch.
+🟡 Not yet swept — and we say so rather than guess. Assembly Q&A (starred + unstarred, 2021–2026 sessions) is a queued sweep before the public report; MLAs routinely question monsoon preparedness and SWD works, but no question specifically on RTFF/SDSS or its ₹107.2 crore has surfaced in our media corpus. The protocol: search the Assembly's business digests for 'flood forecast', 'RTFF', 'வெள்ள முன்னறிவிப்பு', and log every hit with member, date and answer text in the media register.
 
 **Q184. Has any journalist investigated it?**
 ✅ Launch coverage is universal; accountability coverage is effectively our project — MEDIA-CLAIMS documents the gap.

@@ -1,0 +1,1002 @@
+{
+ "1": {
+  "rel": 4,
+  "qual": 3,
+  "comment": "Decent orientation; add one concrete capability example instead of REPORT pointer"
+ },
+ "2": {
+  "rel": 5,
+  "qual": 4,
+  "comment": "ok"
+ },
+ "3": {
+  "rel": 3,
+  "qual": 4,
+  "comment": "ok"
+ },
+ "4": {
+  "rel": 4,
+  "qual": 4,
+  "comment": "ok"
+ },
+ "5": {
+  "rel": 2,
+  "qual": 3,
+  "comment": "Name the competing 'first' claims explicitly; low accountability weight"
+ },
+ "6": {
+  "rel": 5,
+  "qual": 4,
+  "comment": "Explain what would publicly verify prediction; mirror self-reference unclear to outsiders"
+ },
+ "7": {
+  "rel": 4,
+  "qual": 4,
+  "comment": "ok"
+ },
+ "8": {
+  "rel": 3,
+  "qual": 2,
+  "comment": "Pull actual per-ward station counts from the dataset instead of deferring readers there"
+ },
+ "9": {
+  "rel": 5,
+  "qual": 4,
+  "comment": "ok"
+ },
+ "10": {
+  "rel": 4,
+  "qual": 3,
+  "comment": "Inline the delay reasons; ELI10 pointer carries no content"
+ },
+ "11": {
+  "rel": 5,
+  "qual": 3,
+  "comment": "Press-only figure; seek a government-side corroboration"
+ },
+ "12": {
+  "rel": 5,
+  "qual": 5,
+  "comment": "ok"
+ },
+ "13": {
+  "rel": 5,
+  "qual": 4,
+  "comment": "ok"
+ },
+ "14": {
+  "rel": 4,
+  "qual": 4,
+  "comment": "ok"
+ },
+ "15": {
+  "rel": 3,
+  "qual": 4,
+  "comment": "ok"
+ },
+ "16": {
+  "rel": 5,
+  "qual": 3,
+  "comment": "ok"
+ },
+ "17": {
+  "rel": 3,
+  "qual": 4,
+  "comment": "ok"
+ },
+ "18": {
+  "rel": 3,
+  "qual": 4,
+  "comment": "ok"
+ },
+ "19": {
+  "rel": 4,
+  "qual": 5,
+  "comment": "ok"
+ },
+ "20": {
+  "rel": 5,
+  "qual": 3,
+  "comment": "State QCBS definition and why direct selection would matter"
+ },
+ "21": {
+  "rel": 5,
+  "qual": 3,
+  "comment": "Quantify consequence: who pays repairs after warranty lapses"
+ },
+ "22": {
+  "rel": 4,
+  "qual": 4,
+  "comment": "ok"
+ },
+ "23": {
+  "rel": 4,
+  "qual": 3,
+  "comment": "Name the remaining aftercare tranches and amounts"
+ },
+ "24": {
+  "rel": 5,
+  "qual": 4,
+  "comment": "ok"
+ },
+ "25": {
+  "rel": 3,
+  "qual": 4,
+  "comment": "ok"
+ },
+ "26": {
+  "rel": 3,
+  "qual": 3,
+  "comment": "Fetch the actual rate from the published loan agreement"
+ },
+ "27": {
+  "rel": 3,
+  "qual": 4,
+  "comment": "ok"
+ },
+ "28": {
+  "rel": 3,
+  "qual": 4,
+  "comment": "ok"
+ },
+ "29": {
+  "rel": 5,
+  "qual": 3,
+  "comment": "Good RTI/watch target; add what DLR verification would look like"
+ },
+ "30": {
+  "rel": 4,
+  "qual": 4,
+  "comment": "ok"
+ },
+ "31": {
+  "rel": 3,
+  "qual": 4,
+  "comment": "ok"
+ },
+ "32": {
+  "rel": 4,
+  "qual": 3,
+  "comment": "Add filing route and any India precedent complaints"
+ },
+ "33": {
+  "rel": 3,
+  "qual": 3,
+  "comment": "List a few named assignments to show the pattern"
+ },
+ "34": {
+  "rel": 4,
+  "qual": 4,
+  "comment": "ok"
+ },
+ "35": {
+  "rel": 4,
+  "qual": 3,
+  "comment": "Add firm size, other government contracts, track record"
+ },
+ "36": {
+  "rel": 4,
+  "qual": 4,
+  "comment": "Insurance-industry parent angle deserves a conflict-of-interest sentence"
+ },
+ "37": {
+  "rel": 5,
+  "qual": 3,
+  "comment": "ok"
+ },
+ "38": {
+  "rel": 3,
+  "qual": 2,
+  "comment": "Name the AMC vendors and sensor suppliers from mirrored registries, not file pointers"
+ },
+ "39": {
+  "rel": 4,
+  "qual": 3,
+  "comment": "Add engagement duration and deliverables if obtainable via RTI"
+ },
+ "40": {
+  "rel": 4,
+  "qual": 4,
+  "comment": "ok"
+ },
+ "41": {
+  "rel": 5,
+  "qual": 2,
+  "comment": "States gap but defers to internal audit plan; add known AMC lapse examples."
+ },
+ "42": {
+  "rel": 5,
+  "qual": 3,
+  "comment": "Adequate; add tender counts, dates, and examples of missing contracts."
+ },
+ "43": {
+  "rel": 4,
+  "qual": 2,
+  "comment": "Bare negative; state where you searched and WB disclosure norms."
+ },
+ "44": {
+  "rel": 4,
+  "qual": 2,
+  "comment": "Pure RTI placeholder; include any contract clause evidence already gathered."
+ },
+ "45": {
+  "rel": 3,
+  "qual": 2,
+  "comment": "Watch-note only; name JV, IFMC scope, and procurement references."
+ },
+ "46": {
+  "rel": 4,
+  "qual": 5,
+  "comment": "ok"
+ },
+ "47": {
+  "rel": 5,
+  "qual": 4,
+  "comment": "Good; clarify scope \u2014 38 dashboard stations vs 328+ registry sensors."
+ },
+ "48": {
+  "rel": 5,
+  "qual": 5,
+  "comment": "ok"
+ },
+ "49": {
+  "rel": 4,
+  "qual": 4,
+  "comment": "ok"
+ },
+ "50": {
+  "rel": 3,
+  "qual": 4,
+  "comment": "ok"
+ },
+ "51": {
+  "rel": 2,
+  "qual": 4,
+  "comment": "ok"
+ },
+ "52": {
+  "rel": 4,
+  "qual": 4,
+  "comment": "ok"
+ },
+ "53": {
+  "rel": 3,
+  "qual": 3,
+  "comment": "Pointer-style; name the five districts and give a lookup example."
+ },
+ "54": {
+  "rel": 5,
+  "qual": 4,
+  "comment": "Good specific example; trim self-referential closer, add observation date."
+ },
+ "55": {
+  "rel": 4,
+  "qual": 3,
+  "comment": "ok"
+ },
+ "56": {
+  "rel": 4,
+  "qual": 3,
+  "comment": "ok"
+ },
+ "57": {
+  "rel": 3,
+  "qual": 4,
+  "comment": "ok"
+ },
+ "58": {
+  "rel": 4,
+  "qual": 5,
+  "comment": "ok"
+ },
+ "59": {
+  "rel": 3,
+  "qual": 4,
+  "comment": "ok"
+ },
+ "60": {
+  "rel": 4,
+  "qual": 3,
+  "comment": "'Compute it yourself' deflects; give a one-line density sketch per district."
+ },
+ "61": {
+  "rel": 5,
+  "qual": 5,
+  "comment": "ok"
+ },
+ "62": {
+  "rel": 4,
+  "qual": 4,
+  "comment": "ok"
+ },
+ "63": {
+  "rel": 4,
+  "qual": 4,
+  "comment": "ok"
+ },
+ "64": {
+  "rel": 3,
+  "qual": 4,
+  "comment": "ok"
+ },
+ "65": {
+  "rel": 2,
+  "qual": 4,
+  "comment": "ok"
+ },
+ "66": {
+  "rel": 2,
+  "qual": 5,
+  "comment": "ok"
+ },
+ "67": {
+  "rel": 2,
+  "qual": 4,
+  "comment": "ok"
+ },
+ "68": {
+  "rel": 1,
+  "qual": 3,
+  "comment": "ok"
+ },
+ "69": {
+  "rel": 2,
+  "qual": 4,
+  "comment": "ok"
+ },
+ "70": {
+  "rel": 3,
+  "qual": 3,
+  "comment": "ok"
+ },
+ "71": {
+  "rel": 4,
+  "qual": 5,
+  "comment": "ok"
+ },
+ "72": {
+  "rel": 2,
+  "qual": 4,
+  "comment": "ok"
+ },
+ "73": {
+  "rel": 3,
+  "qual": 3,
+  "comment": "Group counts sum to 199, not 344 \u2014 reconcile or note remainder."
+ },
+ "74": {
+  "rel": 2,
+  "qual": 4,
+  "comment": "ok"
+ },
+ "75": {
+  "rel": 5,
+  "qual": 4,
+  "comment": "Nuanced; sample-check one bulletin's maps against observed rainfall."
+ },
+ "76": {
+  "rel": 4,
+  "qual": 4,
+  "comment": "ok"
+ },
+ "77": {
+  "rel": 3,
+  "qual": 4,
+  "comment": "ok"
+ },
+ "78": {
+  "rel": 2,
+  "qual": 4,
+  "comment": "ok"
+ },
+ "79": {
+  "rel": 5,
+  "qual": 4,
+  "comment": "Strong; explain how the archive's absence was verified."
+ },
+ "80": {
+  "rel": 5,
+  "qual": 4,
+  "comment": "ok"
+ },
+ "81": {
+  "rel": 4,
+  "qual": 4,
+  "comment": "name source for the zone list"
+ },
+ "82": {
+  "rel": 5,
+  "qual": 4,
+  "comment": "ok"
+ },
+ "83": {
+  "rel": 4,
+  "qual": 4,
+  "comment": "ok"
+ },
+ "84": {
+  "rel": 4,
+  "qual": 4,
+  "comment": "ok"
+ },
+ "85": {
+  "rel": 4,
+  "qual": 4,
+  "comment": "ok"
+ },
+ "86": {
+  "rel": 3,
+  "qual": 4,
+  "comment": "ok"
+ },
+ "87": {
+  "rel": 5,
+  "qual": 4,
+  "comment": "ok"
+ },
+ "88": {
+  "rel": 4,
+  "qual": 2,
+  "comment": "names layers but no access link or how-to \u2014 resident can't actually use it"
+ },
+ "89": {
+  "rel": 5,
+  "qual": 4,
+  "comment": "ok"
+ },
+ "90": {
+  "rel": 4,
+  "qual": 2,
+  "comment": "too thin \u2014 say what was checked; RTI the SMS/dissemination protocol"
+ },
+ "91": {
+  "rel": 3,
+  "qual": 3,
+  "comment": "ok"
+ },
+ "92": {
+  "rel": 4,
+  "qual": 4,
+  "comment": "ok"
+ },
+ "93": {
+  "rel": 3,
+  "qual": 4,
+  "comment": "ok"
+ },
+ "94": {
+  "rel": 5,
+  "qual": 4,
+  "comment": "ok"
+ },
+ "95": {
+  "rel": 3,
+  "qual": 3,
+  "comment": "ok"
+ },
+ "96": {
+  "rel": 4,
+  "qual": 3,
+  "comment": "add what sources were checked for alert-design evidence"
+ },
+ "97": {
+  "rel": 4,
+  "qual": 4,
+  "comment": "ok"
+ },
+ "98": {
+  "rel": 5,
+  "qual": 4,
+  "comment": "ok"
+ },
+ "99": {
+  "rel": 4,
+  "qual": 2,
+  "comment": "one-line negative plus stray '---'; note channels checked and RTI route"
+ },
+ "100": {
+  "rel": 5,
+  "qual": 5,
+  "comment": "ok"
+ },
+ "101": {
+  "rel": 4,
+  "qual": 4,
+  "comment": "ok"
+ },
+ "102": {
+  "rel": 4,
+  "qual": 3,
+  "comment": "ok"
+ },
+ "103": {
+  "rel": 3,
+  "qual": 4,
+  "comment": "ok"
+ },
+ "104": {
+  "rel": 4,
+  "qual": 2,
+  "comment": "doesn't answer current status \u2014 self-referential probe protocol instead"
+ },
+ "105": {
+  "rel": 4,
+  "qual": 3,
+  "comment": "plausible but speculative diagnosis; label as inference"
+ },
+ "106": {
+  "rel": 5,
+  "qual": 4,
+  "comment": "ok"
+ },
+ "107": {
+  "rel": 4,
+  "qual": 4,
+  "comment": "ok"
+ },
+ "108": {
+  "rel": 4,
+  "qual": 5,
+  "comment": "ok"
+ },
+ "109": {
+  "rel": 4,
+  "qual": 2,
+  "comment": "restates archive gap and self-reference; add Ennore event context"
+ },
+ "110": {
+  "rel": 4,
+  "qual": 5,
+  "comment": "ok"
+ },
+ "111": {
+  "rel": 3,
+  "qual": 4,
+  "comment": "ok"
+ },
+ "112": {
+  "rel": 4,
+  "qual": 3,
+  "comment": "add what the SOP requires the control room to do"
+ },
+ "113": {
+  "rel": 3,
+  "qual": 3,
+  "comment": "ok"
+ },
+ "114": {
+  "rel": 4,
+  "qual": 4,
+  "comment": "ok"
+ },
+ "115": {
+  "rel": 2,
+  "qual": 3,
+  "comment": "own-process question; the answer itself is fine"
+ },
+ "116": {
+  "rel": 4,
+  "qual": 4,
+  "comment": "ok"
+ },
+ "117": {
+  "rel": 4,
+  "qual": 4,
+  "comment": "ok"
+ },
+ "118": {
+  "rel": 4,
+  "qual": 4,
+  "comment": "ok"
+ },
+ "119": {
+  "rel": 3,
+  "qual": 3,
+  "comment": "ok"
+ },
+ "120": {
+  "rel": 4,
+  "qual": 5,
+  "comment": "ok"
+ },
+ "121": {
+  "rel": 5,
+  "qual": 2,
+  "comment": "pointer only; no figures, no filing status"
+ },
+ "122": {
+  "rel": 5,
+  "qual": 3,
+  "comment": "ok; quantify the unresolved liability if possible"
+ },
+ "123": {
+  "rel": 3,
+  "qual": 4,
+  "comment": "ok"
+ },
+ "124": {
+  "rel": 4,
+  "qual": 3,
+  "comment": "ok; note what was searched"
+ },
+ "125": {
+  "rel": 4,
+  "qual": 2,
+  "comment": "thin; stray ---; state basis for negative"
+ },
+ "126": {
+  "rel": 5,
+  "qual": 4,
+  "comment": "ok"
+ },
+ "127": {
+  "rel": 3,
+  "qual": 4,
+  "comment": "ok; spell out HMCR on first use"
+ },
+ "128": {
+  "rel": 5,
+  "qual": 3,
+  "comment": "ok; name sources checked"
+ },
+ "129": {
+  "rel": 4,
+  "qual": 5,
+  "comment": "ok"
+ },
+ "130": {
+  "rel": 4,
+  "qual": 3,
+  "comment": "ok"
+ },
+ "131": {
+  "rel": 5,
+  "qual": 3,
+  "comment": "ok; drop bold markup"
+ },
+ "132": {
+  "rel": 5,
+  "qual": 4,
+  "comment": "ok"
+ },
+ "133": {
+  "rel": 5,
+  "qual": 3,
+  "comment": "ok; name the RTI target for ledger split"
+ },
+ "134": {
+  "rel": 3,
+  "qual": 3,
+  "comment": "ok"
+ },
+ "135": {
+  "rel": 4,
+  "qual": 2,
+  "comment": "thin; stray ---; define sweep scope"
+ },
+ "136": {
+  "rel": 3,
+  "qual": 4,
+  "comment": "ok"
+ },
+ "137": {
+  "rel": 3,
+  "qual": 4,
+  "comment": "ok"
+ },
+ "138": {
+  "rel": 3,
+  "qual": 5,
+  "comment": "ok"
+ },
+ "139": {
+  "rel": 2,
+  "qual": 4,
+  "comment": "ok"
+ },
+ "140": {
+  "rel": 3,
+  "qual": 4,
+  "comment": "ok"
+ },
+ "141": {
+  "rel": 2,
+  "qual": 2,
+  "comment": "project-mirror pitch, not a finding"
+ },
+ "142": {
+  "rel": 2,
+  "qual": 2,
+  "comment": "assertion without evidence; stray ---"
+ },
+ "143": {
+  "rel": 4,
+  "qual": 4,
+  "comment": "ok"
+ },
+ "144": {
+  "rel": 4,
+  "qual": 2,
+  "comment": "thin; name coverage reviewed; no cost research done"
+ },
+ "145": {
+  "rel": 5,
+  "qual": 4,
+  "comment": "ok"
+ },
+ "146": {
+  "rel": 5,
+  "qual": 3,
+  "comment": "evasive framing; state what the re-promise supersedes"
+ },
+ "147": {
+  "rel": 4,
+  "qual": 4,
+  "comment": "ok"
+ },
+ "148": {
+  "rel": 1,
+  "qual": 2,
+  "comment": "project-process; pointer to own docs"
+ },
+ "149": {
+  "rel": 5,
+  "qual": 4,
+  "comment": "ok"
+ },
+ "150": {
+  "rel": 5,
+  "qual": 5,
+  "comment": "ok"
+ },
+ "151": {
+  "rel": 4,
+  "qual": 3,
+  "comment": "ok; add forecast-zone count/list"
+ },
+ "152": {
+  "rel": 4,
+  "qual": 2,
+  "comment": "thin; cite basis"
+ },
+ "153": {
+  "rel": 5,
+  "qual": 4,
+  "comment": "ok"
+ },
+ "154": {
+  "rel": 3,
+  "qual": 2,
+  "comment": "thin; no basis given"
+ },
+ "155": {
+  "rel": 4,
+  "qual": 4,
+  "comment": "ok"
+ },
+ "156": {
+  "rel": 5,
+  "qual": 4,
+  "comment": "ok"
+ },
+ "157": {
+  "rel": 4,
+  "qual": 4,
+  "comment": "ok"
+ },
+ "158": {
+  "rel": 4,
+  "qual": 2,
+  "comment": "thin; stray ---; pointer without content"
+ },
+ "159": {
+  "rel": 3,
+  "qual": 3,
+  "comment": "ok; cite public CFLOWS figures if available"
+ },
+ "160": {
+  "rel": 2,
+  "qual": 2,
+  "comment": "thin; add KEWS scope/cost"
+ },
+ "161": {
+  "rel": 2,
+  "qual": 3,
+  "comment": "thin comparison; name Bengaluru's actual alert systems with sources"
+ },
+ "162": {
+  "rel": 3,
+  "qual": 3,
+  "comment": "names jurisdictions, not systems; cite UK EA, Japan JMA examples"
+ },
+ "163": {
+  "rel": 5,
+  "qual": 3,
+  "comment": "honest deferral; sketch cost-per-outcome framework for when verification lands"
+ },
+ "164": {
+  "rel": 4,
+  "qual": 2,
+  "comment": "counterfactual still queued; deliver unit-rate numbers, not plan references"
+ },
+ "165": {
+  "rel": 2,
+  "qual": 4,
+  "comment": "ok"
+ },
+ "166": {
+  "rel": 4,
+  "qual": 4,
+  "comment": "ok"
+ },
+ "167": {
+  "rel": 4,
+  "qual": 4,
+  "comment": "ok"
+ },
+ "168": {
+  "rel": 3,
+  "qual": 2,
+  "comment": "promised explainer isn't content; explain bulletin sections now"
+ },
+ "169": {
+  "rel": 5,
+  "qual": 4,
+  "comment": "ok"
+ },
+ "170": {
+  "rel": 4,
+  "qual": 4,
+  "comment": "ok"
+ },
+ "171": {
+  "rel": 4,
+  "qual": 3,
+  "comment": "honest gap; propose RTI or validation test to close it"
+ },
+ "172": {
+  "rel": 3,
+  "qual": 4,
+  "comment": "ok"
+ },
+ "173": {
+  "rel": 3,
+  "qual": 4,
+  "comment": "ok"
+ },
+ "174": {
+  "rel": 2,
+  "qual": 4,
+  "comment": "ok"
+ },
+ "175": {
+  "rel": 4,
+  "qual": 4,
+  "comment": "ok"
+ },
+ "176": {
+  "rel": 4,
+  "qual": 4,
+  "comment": "ok"
+ },
+ "177": {
+  "rel": 5,
+  "qual": 5,
+  "comment": "ok"
+ },
+ "178": {
+  "rel": 4,
+  "qual": 3,
+  "comment": "add PIO designations, addresses, filing specifics"
+ },
+ "179": {
+  "rel": 4,
+  "qual": 4,
+  "comment": "ok"
+ },
+ "180": {
+  "rel": 4,
+  "qual": 4,
+  "comment": "ok"
+ },
+ "181": {
+  "rel": 4,
+  "qual": 4,
+  "comment": "note Inspection Panel eligibility limits: affected people, harm link to project"
+ },
+ "182": {
+  "rel": 5,
+  "qual": 4,
+  "comment": "ok"
+ },
+ "183": {
+  "rel": 3,
+  "qual": 2,
+  "comment": "sweep pending, no content; run assembly Q&A before publishing"
+ },
+ "184": {
+  "rel": 3,
+  "qual": 3,
+  "comment": "ground 'gap' claim with named launch coverage examples"
+ },
+ "185": {
+  "rel": 2,
+  "qual": 3,
+  "comment": "self-referential; add licence and citation format"
+ },
+ "186": {
+  "rel": 3,
+  "qual": 4,
+  "comment": "ok"
+ },
+ "187": {
+  "rel": 5,
+  "qual": 4,
+  "comment": "ok"
+ },
+ "188": {
+  "rel": 2,
+  "qual": 3,
+  "comment": "self-referential; add government-side indicators, not just project outputs"
+ },
+ "189": {
+  "rel": 3,
+  "qual": 4,
+  "comment": "ok"
+ },
+ "190": {
+  "rel": 2,
+  "qual": 3,
+  "comment": "scope-clarifier; tangential to flood accountability"
+ },
+ "191": {
+  "rel": 3,
+  "qual": 3,
+  "comment": "state unknown honestly, then file RTI for privacy policy"
+ },
+ "192": {
+  "rel": 3,
+  "qual": 4,
+  "comment": "overlaps item 170; adds date range"
+ },
+ "193": {
+  "rel": 3,
+  "qual": 4,
+  "comment": "ok"
+ },
+ "194": {
+  "rel": 4,
+  "qual": 4,
+  "comment": "ok"
+ },
+ "195": {
+  "rel": 3,
+  "qual": 3,
+  "comment": "cite wetland-loss studies to ground 'partially'"
+ },
+ "196": {
+  "rel": 4,
+  "qual": 4,
+  "comment": "ok"
+ },
+ "197": {
+  "rel": 4,
+  "qual": 3,
+  "comment": "gives completion claim, not process; name desilting agencies and schedule"
+ },
+ "198": {
+  "rel": 3,
+  "qual": 3,
+  "comment": "add NGT order specifics and marsh-loss figures"
+ },
+ "199": {
+  "rel": 4,
+  "qual": 4,
+  "comment": "ok"
+ },
+ "200": {
+  "rel": 4,
+  "qual": 4,
+  "comment": "ok"
+ }
+}
