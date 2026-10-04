@@ -8,7 +8,7 @@
 
 ## 1. The promise
 
-Every few years, Chennai drowns. In December 2015 the city recorded 1,049 mm of rain in a month; the floods killed hundreds and caused losses estimated in the tens of thousands of crores. After every flood comes the same promise: *never again unprepared*. In October 2025, Tamil Nadu quietly switched on the most ambitious version of that promise yet — the **Real-Time Flood Forecasting & Spatial Decision Support System (RTFF & SDSS)**: a network of rain gauges, water-level sensors, weather models and flood maps fused into one "brain", sanctioned at **₹107.2 crore**, covering 4,974 km² across five districts, funded largely by World Bank loan money and promoted as India's first fully operational urban flood-forecasting system of its kind. **[A]**
+Every few years, Chennai drowns. In December 2015 the flood drowned the city — the government's own final count was **421 deaths** — and in 2023 Cyclone Michaung put 639 mm on a single gauge in one day. After every flood comes the same promise: *never again unprepared*. In October 2025, Tamil Nadu quietly switched on the most ambitious version of that promise yet — the **Real-Time Flood Forecasting & Spatial Decision Support System (RTFF & SDSS)**: a network of rain gauges, water-level sensors, weather models and flood maps fused into one "brain", sanctioned at **₹107.2 crore**, covering 4,974 km² across five districts, funded largely by World Bank loan money and promoted as India's first fully operational urban flood-forecasting system of its kind. **[A]**
 
 The pitch is genuinely good. A city that floods should have an early-warning brain. **We are not against the system. We are against not being able to check it.**
 
