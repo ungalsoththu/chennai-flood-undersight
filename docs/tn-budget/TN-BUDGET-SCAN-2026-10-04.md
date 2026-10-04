@@ -1,4 +1,11 @@
-# TN budget scan: the ₹107.2-crore system that never appears in the budget — 2026-10-04
+# TN budget scan — 2026-10-04 **[SUPERSEDED 2026-10-04 by `BUDGET-FINDINGS-2026-10-04.md`]**
+
+> **Correction:** this scan concluded the project "never appears in the budget". That was wrong for
+> one reason: cms.tn.gov.in blocked our network, so the **Revenue & Disaster Management (Demand 16)
+> policy note was never fetched**. Re-fetched through ocitwo the same day, it names CRTFF & SDSS
+> three times, at an outlay of ₹122.76 crore, and constitutes IFMC under G.O. (Ms) No. 749 (23.10.2025).
+> What stands from this scan: MAWS (Demand 34) silence, PDGF's absence from every budget document,
+> and the missing heads of account. Keep this file as the provenance of that partial-visibility error.
 
 Question: does the Tamil Nadu budget (demands, policy notes, speeches) ever show a budgetary allocation for the Real-Time Flood Forecasting & Spatial Decision Support System?
 
@@ -11,7 +18,7 @@ Question: does the Tamil Nadu budget (demands, policy notes, speeches) ever show
 
 Not obtainable: the Detailed Demands for Grants annexes (heads of account) — `cms.tn.gov.in` serves neither our network nor Wayback for `_dg_` files. → RTI ask.
 
-## Findings
+## Findings (pre-correction — see banner above)
 
 ### 1. The project's budgetary home is Demand No. 34 (MAWS) — and TNUIFSL is its pipe
 The MAWS policy note 2025-26 lists TNUIFSL as parastatal #6 and profiles it (§7): manager of TNUDF (corpus ₹199.60 crore) and **four external credit lines** (§7.2): TNUFIP (ADB, 3 phases), MID-TN (KfW), SMIF-TN-III (KfW), **TNCRUDP (World Bank)** — "Funds totaling **₹17,297.14 crore**... with external assistance of **₹10,691.39 crore**" (Table 7.1). TNCRUDP appears ~12× across the note with scheme-level works (e.g. ₹59.92 crore packages).
