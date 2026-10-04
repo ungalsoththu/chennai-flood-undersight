@@ -1,0 +1,1155 @@
+Public Disclosure Authorized
+
+
+                                    Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+                                    TN Sustainable Urban Development Project (P150395)
+
+
+
+                                                                                                                  Report Number: ICRR0023793
+
+                               1. Project Data
+
+
+
+                                Project ID                                   Project Name
+                                P150395                                      TN Sustainable Urban Development Project
+Public Disclosure Authorized
+
+
+
+
+                                Country                                      Practice Area(Lead)
+                                India                                        Urban, Resilience and Land
+
+
+                                L/C/TF Number(s)                             Closing Date (Original)               Total Project Cost (USD)
+                                IBRD-84880                                   31-Mar-2022                                        352,729,993.47
+
+                                Bank Approval Date                           Closing Date (Actual)
+                                31-Mar-2015                                  31-Mar-2023
+
+                                                                             IBRD/IDA (USD)                                     Grants (USD)
+Public Disclosure Authorized
+
+
+
+
+                                Original Commitment                            400,000,000.00                                               0.00
+
+                                Revised Commitment                             352,729,993.47                                               0.00
+
+                                Actual                                         352,729,993.47                                               0.00
+
+
+
+
+                                Prepared by                  Reviewed by                   ICR Review Coordinator         Group
+                                Cynthia Nunez-Ollero         Vibecke Dixon                 Avjeet Singh                   IEGSD (Unit 4)
+Public Disclosure Authorized
+
+
+
+
+                               2. Project Objectives and Components
+
+                               DEVOBJ_TBL
+                               a. Objectives
+                                  According to the Financing Agreement (FA, p 5) and the Project Appraisal Document (PAD, paragraph 11),
+                                  the Project Development Objective (PDO) of this Tamil Nadu Sustainable Urban Development Project was "to
+                                  improve urban services delivery in participating Urban Local Bodies (ULBs) in a financially sustainable
+                                  manner and to pilot improved urban management practices in selected cities."
+
+                                  This review will parse this objective into two:
+
+
+                                                                                                                                   Page 1 of 21
+     Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+     TN Sustainable Urban Development Project (P150395)
+
+
+
+         To improve urban services delivery in participating Urban Local Bodies (ULBs) in a financially
+          sustainable manner
+         To pilot improved urban management practices in selected cities.
+
+
+
+b. Were the project objectives/key associated outcome targets revised during implementation?
+  No
+
+c. Will a split evaluation be undertaken?
+   No
+
+d. Components
+   1. Results Based Grants for Urban Governance: (US$61 million, of which IBRD US$55 million at
+   appraisal; IBRD financing reduced to US$54.5 million at restructuring; US$57.41 million, of which IBRD
+   US$51.67 million, actual) This component was to finance results-based grants to three ‘Model Cities’ -
+   Erode and Vellore municipal corporations, and Hosur municipality. These grants were to be distributed on a
+   pilot basis to finance improvements in four urban management areas: (i) empowerment and organizational
+   capacity; (ii) spatial development planning; (iii) sustainable finances; and (iv) e-governance and public
+   disclosure. In addition, this component was to finance project management support and consultant services
+   for the Directorate of Municipal Administration (DMA) to implement this component. At the 2020
+   restructuring, US$0.50 million allocated for project management and technical assistance (TA) to DMA was
+   reallocated to increase the TA for Urban Local Bodies (ULBs) under Component 2 below.
+
+   2. Investments in Urban Services (US$504 million, of which IBRD US$323 million at appraisal; IBRD
+   financing increased to US$516 million at restructuring; US$462.81 million, of which IBRD US$290.51
+   million, actual) The Tamil Nadu Urban Infrastructure Financial Services Limited (TNUIFSL) was to
+   implement this component. The TNUIFSL is a public limited company of the Government of Tamil Nadu that
+   served as a Public-Private Partnership with equity participation from banks and financial institutions
+   including the Industrial Credit and Investment Corporation of India (ICICI) Bank, the Housing Development
+   Finance Corporation (HDFC) Limited, and Infrastructure Leasing and Financial Services (IL &FS)
+   Limited. This component was to finance: (i) investments in urban services, including water, sewerage,
+   municipal solid waste, urban transportation, sewage management, and storm water drainage (SWD), and
+   support project management and supervision; (ii) a Credit Rating Enhancement Fund (CREF) to pilot
+   instruments such as municipal bonds and other market-based financing instruments that ULBs in Tamil
+   Nadu may use to mobilize resources beyond budgetary sources; and (iii) technical assistance (TA) to ULBs,
+   the Greater Chennai Corporation (GCC), and the TNUIFSL. The TA for ULBs was to help prepare and
+   implement subprojects, including environmental and social (E&S) mitigation actions, public-private
+   partnership (PPP) arrangements, and implement credit enhancement measures. The TA to the GCC
+   was for urban flood risk mitigation. The TA for TNUIFSL was for institutional development. Four changes
+   occurred during implementation. First, in July 2015, after the World Bank approved this loan (see Dates
+   below), the Securities and Exchange Board of India (SEBI) adopted the 2015 Issue and Listing of Debt
+   Securities by Municipalities Regulation. This law stated that only a municipality or a corporate municipal
+   entity may issue debt securities or bonds, but not trusts such as the Water and Sanitation Pooled Fund or
+   TNUDF, as designed under the CREF. TNUIFSL was unsuccessful in requesting an amendment. The tight
+   domestic credit markets at that time also meant that commercial banks loans were unviable. At the project
+   midterm review (MTR) and in the 2020 restructuring, CREF was dropped (see Section 4 Efficacy below).
+   Second, the US$20 million allocated to CREF was redistributed to urban investments and TA under this
+
+                                                                                                  Page 2 of 21
+    Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+    TN Sustainable Urban Development Project (P150395)
+
+
+
+  same component. Third, the government increased its contributions by US$9 million and increased
+  the overall allocation for this component from US$504 million to US$516 million (US$9.0 million from the
+  government and US$0.5 million from component 1 above and US$3.5 million from component 3 below).
+  Fourth, in the 2021 restructuring, a new COVID-19 related response subcomponent was added taking
+  US$5.0 million from urban investments to finance oxygen supplies, medical and testing equipment/kits and
+  supplies, essential equipment for case management, essential pharmaceuticals, and training and capacity
+  building related to COVID19 care.
+
+  3. Urban Sector Technical Assistance (TA) (US$34.0 million, at appraisal of which IBRD was US$21.0
+  million; US$13.88 million, actual of which IBRD US$9.55 million) This component was to be implemented by
+  DMA and was to finance TA for ULBs: (i) to develop next-generation municipal e-governance and
+  geographic information systems (GISs); (ii) training, sector studies, operations and maintenance (O&M),
+  and strengthening of public financial management for institutional development and capacity building. This
+  component was also to finance project management and DMA’s incremental operating costs. In 2020, the
+  project realized savings of US$3.5 million from lower than-anticipated training expenditures and incremental
+  operating costs. The amount was reallocated to Component 2 above.
+
+
+
+e. Comments on Project Cost, Financing, Borrower Contribution, and Dates
+  Project Cost: The total project cost was US$400.00 million. The loan disbursed US$352.73 million. The
+  balance of US$47.27 million was cancelled (ICR, paragraph 56).
+
+  Financing: The International Bank for Reconstruction and Development (IBRD) financed this loan.
+
+  Borrower Contribution: The government committed US$200.00 million in contributions, added US$9.0
+  million at restructuring, and disbursed US$182.37 million at closing. The balance of US$26.63 million was
+  undisbursed because of the reduced number of project-affected families to be resettled requiring
+  assistance.
+
+  Dates: The loan was approved on March 31, 2015 and made effective on August 21, 2015. The Mid Term
+  Review (MTR) was conducted on May 6, 2019. The loan was to close originally on March 31, 2022 but was
+  extended (see below) by an additional 12 months to close on March 31, 2023. The project was restructured
+  three times:
+
+        On June 30, 2020 to reallocate loan savings of US$2 million from Components 1 (results-based
+         grants) and 3 (urban sector TA) for priority urban sector TA (component 3), cancel US$18 million for
+         CREF (Sub-Component 2) to finance cost over-runs under component 2 and make the
+         corresponding changes to the targets in the indicators of the results framework.
+              o At the PDO outcome levels:
+                      indicator 1: Increased the target number of direct project beneficiaries from 2.0 million
+                        to 2.2 million, of which the target of 40 percent female was unchanged.
+                      indicator 2: Added the target of 95 percent repayment rate on sub-loans by TNUDF to
+                        ULBs.
+                      indicator 3: Clarified the target of the cumulative Increase in own source revenues
+                        (OSR) over the previous year of ‘Model Cities’ expressed in INR crores. The
+                        target cumulative increase in Erode and Vellore of Rs. 31.93 crore each and in Hosur
+                        an increase of Rs.15.96 crore over and above the OSR of 2016-17.
+
+                                                                                                   Page 3 of 21
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     TN Sustainable Urban Development Project (P150395)
+
+
+
+               o At the output levels:
+                       reduced the end target of “participating ULBs with updated GIS maps” from 90 to 30
+                         ULBs.
+                        increased the end target of “participating ULBs with operational new e-governance
+                         systems” from 90 to 135.
+                        revised the end target for “Improved ULB empowerment in the ‘Model Cities’”
+                           from “Each ULB has adopted a sustainability plan for the technical expert cell’s
+                           functions and responsibilities after the Project’s closing date” to “Each ULB has
+                           appointed a high-quality Technical Expert Cell.”
+                         revised the end target for “Improved ULB citizen engagement in the ‘Model Cities’”
+                           from “Each ULB has established an online platform to exchange information with
+                           citizens regarding key service delivery parameters” to “Each ULB has implemented all
+                           the e-governance modules as identified by the Chennai Metropolitan Area
+                           Administration (CMA).”
+         On June 9, 2021 to add a new disbursement category for the COVID-19 expenditures and reallocate
+          costs among components, with no changes to the results framework. Costs were reallocated
+          because (a) funding for urban investment subprojects was increased to cover the increased costs of
+          existing subprojects and to add new subprojects to utilize loan savings; (b) the cancellation of the
+          CREF subcomponent due to a change in regulation; 2 (c) the addition of the COVID-19 pandemic
+          emergency response subcomponent; (d) lowing the target related to GIS mapping given the capacity
+          constraint in DMA and ULBs, and increasing the target related to e-governance system to scale up
+          impacts; and (e) the increase in project duration to complete construction activities that were
+          delayed mainly due to the COVID-19 pandemic, the 2021 state elections, and flooding in Chennai in
+          November 2021. The cancellation of the CREF activity does not affect the PDO outcome in a major
+          way, as the CREF activity represented only 3.3 percent of the overall project cost, and there were
+          other activities under Component 1 and 3 to support increase in ULBs’ revenue collection and hence
+          enhance their financial sustainability. Overall, these changes expanded the scope of relevant
+          activities (particularly urban investments, COVID-19 response, and e-governance systems), while
+          removing an activity that could not be implemented because of national regulatory changes.
+         On February 8, 2022 to extend the loan closing date to complete ongoing activities.
+
+   Split Rating: A split rating does not apply because the PDOs remained unchanged, and the project scope
+   was scaled up. While the CREF activity and its associated indicator were dropped, other original indicators -
+   related to loan repayment and OSRs - sufficiently captured the outcome of ‘improve financial sustainability.’
+   In addition, reallocated resources expanded the project’s scope - increased the number of
+   target beneficiaries, increased OSR generation, and expanded e-governance systems. According to the
+   World Bank Guidance: ICR for Investment Project Financing (IPF) issued on December 9, 2021, para. 60,
+   regarding projects with expanded scope: "If the project became overall more ambitious, a split rating is not
+   applied […]. The operation can be assessed based on the more ambitious revised outcomes and outcome
+   targets.”
+
+
+
+
+3. Relevance of Objectives
+
+Rationale
+
+
+                                                                                                   Page 4 of 21
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     TN Sustainable Urban Development Project (P150395)
+
+
+
+Context: Tamil Nadu is India's most urbanized state. Its urban population has increased from 24.4 percent
+in 1951 to 48.5 percent in 2011. 12 corporations, 124 municipalities, and 528 town panchayats
+comprise the state of Tamil Nadu. Panchayat means "assembly" (ayat) of five (panch). Traditionally,
+panchayats consisted of respected elders selected by the local community to settle disputes both between
+individuals and villages. Chennai, the capital of Tamil Nadu is the sixth most populous city in India with an
+estimated population of 4.9 million, in an area of 426 square kilometers after a 2011 expansion. The
+Corporation of Chennai merged peri-urban areas consisting of 9 Municipalities, 8 Town Panchayats and 25
+Village Panchayats and has an estimated population of 9 million. Service gaps were noted for the
+urbanizing areas of Tamil Nadu. Sewerage and storm water drains covered less than 30 percent of the city.
+Less than 10 percent of solid waste was treated and disposed. City governments needed to generate
+financial resources, create jobs, and improve urban governance. The Government of Tamil Nadu noted in
+its Urban Vision 2023 that urban local bodies (ULBs) required an estimated US$42 billion in
+investments during 2012–2023 to meet its urban challenges.
+
+Country Plans: The Government of India launched several urban development programs such as the ‘100
+Smart Cities’, ‘Atal Mission for Rejuvenation and Urban Transformation’ (AMRUT), and ‘Swachh Bharat
+(Clean India) Mission’ (SBM). The PDO remained relevant to Vision Tamil Nadu 2023 “to promote and
+facilitate the development of inclusive and sustainable cities." This project focused on water supply service
+improvement, reuse of wastewater, e-governance, and strengthening of the financial and administrative
+capacity of ULBs also closely aligned with the objectives of India’s flagship missions AMRUT 2.0 and SBM
+2.0 (2021–2026), as well as the Tamil Nadu Urban Vision 2031 that aims to achieve universal access to
+basic infrastructure and services in all ULBs, improve environmental sustainability, and strengthen ULBs’
+institutional capacity.
+
+World Bank Country Partnership Framework: At closing, the PDO remained relevant to the WBG India
+Country Partnership Framework (CPF) for FY18–22 (ICR, paragraph 21). The PDO contributed to Area I:
+Promoting resource-efficient growth. The 2018 Systematic Country Diagnostic noted that efficient cities
+contributed to resource-efficient growth for India. The PDO supported making ULBs more responsive to its
+constituents by investing in basic services and improving urban governance. The PDO was aligned with the
+World Bank’s goals of eliminating poverty and promoting shared prosperity by delivering water supply
+services to underserved populations, including low-income people in the cities and peri-urban areas of
+Tamil Nadu.
+
+World Bank Experience in the Country and in the Sector: The World Bank has a long engagement in
+Tamil Nadu and is the repository of international good practices in urban management. This project was to
+demonstrate innovation in three areas: (i) addressing the gaps in urban services, while focusing on
+improving environmental sustainability; (ii) setting up a credit enhancement facility to increase ULBs’ access
+to the capital market, based on TNUDF’s experience in issuing municipal bonds and similar interventions in
+the United States and elsewhere; and (iii) piloting a results-based financing approach with disbursements
+as incentives to improve urban governance in selected ULBs. Lessons from other World Bank projects,
+such as the Pakistan Punjab Cities Governance Improvement Project. the Chennai City Partnership:
+Sustainable Urban Services Program (CCP, P175221) and preparation of the Tamil Nadu Climate Resilient
+Urban Development Program (TNCRUDP, P179189).
+
+The PDO was formulated at an outcome level with the financial sustainability dimension. The Theory of
+Change (ToC) in the ICR indicated that the improvement of urban service delivery and management
+practices was expected to lead to improved living conditions for urban residents, improved environmental
+
+
+
+                                                                                                    Page 5 of 21
+                                      Independent Evaluation Group (IEG)                       Implementation Completion Report (ICR) Review
+                                      TN Sustainable Urban Development Project (P150395)
+
+
+
+               sustainability and resource efficiency, and improved transparency and citizen engagement. Both the ToC
+               and the project design showed that the project was expected to contribute to these higher-level objectives.
+
+               Overall, the relevance of the PDO is rated High. The PDOs were relevant to both the country plans for
+               Tamil Nadu and the Urban Local Bodies (ULBs) as well as the World Bank's partnership framework for the
+               country and the sector.
+
+
+               Rating Relevance TBL
+
+
+
+
+               Rating
+               High
+
+
+   4. Achievement of Objectives (Efficacy)
+
+EFFICACY_TBL
+
+
+
+
+                             OBJECTIVE 1
+                             Objective
+                             To improve urban services delivery in participating Urban Local Bodies (ULBs) in a financially sustainable
+                             manner.
+                             The 30 ULBs include 14 municipal corporations, 15 municipalities, and one town panchayat. Two
+                             municipalities, Pallavaram and Pammal, were merged with the Tambaram Municipal Corporation.
+
+
+                             Rationale
+                             Theory of Change: No explicit Theory of Change (ToC) was outlined at appraisal. A retrospective TOC was
+                             prepared for the ICR. The activities were designed to deliver demand-based infrastructure
+                             investments. These infrastructure investments were to improve the urban environment,
+                             emphasized 'sustainability' (expressed as no less than 40 percent in value). ULBs were to be selected using
+                             the Tamil Nadu Urban Development Fund (TNUDF) framework criteria.
+
+                             Inputs were to be the training and resources to build capacity on public financial management such as the
+                             preparation of Own Source Revenue (OSR) implementation plans. These plans were to include the financing
+                             of the operations and maintenance (O&M) needs of completed assets, delivering services to ULB residents,
+                             restoring water bodies, treating, and reusing wastewater.
+
+                             Outputs were to be the physical measures of the improved urban services such as improved or newly
+                             constructed roads, installed energy-efficient streetlights, improved drainage, and new water and sewerage
+                             connections. Outputs were also to include a municipal solid waste system in place, constructed stormwater
+                             drainage, restored water bodies, and a new Tertiary Treatment Reverse Osmosis (TTRO) plant and
+                             conveyance main. ULBs were to determine these investments based on demand. Outputs to
+                             show improved financial sustainability of participating ULBs’ were to include OSR implementation plans, an e-
+                             governance system - Urban Tree Information System (UTIS) to track revenue collection, and updated GIS
+                             maps for property tax assessments. Some targets were determined during implementation since ULBs were
+                             expected to prepare these investments as part of the demand-based design.
+
+
+                                                                                                                              Page 6 of 21
+   Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+   TN Sustainable Urban Development Project (P150395)
+
+
+
+Outcomes were to be improved services delivered to gender-segregated direct project beneficiaries.
+Outcomes were to also include the increase in ULB resources mobilized from own source revenues (OSR)
+and non-budgetary sources. The outputs from the demand-based investment plans that ULBs prepared were
+causally linked to these outcomes.
+
+Critical assumptions: The TOC included the following critical assumptions that, if realized, were to enhance
+the achievement of the PDO: (i) investments reflected the beneficiary's needs; (ii) ULBs maintained
+constructed assets; and (iii) infrastructure services were affordable.
+
+The ToC is clear. The causal link between inputs, outputs, and outcomes is logical. ULB capacity is built,
+ULBs generate demand-based investment plans with citizen participation, priority investments are made,
+resources are mobilized, and improved services are delivered. The outcomes were causally attributed to the
+inputs and outputs of the project.
+
+OUTPUTS:
+
+      30 ULBs (original target was unknown at appraisal, the target of 30 determined at implementation
+       according to the email from the Task Team, target achieved) received result-based grants
+       to implement reforms in empowerment and organizational capacity, spatial and development
+       planning, e-governance, public disclosure and citizen engagement, and OSR planning.
+      Completed the first TTRO wastewater treatment plant in Tamil Nadu as targeted. The plant treated
+       and supplied 30 mld of used water through 28.50 km conveyance main to 11 industries in the Manali
+       area outside Chennai city. The TTRO plant commenced operation in 2019 and started selling recycled
+       water to industrial consumers, who reported a 17 percent decrease in manufacturing costs because
+       of cheaper water from the TTRO.
+      The project facilitated the creation of a Public Finance Management Reform Cell in the Directorate of
+       Municipal Administration (DMA) as targeted. The cell provided strategic inputs and technical support
+       to ULBs to implement public finance-related reforms in the ULBs. The cell developed financial
+       indicators and ranking systems of ULBs and suggested improvements in the accounting records
+       submitted by ULBs in UTIS, including sharing the reports with the public. UTIS is a web-based
+       workflow application software that integrates 29 modules such as birth and death registration, property
+       tax, water charges, trade licenses, building plan management, accounting system, revenue, and
+       human resources management (ICR, footnote 11). The project also provided training on public finance
+       management to the participating ULBs.
+      Urban Sector Technical Assistance (TA): Completed capacity-building activities, including e-
+       Governance systems implemented through the ‘Urban Tree Platform’ that is now fully operational in
+       135 municipalities in the state. 26 training and capacity building activities were conducted for
+       37,819 ULB staff. The critical TA for Chennai flood warning and decision support system was
+       delayed because of delayed clearances from the Ministry of Defense. The Geographic Information
+       System (GIS) related activity for ULBs required was to be completed during the 12 month an
+       extension.
+      30 ULBs constructed and upgraded basic infrastructure. The Task Team clarified to IEG that the
+       targets for these outputs were determined during implementation when the ULBs enjoined citizen
+       participation to formulate demand-based investment plans. The Task Team provided additional
+       information for some but not all targets by ULBs to IEG.
+
+
+
+
+                                                                                                Page 7 of 21
+  Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+  TN Sustainable Urban Development Project (P150395)
+
+
+
+          o Access to improved water supply: The primary source of water used to be stand posts, public
+            fountains, and water tankers. Dependency on water tankers decreased from 18.9 percent in
+            2015 to 0.8 percent in 2022 (ICR, footnote 6).
+                  148,411 households were provided new water connections (baseline was 343,313
+                    households, original target was 240,319 households or 70 percent, achieved 62
+                    percent not achieving target). The proportion of new or rehabilitated water and sewer
+                    connections against aggregate targets among participating ULBs was not achieved
+                    because of implementation delays in Nagercoil, which represented 18 percent of the
+                    targeted households' water connections. This was reported to have started operation in
+                    September 2023. Delays were due to the COVID-19 pandemic, contractors unable to
+                    mobilize labor and materials, and the added time for issuing the revised administrative
+                    sanction for the cost overruns.
+          o Access to improved drainage and reduced flooding:
+                  Built 500.4 km of new stormwater drainage systems network, including 438.8 km in
+                    Chennai (original target was 290 km, target exceeded),
+                  Installed Real-Time Flood Forecast System (RTFFS) for Chennai, as targeted. A GIS
+                    data center in GCC hosts spatial data and coordinates with other departments in their
+                    use.
+          o The following additional outputs were reported though there were no targets.
+                  Access to improved water supply: The project installed 1,068.12 km of water supply
+                    pipelines (representing an increase of 3.1 times over the baseline of 344.52 km. The
+                    project added 79.84 million liters per day (mld) of additional water treatment capacity,
+                  Access to improved roads: The project constructed and upgraded 335.88 km of all-
+                    season roads and constructed storm water drains with culverts to address delayed
+                    improvements in the past 6-10 years, lack of maintenance, and damage from water and
+                    sewerage pipes that were laid out along these roads.
+                  Access to improved drainage to reduce flooding: 98 kilo liters of water storage capacity
+                    was added through the rehabilitation of ponds.
+                  Improved safety and visibility: The project installed 17,301 higher luminosity energy-
+                    efficient light-emitting diode (LED) streetlights that enhanced the residents’ sense of
+                    security, especially for women, the elderly, and children. The installed energy-efficient
+                    streetlights generated savings of 45 percent in energy consumption and monthly
+                    savings of INR 1.5 crores (US$0.18 million) for GCC.
+                  Improved public space through ecological conservation: The project restored 508.74
+                    acres of water bodies, including the polluted Periya lake in the Chennai Metropolitan
+                    Area.
+
+OUTCOMES:
+
+    The project benefited a total of 2.8 million residents. The original target was 2 million, increased at the
+     2020 restructuring to 2.2 million. The revised target was exceeded. 49 percent of the beneficiaries
+     were female, exceeding the original, unrevised target of 40 percent.
+    The Chennai Real-Time Flood Forecast System (RTFFS) share real-time data and issues alerts to
+     various stakeholders based on rainfall predictions three days in advance. The Water Resource
+     Department use the data to monitor lake operations and river flows. The Revenue Department use the
+     data to aid in flood relief measures. The Police and the Fire Departments use the data for flood relief
+
+
+                                                                                                  Page 8 of 21
+Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+TN Sustainable Urban Development Project (P150395)
+
+
+
+   and rescue. The Education Department use the data to plan school schedules during flooding
+   incidents. The public is also provided inundation information.
+  After the TTRO started selling recycled water to industries in 2019, the Greater Chennai Corporation’s
+   (GCC’s) revenue increased by INR 192 crore (US$23.20 million), representing a surplus of INR 30
+   crore (US$3.63 million), thus contributing to the city’s financial sustainability.
+  At the end-line survey, 68 percent of the female respondents in Chennai said there was an increased
+   sense of safety to commute after sunset owing to the installation of streetlights. The installed energy-
+   efficient streetlights also generated savings of 45 percent in energy consumption and monthly savings
+   of INR 1.5 crores (US$0.18 million) for the Greater Chennai Corporation (GCC).
+  All 30 ULBs serviced their debts from year-on-year revenues, achieving a 100 percent repayment rate
+   on TNUDF sub-loans against the original target of 95 percent. This outcome showed an Increased
+   capacity for debt servicing.
+  Investments benefited the urban poor using data from a sample of ULBs. Water supply investments in
+   four ULBs benefited 53,357 urban poor, and road investments in 11 ULBs improved the connectivity of
+   more than 30 slums.
+  The UTIS improved revenue collection (online and offline options for citizens to pay taxes and service
+   charges, a one-stop web portal and mobile interface in place in all 158 ULBs (including 138
+   municipalities and 20 city corporations) in Tamil Nadu. This achievement exceeded the original target
+   of 90 ULBs and the revised target of 135 ULBs. For evidence, in 2018, property tax collection
+   efficiency increased from 36 percent in 2018–19 to 53 percent in 2021–22, leading to an increase of
+   63 percent, or INR 29,059 crore (US$3.51 billion) in property tax collection.
+  The ULBs' use of the Urban Tree Information System (UTIS) contributed to their financial
+   sustainability, evident in the increase of INR 7,728 crore (US$933.90 million) in property tax collection
+   achieved in 23 additional ULBs (UTIS was rolled out to 158 ULBs from a target of 135). This
+   exceeded the original target of mobilizing an additional INR 492 crore (US$59.46 million). The use of
+   the UTIS also increased the interface with citizens. This increase in transparency was evident in
+   ULBs preparing their annual accounts within two months after the end of the financial year,
+   submitting their accounts on time to the Fifteenth Finance Commission, and accessing grants. The
+   is a web-based workflow application software that integrates 29 modules - such as birth and death
+   registration, property tax, water charges, trade licenses, building plan management, accounting
+   system, revenue management, and human resources management - in all 158 ULBs (including 138
+   municipalities and 20 city corporations) in Tamil Nadu. This achievement exceeded the original target
+   of 90 ULBs and the revised target of 135 ULBs.
+  A total of 622,328 people were provided access to wider and better-quality roads. Target was
+   647,532, according to the Task Team. Target was almost achieved. Respondents to the end line
+   survey stated that on average, they saved about 30 minutes in travel time due to reduced congestion,
+   and experienced improved walking and cycling experience to work, schools, and markets.
+  The project provided safe and reliable piped water supply to 774,337 people in 11 ULBs (target was
+   1,231,412, target not achieved). The coverage of tap water supply increased from 49 percent before
+   the project to 82 percent in 2022. Per capita supply achieved the state target of 135 liters per capita
+   per day (lpcd) in the ULBs receiving investment, i.e., more than twice the baseline supply of 50 lpcd in
+   2011. About 91 percent of the respondents to the end line survey stated that they were satisfied with
+   the quality of water supplied post project, against 35 percent in 2015.
+  The project reduced the impact of flooding, benefiting 1.16 million people in the three ULBs where
+   stormwater drainage investments were made. The target of 1.16 million was achieved. The project
+   also reported on the following, though there were no targets set. In the coastal city of Cuddalore, the
+
+
+                                                                                              Page 9 of 21
+   Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+   TN Sustainable Urban Development Project (P150395)
+
+
+
+       storm water drains covered a wider area from 36 to 90 percent, and inundation reduced from 204 to
+       12 hours. In Cuddalore, all waters drain from the Gediyam River to the sea. Inflows from all secondary
+       drains reduce the carrying capacity of the channel, leading to high water levels in the river and long-
+       standing time for flood waters to recede. In Chennai and Thoothukudi, flooding hot spots were
+       reduced by 50–70 percent, and the hours of inundation were reduced from 168 hours to less than half
+       an hour.
+
+      The project Increased property tax via GIS mapping. This resulted in an additional revenue of INR 65
+       crore (US$7.85 million) per year from 14 percent of bills verified. With all the bills verified, GCC’s
+       annual tax revenue was expected to increase by about of INR 500 crore (US$60.42 million). A drone
+       survey was completed in 14 ULBs. A mobile application for field survey was developed. Digitalization
+       of GIS maps and door-to-door survey in these ULBs was not completed because DMA experienced
+       delay in appointing a GIS specialist. The indicator ‘Number of participating ULBs with updated GIS
+       maps’ did not achieve the original target of 90 or the revised target of 30. A follow-on operation,
+       TNCRUDP, was expected to complete these activities. GIS mapping in the target ULBs was not
+       expected to have an immediate impact on property tax collection, because revenue staff can only
+       conduct field verification of bill variations after the GIS maps are updated. In GCC experience, this
+       update may take over a year.
+      According to beneficiary surveys and secondary data from real estate portals, infrastructure
+       improvements under the project increased property values. This was expected to increase property
+       tax collection by the ULBs. On average, rentals in the project areas have increased 12 percent in the
+       last five years (the control group reported a 3 percent increase).
+
+The ToC provided the causal attribution of the inputs and outputs that contributed to the outcomes to achieve
+the PDO (improved urban services delivery in a financially sustainable manner). The evidence from the end-
+line surveys showed beneficiary satisfaction with the improved services delivered. Evidence from the increase
+in resource mobilization showed the sustainable way these services were to be supported in the long term.
+
+Overall, the efficacy of the project to achieve this objective is rated Substantial with moderate shortcomings.
+The project exceeded the two outcome indicators - the number of beneficiaries and the increased capacity for
+debt servicing. The project achieved six of the eight output targets - solid waste collection coverage, citizen
+engagement, and empowerment, stormwater drainage investments in Chennai, the proportion of ULBs
+reporting improved service delivery, and e-governance. The output targets related to GIS mapping and new
+or rehabilitated water and sewer connections were not achieved because of implementation delays related to
+cost overruns and COVID-19 disruptions.
+
+
+
+Rating
+Substantial
+
+
+OBJECTIVE 2
+Objective
+To pilot improved urban management practices in selected cities (i.e., three Model Cities) Erode and Vellore
+Corporations and Hosur Municipality
+
+Rationale
+                                                                                                Page 10 of 21
+   Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+   TN Sustainable Urban Development Project (P150395)
+
+
+
+Theory of Change: A ToC was not prepared at appraisal but was reactively constructed for the ICR. This
+objective was designed to provide results-based grants to three pilot cities - Erode and Vellore municipal
+corporations and Hosur municipality - to fund investments and urban management practices. These ULBs
+were representative of medium-size cities with populations between 200,000 and 500,000 and were either
+newly upgraded or expected to be upgraded from municipalities at the time of preparation and was an
+opportunity to provide capacity support. Every year, grants were to be released to these cities after they met
+the four targets of disbursement linked indicators (DLIs) or Performance Based Conditions (PBCs). These
+DLIs served as incentives for the cities to improve in four urban management areas: (i) empowerment and
+organization capacity; (ii) spatial and development planning; (iii) sustainable finances; and (iv) e-governance,
+public disclosure, and citizen engagement.
+
+Inputs were to include the training and technical assistance to assist the model cities to develop e-
+governance systems, upgrade GIS maps for property tax assessments and build capacity to undertake public
+private partnerships and improve public financial management. Inputs also included the grants that were
+distributed to the three model cities after they met the targets of DLIs.
+
+Outputs were to be an installed e-system to monitor revenue generation, called Urban Tree Information
+System, upgraded GIS maps to improve property tax assessments, and OSR improvements plans for
+improved resource mobilization.
+
+Outcomes were to be improvements in the financial management of the Model Cities based on the effective
+use of the UTIS. The UTIS replaced the manual systems. The Model Cities would provide real-time
+information on ownership and conditions of assets to tap into market resources. Other outcomes included
+improving solid waste management services, increases in property tax receipts due to improved assessments
+assisted by the upgraded GIS mapping; and increases in revenues from non-budgetary sources, such as fees
+and permits.
+
+Critical assumptions: The same critical assumptions noted in the Theory of Change under objective 1
+applied to this TOC.
+
+The ToC was clear. The outcomes were attributable to the causally linked inputs and outputs. A minor gap
+was a lack of indicator associated with the resulting leverage that would have tapped into private sector
+participation in delivering services because of the improved financial management of the Model Cities.
+
+OUTPUTS:
+
+      The three model cities received grants of INR 357 crores (US$43.14 million) and achieved a
+       disbursement rate of 94 percent of the original target of US$45.9 million, almost achieving the target
+       of 100 percent. The Task Team clarified to IEG that the achieved disbursement rate refers to the
+       amount of fund disbursed against the revised allocation for the Results Based Grants for Urban
+       Governance. The grants were invested in improving service delivery and develop revenue-generating
+       amenities such as commercial complexes, community halls, parks, and gyms.
+      The Model Cities developed revenue improvement plans and achieved OSR targets for the first four
+       years. Before 2020, the ULBs’ revenue staff conducted field verifications and reported the expansion
+       of the property tax base, increased property tax collections and non-tax items such as rent from
+       markets, community halls, plot regulation charges, and solid waste user charges. Beginning in 2020,
+
+
+
+                                                                                                  Page 11 of 21
+                               Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+                               TN Sustainable Urban Development Project (P150395)
+
+
+
+                                   the annual targets were not achieved because the state government rolled back the property tax rate
+                                   increase in place and lowered tax filing and collection during the COVID-19 pandemic.
+
+                            OUTCOMES:
+
+                                  The ‘Model Cities’ achieved an increase of INR109 crores in OSR over the previous year
+                                   after implementing its respective OSR improvement plans (US$13.17 million) in 2021–22 over the
+                                   OSR of 2016–17 (exceeding the target of INR79.82 crore). The baseline was INR72 crores in FY13.
+                                   The original target was an increase of INR22.5 crores. The original target was exceeded. The
+                                   target was revised at restructuring to specify targets for each Model City (i) Erode and Vellore
+                                   Corporations were to increase OSRs over the previous year by Rs31.93 crore each in the end of
+                                   project over and above the OSR of 2016-17; (ii) Hosur Municipality was to show cumulative increase
+                                   of OSR amounting to Rs15.96 crore in the end of Project over and above the OSR of 2016-17
+                                  The three Model Cities achieved the targets for the three DLIs related to Improved technical and
+                                   managerial capacity for urban management - empowerment and organizational capacity (DLI 1),
+                                   spatial and development planning (DLI 2), and e-governance, public disclosure, and citizen
+                                   engagement (DLI 4). The cities were the first to implement UTIS. The Model Cities established
+                                   Technical Expert Cells and developed Multiyear Capital Investment and Urban Design Improvement
+                                   Plans. The cities invested about US$24 million in grants and OSR for 11 sub-projects. The Model
+                                   Cities reduced staff vacancies to less than 5 percent of sanctioned posts (exceeding the target of 20
+                                   percent); resolved about 80 percent of grievances within the time limit set in their Citizen’s Charters
+                                   (target 80 percent); and achieved 90 percent of the Ministry of Urban Development Service Level
+                                   Benchmarks Index related to solid waste household collection coverage, achieving the target.
+                                  There was a 90 percent average increase on Service Level Benchmarks (SLB) Index for the 'Model
+                                   Cities' related to solid waste household collection coverage (baseline was 65 percent, target 90
+                                   percent, target achieved).
+                                  Repayment rates on sub loans by TNUDF to ULBs (baseline 100 percent, target 95 percent, achieved
+                                   100 percent, exceeding the target). This was initially an Intermediate Result Indicator of PAD and was
+                                   changed to a PDO indicator in 2020. The e-governance system implemented contributed to an
+                                   increase in revenue collection, GIS mapping improved the property tax base, and strengthened the
+                                   financial management capacities of the ULBs.
+
+                            The objective of improved urban management practices in the Model Cities was achieved from the causally
+                            linked inputs and outputs outlined in the ToC. The use of the UTIS boosted the capacity of the Model Cities to
+                            deliver urban services (solid waste management), increase own source revenues (property tax receipts) and
+                            non-budgetary revenues (fees and permits) and increase transparency and inclusiveness in planning and
+                            management. Overall, the efficacy of the project to achieve this objective is rated Substantial. Systems were
+                            in place to foster improvements in urban management practices in the three model cities.
+
+
+
+                            Rating
+                            Substantial
+
+
+OVERALL EFF TBL
+
+
+
+
+                  OBJ_TBL
+
+
+
+
+                                                                                                                            Page 12 of 21
+      Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+      TN Sustainable Urban Development Project (P150395)
+
+
+
+
+  OVERALL EFFICACY
+  Rationale
+  The first objective to 'improve urban services delivery in participating ULBs in a financially sustainable
+  manner' was substantially achieved with moderate shortcomings especially on the water supply and sewer
+  connections which were not achieved due to implementation delays. The second objective of improved urban
+  management practices in the Model Cities was substantially achieved. Overall, the efficacy of the project to
+  achieve both objectives is rated Substantial.
+
+
+
+  Overall Efficacy Rating
+  Substantial
+
+
+
+ 5. Efficiency
+Economic Efficiency: At appraisal, the project adopted a framework approach for project investments under
+the second component, Investments in Urban Services. Prior to implementation, municipal subprojects under
+this component were subjected to economic analysis. The stormwater drainage (SWD) subproject in the Greater
+Chennai Corporation (GCC) was also subject to cost-benefit analysis. The expected benefits were tangible
+(direct and indirect) socioeconomic benefits from avoided flood damage; and intangible benefits from
+improved environment and living conditions. These intangible benefits were not quantified. The economic rate of
+return (ERR) was estimated at 15.5 percent using a 12 percent discount rate. Sensitivity analysis led to a range
+in ERRs from 13.48 to 15.3 percent under adverse scenarios.
+
+In closing, the cost-benefit analysis methodology used at appraisal was replicated in the investment subprojects
+- the stormwater drainage (SWD), water supply, road improvements, street lighting, and tertiary treatment
+reverse osmosis (TTRO). Estimated economic benefits and actual costs at closing showed EIRRs between 15
+and 21 percent using the same 12 percent discount rate used at appraisal. The EIRR for SWD at completion
+was 16.40 percent, compared to the 15.5 percent at appraisal (ICR, paragraph 43).
+
+Financial Efficiency: At appraisal, the financial appraisal of the subprojects was divided into two: (i) at the
+subproject level, water and wastewater subprojects were assumed not financially viable based on subproject
+revenues, At the ULB level, all 30 ULBs were assessed in the aggregate to assess whether subprojects were
+financially sustainable, and this was measured by borrowing capacity. The overall borrowing capacity of
+all ULBs over five years was estimated to be over US$600 million. The financial analysis concluded that this
+meant ULBs were able to absorb about US$150 million in sub-loans. In closing, the same method indicated that
+in ULBs that implemented water supply subprojects (using data from 21 of 30 participating ULBs), the tariff
+collected increased from 32 to 81 percent. This rate indicated that the capacity of these ULBs to meet water
+supply operations and maintenance (O&M) costs to be from three sources: (i) its tariff collections, (ii) the share
+of the property tax earmarked for water supply, and (iii) from ULB general funds. At the ULB level, the analysis
+of 15 of 21 ULBs showed a ratio of less than 1 for total expenditure to total revenue. This meant strong revenue
+flows. All 115 ULBs showed a debt service ratio (DSR) of less than 15 percent, showing that debt service could
+be met by annual revenues. The World Bank determined an affordability threshold of 5 percent of the average
+household income. The average monthly flat fee in the ULBs was less than INR 300 (US$3.63) for water or
+about 1–2 percent of the average household income (ICR, paragraph 44).
+
+
+                                                                                                    Page 13 of 21
+      Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+      TN Sustainable Urban Development Project (P150395)
+
+
+
+Administrative and Operational Efficiency: Implementation delays experienced in 2020–2021 resulted in a
+12-month extension of the project. These delays came from (i) COVID-19 pandemic restrictions resulted in the
+stoppage of works and diversion of ULB staff working on the project, leading to an overall delay of about 9–10
+months; (ii) the 2021 elections in the state, the resulting new government, flooding in Chennai in November
+2021; (iii) internal government approvals taking much longer than anticipated, while clearances were also
+required from multiple line departments for the water supply lines to pass through the railways; and (iv) changes
+in design that resulted in cost escalations and required further approvals. Some water supply subprojects had to
+change the siting of water storage structures because of protests from the public, inappropriate site
+characteristics (such as soil strata), or the presence of railway lines, resulting in delays and cost
+escalations. Loan savings were used to complete additional works (roads in ULBs and links in the Chennai
+stormwater drains) during the extension. The government disbursed 90 percent of counterpart funds.
+
+Overall, with a reasonable economic rate of return for the investments made under component 2, and the added
+activities financed by loan savings completed during the extension, efficiency is rated substantial.
+
+
+Efficiency Rating
+Substantial
+
+
+a. If available, enter the Economic Rate of Return (ERR) and/or Financial Rate of Return (FRR) at appraisal
+  and the re-estimated value at evaluation:
+                               Rate Available?              Point value (%)           *Coverage/Scope (%)
+                                                                                      30.00
+ Appraisal                                                  15.50
+                                                                                       Not Applicable
+                                                                                      30.00
+ ICR Estimate                                               16.40
+                                                                                       Not Applicable
+
+* Refers to percent of total project cost for which ERR/FRR was calculated.
+
+6. Outcome
+
+The relevance of objective is rated Substantial. The efficacy of the project to achieve objective 1 is rated
+Substantial with moderate shortcomings because some significant output targets were not achieved. The
+efficacy of the project to achieve the second objective is rated Substantial. Efficiency is rated Substantial
+because of reasonable rates of return at closing. The overall outcome is rated Satisfactory.
+
+
+a. Outcome Rating
+   Satisfactory
+
+
+7. Risk to Development Outcome
+
+
+                                                                                                      Page 14 of 21
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     TN Sustainable Urban Development Project (P150395)
+
+
+
+The following pose risks to development outcome:
+
+      Risk from inadequate financial resources for Operations and Maintenance (O&M) of completed
+       infrastructure assets. In this project, ULBs raised water tariffs to cover the O&M and debt servicing
+       costs of their water supply systems. Public resistance delayed implementing tariff increases.
+       Collection efficiency was suboptimal. To mitigate this risk in the future, ULBs initiated measures such
+       as field staff conducting door-to-door campaigns to raise public awareness, increase effort at water
+       tariff collections, and collect penalties for late payment. ULBs may consider signing service contracts
+       with third parties for O&M of water supply systems with payments linked to meeting service
+       standards. ULBs may develop an asset management system with an O&M implementation plan for
+       non-revenue generating infrastructure assets.
+      Risk from natural hazards and climate change. GIS mapping and the Real Time Flood Forecasting
+       System (RTFFS) were introduced to assist ULBs to plan, reduce impact on completed infrastructure
+       assets, maintain the reliability of urban services, and respond to disasters resulting from hazards
+       brought by flooding, drought, and other environmental risks. Continued use of these systems, with
+       commitment to periodic updates, would mitigate this risk.
+
+
+
+
+8. Assessment of Bank Performance
+
+a. Quality-at-Entry
+  The project and the PDOs were aligned with the government’s national and state priorities. The state
+  government committed a considerable amount of contributions. The participating ULBs demonstrated
+  their commitment by identifying available government land for infrastructure. The equivalent of 30 percent
+  of subproject costs were ready for procurement by the time of Bank approval as required by the national
+  government. Implementation arrangements were adequate. The project used agencies that participated
+  in earlier World Bank-financed projects and were familiar with World Bank policies and procedures. The
+  Bank team designed the project informed by lessons from prior World Bank engagement in the sector in
+  Tamil Nadu. These included (i) a state-level urban development agency may reach more ULBs using
+  a ‘Municipal Fund’ to facilitate reforms and innovations; (ii) having bid documents for subprojects ready
+  for procurement equivalent to 30 percent of project cost by the time of Board approval strengthens a
+  readiness to implement; and (iii) sites ready and available for civil works once contracts
+  were awarded reduces time and cost overruns. Experience in earlier TNUDF-issued municipal bonds,
+  and the US municipal bonds / bond banks experience informed the credit enhancement sub-component
+  design. The DLI mechanism of the urban governance component benefited from other Bank project
+  experience, e.g., the Pakistan Punjab Cities Governance Improvement Project (PAD, paragraph 19).
+
+  The World Bank task team included operational and technical specialists with experience in urban
+  development projects in India. The task team conducted comprehensive institutional assessments of the
+  ULBs on urban services, governance, and finance, which informed the technical designs. To improve
+  ULBs’ capacity in O&M, Component 1 provided incentives to the Model Cities to prepare Multiyear
+  Capital Investment Plans that would include an assessment of the O&M needs of various urban services
+  and the identification and mobilization of funding sources. During subproject appraisal, TNUIFSL also
+  supported ULBs in assessing the financial sustainability of water supply services and in setting the
+  appropriate level of water tariff to meet O&M needs, and the recommended actions such as phased
+
+                                                                                                  Page 15 of 21
+     Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+     TN Sustainable Urban Development Project (P150395)
+
+
+
+  increase of tariffs and expected improvement in collection efficiencies were included as part of
+  TNUISFL’s loan/grant conditions for ULBs. The PDO statement was realistic, and the project’s
+  interventions supported its achievement. The RF was overall well designed.
+
+  However, there were shortcomings in the risk assessment on procurement capacity, and technical
+  capacity in GIS related activities. The broader regulatory environment on municipal finances could have
+  been more closely examined prior to the inclusion of the credit enhancement subcomponent in the
+  project. Overall, the assessment of Bank performance at entry is rated Satisfactory.
+
+
+
+  Quality-at-Entry Rating
+  Satisfactory
+
+
+b. Quality of supervision
+ The World Bank team conducted 12 implementation support missions over the eight-year implementation
+ period with technical missions in between. The task team leader and most team members were based in
+ New Delhi and regularly interacted with country counterparts. Fiduciary, environmental, and social
+ safeguards specialists participated in the missions and conducted additional just-in-time technical
+ missions to address weaknesses. The World Bank team consisted of appropriate technical staff to support
+ the project. Additional experts were mobilized as needed, including during the MTR in 2019. The Bank
+ team used the restructurings to adjust targets and indicators brought by policy changes (e.g., the CERF
+ sub-component), cost overruns, delayed procurement, or add activities to use US$32 million in loan
+ savings to ensure that the objectives remained achievable. The added activities were considered because
+ these did not require land acquisition, resettlement or carried environmental or social safeguards risk.
+ Savings came from cancelling the CERF subcomponent, the Hosur sewerage subproject, and exchange
+ rate gains. The Bank team helped the government to respond to the fiscal crisis due to the COVID-19
+ pandemic.
+
+ Overall, the Bank performance at supervision is rated Satisfactory.
+
+
+
+
+  Quality of Supervision Rating
+  Satisfactory
+
+  Overall Bank Performance Rating
+  Satisfactory
+
+
+9. M&E Design, Implementation, & Utilization
+
+
+
+
+                                                                                                     Page 16 of 21
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     TN Sustainable Urban Development Project (P150395)
+
+
+
+a. M&E Design
+ The Theory of Change showed clear causal links between project activities, outputs, and the expected
+ outcomes. The PDOs were clearly specified and parsed in two. The intermediate results indicators were
+ adequate to capture the contribution of the operation’s components and outputs to achieve PDO-level
+ outcomes. These indicators were specific, measurable, achievable, relevant, and time bound. Baselines
+ and targets were available for all indicators although one outcome indicator was expressed as a value
+ rather than a rate of increase. The M&E design and implementation arrangements were institutionally
+ embedded in the various implementing entities. TNUIFSL was to develop a management information
+ system (MIS) for monitoring physical and financial progress, and ESMF subproject compliance
+ (Component 2, ICR, paragraph 60).
+
+
+
+b. M&E Implementation
+  TNUIFSL implemented the M&E system as designed. Each ULB, the DMA, and TNUIFSL had dedicated
+  staff in charge of M&E to monitor and collect data on indicators. TNUIFSL/TNUDF reported on
+  indicators in the results framework to assess the physical, procurement, and financial progress in each
+  ULB and identify outstanding issues using the two MIS’ systems to integrate investment planning, project
+  progress monitoring, contract management, withdrawal applications and payments, capital budgeting,
+  and financial management. An independent verification agency (IVA) verified results on the DLIs of the
+  Model Cities. TNUIFSL compiled and DMA verified information from ULBs and the IVA. TNUIFSL
+  submitted quarterly reports to the World Bank. TNUIFSL, the DMA, and their regional offices
+  conducted joint monthly on-site supervision regularly to the participating ULBs.
+
+  The 2020 restructuring revised two outcome indicators - one increased its target, the other specified
+  targets per Model City - and a new one added, moved up from output to outcome indicator. One sub-
+  component was no longer implementable and was cancelled because of a change in government policy.
+  The related output indicator was dropped. Other target values of output indicators were adjusted, and
+  COVID-19 related output indicators were added at the 2021 restructuring.
+
+  The beneficiary end-line survey was completed in March 2023. Beneficiaries were consulted during
+  project design and implementation. Stakeholders helped identify sites for overhead and underground
+  water supply tanks in ULBs where government lands were not available. Public
+  consultations identified road stretches and inundated streets in need of improvement. Model Cities
+  beneficiaries helped identify areas for urban design improvements financed by the grants received.
+  Residents and shopkeepers along the Chennai storm water drain canals moved to new resettlement
+  site. GCC reduced the width from the earlier 13 to 10 meters, to avoid existing structures and reduced the
+  resettlement impacts from the originally anticipated 330 to 91 families (ICR, paragraph 58). However,
+  shortcomings in indicators were not addressed. For example, indicators that would have informed
+  regulatory readiness of the sub-component CERF (see Section 8, Bank Performance at Entry above).
+
+
+
+c. M&E Utilization
+  M&E findings were communicated to various stakeholders, including TNUIFSL, the DMA, and the World
+  Bank. M&E reports tracked progress, identified risks, delays in site clearance, and contract
+  management. M&E data informed the midterm review and the three restructurings. M&E data provided
+  evidence of the outcomes. M&E data served to inform activities that were not completed during this
+
+                                                                                                 Page 17 of 21
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     TN Sustainable Urban Development Project (P150395)
+
+
+
+  project period to be implemented in the follow-on project, Tamil Nadu Climate Resilient Urban
+  Development Program (TNCRUDP, ICR, paragraph 35).
+
+  Overall, the project M&E is rated Substantial. The M&E system as designed and implemented
+  was sufficient to assess the achievement of the objectives. The links in the results chain were adequate,
+  with moderate weaknesses in a few areas, e.g., outcome indicators (rate, as opposed to value) and
+  targets of intermediate results indicators that could have been adjusted during restructuring, e.g., the
+  target for GIS mapping could have been recalibrated during the restructurings.
+
+
+
+  M&E Quality Rating
+  Substantial
+
+10. Other Issues
+
+a. Safeguards
+   Environmental Safeguards: The project was classified as Environmental Assessment Category A (Full
+   Assessment) (PAD, ICR, paragraph 64) and triggered two safeguard policies: Environmental Assessment
+   (OP/BP 4.01) and Involuntary Resettlement (OP/BP 4.12). An Environmental and Social Management
+   Framework (ESMF) was approved and disclosed in-country and in the World Bank InfoShop on March
+   2015. In 2020, for the COVID-19 pandemic related restructuring, the ESMF was updated and redisclosed
+   both in-country and on the World Bank’s external site in September 2022. According to the ICR, the project
+   complied with environmental safeguards (ICR, paragraph 65). Safeguard documents, including
+   Environmental and Social Impact Assessments (ESIAs) and Environmental and Social Management Plans
+   (ESMPs), were implemented as designed. Quarterly Progress Reports submitted to the World Bank
+   included updates on environmental safeguards management. Independent annual E&S
+   audits identified gaps and corresponding corrective measures in safeguards management. The
+   project adopted COVID-19 pandemic protocols for works and activities under execution. These included
+   sensitizing and training of project staff, contractors, and workers on appropriate measures in relation to the
+   COVID-19 pandemic.
+
+   Social Safeguard: The project triggered Involuntary Resettlement (OP/BP 4.12). The project complied with
+   the social safeguard (ICR, paragraph 66). The Chennai storm water drain subproject involved involuntary
+   resettlement of 91 project-affected families (PAFs) in 2017. The project followed its Resettlement Policy
+   Framework (RPF). The World Bank approved the comprehensive Resettlement Action Plan (RAP). The
+   Tamil Nadu Housing and Urban Development Board (TNHUDB) developed two resettlement sites. The
+   GCC resettled the 91 PAFs in those sites. The GCC managed the resettlement process with regular
+   consultations with the PAFs and integrate d them with the host communities. However, government
+   policy called for title deeds of PAF tenements to be provided after five years of resettlement. With the help
+   of the government, GCC, TNHUDB, TNUIFSL, and the World Bank, nine of the ten PAFs resettled in the
+   Perumbakkam resettlement site received their title deeds by September 2022. In the Gudapakkam
+   resettlement site, 76 of the 81 PAFs received title deeds by June 2023. TNHUDB made available title deeds
+   for the remaining PAFs to sign but the legal heirs of the remaining five families have not yet done so
+   because of deaths in these families. The World Bank continues to monitor this matter until it is resolved.
+   The ULBs and TNUIFSL managed temporary adverse livelihood or economic impacts using the ESMF and
+   RPF, and subproject specific ESIAs and ESMPs. The ESMPs were implemented to ensure timely action
+
+                                                                                                    Page 18 of 21
+    Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+    TN Sustainable Urban Development Project (P150395)
+
+
+
+  and compensation for two severe incidents. All incidents were investigated in line with World Bank
+  procedures and registered in the Fatality Tracking System of the World Bank. Families of the victims
+  received prompt remedial actions and compensations. All incidents were closed except one that occurred in
+  January 2023. The contractor offered compensation to the victim’s family, but they sought judicial resolution
+  to determine the compensation amount. This process is underway following procedures (ICR, paragraph
+  68).
+
+  Each ULB established a Grievance Redress Mechanism (GRM) as planned. PAFs accessed GRM through
+  multiple channels including phones, websites, and ULB offices. Under the Chennai storm water drain
+  subproject, petitions received were resolved by October 2016. Additional complaints were received in March
+  2018 regarding compensation for partially affected structures. These were subsequently settled.
+  Compensation was paid. ULBs reported complaints related to the quality of construction and repairs of
+  streets. These were made directly to contractors and resolved by them (ICR, paragraph 67). The
+  government reported that they updated and will continue to use the ESMF to meet the safeguard
+  requirements of other externally financed projects.
+
+
+
+
+b. Fiduciary Compliance
+  Financial Management. The project complied with World Bank financial management policies (ICR,
+  paragraph 70). ULBs kept up-to-date accounting records, submitted unaudited interim financial and audit
+  reports with unqualified (clean) opinions on time before the COVID-19 pandemic. During the last two years
+  of implementation, the ULBs experienced some delays in submitting their completed audit reports. In the
+  first two years of implementation, administrative sanctions caused delays in releasing funds because the
+  DMA lacked qualified staff to oversee financial management of the project. The project relied on the staff of
+  another ongoing Bank-financed project, the Tamil Nadu Urban Infrastructure Financial Services Limited
+  (TNUIFSL), to manage financial management of the project on a part-time basis.
+
+  Procurement. Most transactions complied with the World Bank procurement policies and procedures
+  (ICR, paragraph 69). The project awarded most of the urban investment component contracts early in the
+  project. TNUIFSL managed consultancies efficiently. The COVID-19 pandemic disrupted implementation
+  and caused delays. Larger national/international construction firms did not participate in the investment
+  packages, indicating barriers to entry. Procurement post reviews showed red flags. TNUIFSL and other
+  government agencies lacked effective procurement supervision. The risk mitigation measure use of E-
+  procurement was delayed. Since most of the TA component contracts were awarded outside of the World
+  Bank’s Systematic Tracking of Exchanges in Procurement (STEP) tool the World Bank team could not
+  conduct post procurement review. No outstanding procurement issues were reported.
+
+
+
+
+c. Unintended impacts (Positive or Negative)
+   ---
+
+d. Other
+   ---
+
+
+                                                                                                  Page 19 of 21
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     TN Sustainable Urban Development Project (P150395)
+
+
+
+11. Ratings
+                                                                               Reason for
+Ratings                        ICR                    IEG
+                                                                               Disagreements/Comment
+Outcome                        Satisfactory          Satisfactory
+
+Bank Performance               Satisfactory          Satisfactory              .
+
+Quality of M&E                 Substantial           Substantial
+
+Quality of ICR                 ---                   Substantial
+
+
+12. Lessons
+
+The following five lessons emerged from the operation (ICR, paragraph 77-81):
+
+      Political commitment, policy reform, and provision of incentives are useful to
+       improve the financial sustainability of water services. In this project, water tariff in Tamil
+       Nadu was low and not based on consumption. Data from the Supervisory Control and Data
+       Acquisition System (SCADA) in Namakkal showed that water consumption level was similar
+       between households covered by the 24/7 pilot and households receiving intermittent supply.
+       ULBs need incentives to approve bylaws for volumetric billings to raise tariffs and increase
+       collection. Metering could be piloted in selected areas where high levels of services and
+       high-water consumption are expected. Proper systems could be in place to monitor
+       consumers’ usage and address complaints. Data can then be generated to inform ULBs’
+       decision-making and counter public misconception on volumetric billing.
+      Information, education, and communication activities instill behavioral changes
+       to sustain desired levels of services. In this project, residents were encouraged to
+       participate in O&M planning of municipal assets. However, there was no comprehensive
+       communication strategy for the duration of the project. This could have been used to engage
+       local communities, raise awareness, and enhance ownership of project investments.
+       Consumers could be provided a reliable schedule of water supply and be educated on
+       benefits of volumetric billing to encourage reducing wasting water. Overall, citizen
+       participation could be further explored, including mechanisms for people to contribute in
+       terms of time and labor.
+      The municipal development fund model may facilitate access to private market
+       resources. In this project, TNUDF provided loans and grants of over US$3.2 billion in urban
+       investments. ULBs registered 100 percent loan repayments. Future projects can support
+       TNUDF to resume its pooled municipal bond program to increase ULBs’ access to financial
+       markets, with the funds raised giving priority to green projects such as sustainable water
+       management, climate change adaptation, and energy efficiency.
+      Results-based performance grants help promote urban governance reform in ULBs. In
+       this project, the pilot Model Cities component demonstrated the effectiveness of linking fund
+       allocation to support improved urban governance and citizen engagement, strengthening
+       staffing and technical expertise, mobilization of own resources, and enhancing accountability
+       in delivering services to city residents.
+
+
+                                                                                                  Page 20 of 21
+       Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+       TN Sustainable Urban Development Project (P150395)
+
+
+
+        Institutional strengthening and capacity building of ULBs require sustained support.
+         ULBs have benefited from the various TA, training, and capacity support activities under the
+         project. However, dedicated funding, staffing, and collaboration with training institutions are
+         required to continue developing and delivering structured capacity building programs to
+         strengthen institutional capacities of ULBs.
+
+
+
+13. Assessment Recommended?
+
+  No
+
+14. Comments on Quality of ICR
+
+The ICR followed the guidelines and provided a detailed overview of the project. The theory of change helped
+to justify the reported ratings. Various parts of the report were mutually reinforcing and the ratings consistent.
+The report was results oriented, highlighting, for example, the measures adopted to ensure that the objectives
+remained achievable with the dropping of sub-components like CERF and the Hosur sewerage subproject. The
+report was candid, acknowledging shortcomings in risk assessments related to capacity of implementing
+agencies to undertake GIS related activities and the resulting unmet targets. Lessons were based on the
+project experience. The narrative and available evidence supported the ratings. The report is aligned to the
+project development objectives presenting data to support the ratings. The analysis of efficacy to achieve the
+first objective had minor shortcomings in the completeness of indicators that addressed the development
+problems of ULBs.
+
+
+
+  a. Quality of ICR Rating
+       Substantial
+
+
+
+
+                                                                                                     Page 21 of 21
+
