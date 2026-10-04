@@ -1,0 +1,2758 @@
+Public Disclosure Authorized
+
+
+
+
+                                                                    DOCUMENT OF
+
+                                                                  THE WORLD BANK
+
+                                                               FOR OFFICIAL USE ONLY
+Public Disclosure Authorized
+
+
+
+
+                                          Integrated Fiduciary Systems Assessment
+
+                               Tamil Nadu Climate Resilient Urban Development Program
+                                                      (P179189)
+Public Disclosure Authorized
+
+
+
+
+                                  (Program-for-Results and Technical Assistance IPF)
+
+                                                                      INDIA:
+
+
+                                                               November 2023
+Public Disclosure Authorized
+
+
+
+
+                                                                     Prepared by
+                                                                   The World Bank
+
+
+                                  This document is an official use document and will be made public along with the PAD.
+             IFSA – Tamil Nadu Climate Resilient Urban Development Program (P179189)
+
+
+
+             Currency table
+             INR 1 Lakh = INR 100,000 = INR Hundred Thousand
+             INR 10 Lakhs = INR 1 million
+             INR 100 Lakhs = INR 10 million = INR 1 Crore
+             1 US$ = INR 82
+             1US$ = JPY 150.6853333
+             1 JPY = 0.544 INR
+             1 INR = 1.8376 JPY
+
+
+The IFSA uses US$ through out the document for the ease of understanding. As the client has
+requested for loan in Japanese Yen, it is used only in those cases where these amounts correspond to
+legal documents to maintain consistency. Amounts in USD is equivalent to Indian Rupees in which the
+client undertakes the transactions.
+
+
+
+
+                                            Page 1 of 61
+                    IFSA – Tamil Nadu Climate Resilient Urban Development Program (P179189)
+
+
+
+                                                                     Table of Contents
+Section 1.      Integrated Fiduciary Systems Assessment (IFSA) ...................................................................................7
+  1. 1       Fiduciary Risk Assessment – Conclusion ...................................................................................................7
+  1. 2       Scope of IFSA ..............................................................................................................................................8
+  1. 3       Key risks and mitigation measures............................................................................................................9
+  1. 4       Procurement Exclusions ......................................................................................................................... 12
+Section 2.      Scope and Program Boundary ............................................................................................................. 14
+  2. 1       Implementation Arrangements .............................................................................................................. 14
+  2. 2       Program Boundary and Program Expenditure Framework ................................................................... 16
+  2. 3       TA Expenditure........................................................................................................................................ 20
+  2. 4       Result Areas and DLI ............................................................................................................................... 20
+Section 3.      Review of Public Financial Management Systems .............................................................................. 21
+  3. 1       Planning and Budgeting .......................................................................................................................... 22
+     3.1.1 Adequacy of budget:.............................................................................................................................. 22
+     3.1.1.1 Budget at state level ........................................................................................................................... 22
+     3.1.1.2 Sector level budget ............................................................................................................................. 24
+     3.1.1.3 Absorption capacity ............................................................................................................................ 25
+     3.1.2 Planning and Budget Preparation ......................................................................................................... 28
+     3.1.3 Procurement profile of the Program ..................................................................................................... 31
+  3. 2       Budget Execution .................................................................................................................................... 31
+     3.2.1          Fund Flow ........................................................................................................................................ 31
+     3.2.2 Accounting Systems and Financial Reporting ....................................................................................... 34
+     3.2.3 Procurement system analysis ................................................................................................................ 35
+     3.2.4 e-Procurement ....................................................................................................................................... 36
+     3.2.5 Procurement processes and procedures ............................................................................................... 36
+     3.2.6 Contract management: Agency wise analysis ...................................................................................... 37
+  3. 3       Internal Controls and Internal audit ...................................................................................................... 39
+  3. 4       External Audit ......................................................................................................................................... 40
+  3. 5       Procurement and Financial Management Capacity – Staffing .............................................................. 41
+  3. 6       Program Governance and Anticorruption Arrangements ..................................................................... 42
+  3. 7       Disbursement Arrangements ................................................................................................................. 44
+  3. 8       Implementation Support ........................................................................................................................ 46
+
+                                                                          Page 2 of 61
+                    IFSA – Tamil Nadu Climate Resilient Urban Development Program (P179189)
+
+  3. 9       Key Performance Indicators ................................................................................................................... 47
+  3. 10 Action Plan .............................................................................................................................................. 48
+Section 4.      IPF assessment..................................................................................................................................... 53
+  4.1        Financial Management for IPF component ............................................................................................ 53
+  4.2        Procurement for IPF Component ........................................................................................................... 54
+  Annexure-1: ANTI-CORRUPTION GUIDELINES PROTOCOL ................................................................................ 56
+
+
+
+
+                                                                        Page 3 of 61
+                      IFSA – Tamil Nadu Climate Resilient Urban Development Program (P179189)
+
+
+List of Tables
+Table 1: Risk and mitigation measures .......................................................................................................................9
+Table 2: Details of DPRs with estimated cost and packages ................................................................................... 12
+Table 3: Program Financing ..................................................................................................................................... 16
+Table 4: Government Program versus PforR Program by Activity (US$, million).................................................... 17
+Table 5: PforR Program – Funding agency wise and Activity wise (US$ million) .................................................... 18
+Table 6: Investments in PforR Program – Funding agency wise (US$ million) ........................................................ 19
+Table 7: Snapshot of the State Finances (INR Crores) ............................................................................................ 22
+Table 8: State finances actual expenditure for seven years (INR Crores) .............................................................. 23
+Table 9: Sector financing over the years (US$ million)........................................................................................... 24
+Table 10: Sector budget outturn and expenditure (US$ million) ........................................................................... 25
+Table 11: Funds handled by DMA as per budget in past six years ......................................................................... 25
+Table 12: EAP Loans balance of TNUDF as on 31/3/22 ........................................................................................... 26
+Table 13: List of EAP Loans taken as on 31/3/22 .................................................................................................... 26
+Table 14: Loans sanctioned and disbursed by TNUIFSL in last 10 years ................................................................. 27
+Table 15: Various schemes funding in US$ Million ................................................................................................. 28
+Table 16 TNUIFSL's Procurement activities in previous three years ....................................................................... 38
+Table 17: List of audit reports ................................................................................................................................. 41
+Table 18: Performance Metrics ............................................................................................................................... 47
+Table 19: Action Plan ............................................................................................................................................... 48
+Table 20: Procurement PAP..................................................................................................................................... 50
+Table 21: List of ULBs............................................................................................................................................... 51
+Table 22: Disbursement categories ......................................................................................................................... 54
+
+
+List of Figures
+Figure 1: PforR and IPF implementation structure.................................................................................................. 14
+Figure 2: Implementation arrangements ................................................................................................................ 15
+Figure 3: Government Program vs. Bank Program– “p” Vs “P” – (US$ million) ...................................................... 16
+Figure 4: PforR Program – “P”- Sources of funding ................................................................................................. 17
+Figure 5: PFM CYCLE ................................................................................................................................................ 21
+Figure 6: Budget preparation process – Bottom-up approach ............................................................................... 29
+Figure 7: Budget allocation process – Top-down approach .................................................................................... 30
+Figure 8: Fund flow, Budget and DLI reporting ....................................................................................................... 32
+Figure 9: SLNA funds flow - AMRUT ........................................................................................................................ 34
+Figure 10: DPAC enquiry status ............................................................................................................................... 43
+
+
+
+
+                                                                          Page 4 of 61
+           IFSA – Tamil Nadu Climate Resilient Urban Development Program (P179189)
+
+
+Acronyms
+
+Acronyms                 Expansion
+AG(A&E)                  Accountant General (Accounts & Entitlement)
+ACG                      Anti-Corruption Guidelines
+ACS                      Additional Chief Secretary
+ADB                      Asian Development Bank
+AMRUT                    Atal Mission for Rejuvenation and Urban Transformation
+C&AG                     Comptroller and Auditor General
+CAAA                     Controller Aid, Accounts and Audits
+CMA/DMA                  Commissionerate/Directorate of Municipal Administration
+CS                       Chief Secretary
+CSS                      Centrally Sponsored Scheme
+CVC                      Central Vigilance Commission
+DBO                      Design Build Operate
+DDO                      Drawing and Disbursement Officer
+DEA                      Department of Economic Affairs
+DLI                      Disbursement Linked Indicator
+DLR                      Disbursement Linked Results
+DPR                      Detailed Project Report
+DVAC                     Directorate of Vigilance and Anti-Corruption
+EAP                      Externally Aided Project
+EO                       Executive Officer
+FD                       Fiscal Deficit
+FM                       Financial Management
+GO                       Government Order
+GoI                      Government of India
+GoTN                     Government of Tamil Nadu
+GSDP                     Gross State Domestic Product
+HOD                      Head of Department
+HPC                      High Powered Committee
+IA                       Implementing Agency
+IAS                      Indian Administrative Service
+IBRD                     International Bank for Reconstruction and Development
+IFSA                     Integrated Fiduciary Systems Assessment
+IFHRMS                   Integrated Financial and Human Resource Management System
+IPF                      Investment Project Financing
+IUFR                     Interim Unaudited Financial Report
+IVA                      Independent Verification Agent
+JICA                     Japan International Cooperation Agency
+JPY                      Japanese Yen
+KFW                      Kreditanstalt für Wiederaufbau
+KPI                      Key Performance Indicator
+
+                                         Page 5 of 61
+           IFSA – Tamil Nadu Climate Resilient Urban Development Program (P179189)
+
+
+Acronyms                 Expansion
+MAWSD                    Municipal Administration and Water Supply Department
+MD                       Managing Director
+MIS                      Management Information System
+MTFP                     Medium Term Fiscal Plan
+OSR                      Own-Source Revenue
+PD A/c                   Personal Deposit Account
+PAD                      Project Appraisal Document
+PAP                      Program Action Plan
+PFM                      Public Financial Management
+PforR                    Program for Results
+PMU                      Project Management Unit
+PPP                      Public-Private Partnership
+PSC                      Program Steering Committee
+RD                       Revenue Deficit
+RFQ                      Request for Quotation
+RTI                      Right to Information
+STD                      Standard Tender Document
+SBM                      Swachh Bharat Mission
+SFC                      State Finance Corporation
+SLNA                     State Level Nodal Agency
+TA                       Technical Assistance
+TNTTA/R                  Tamil Nadu Transparency in Tenders Act/Rules
+TNCRUDP                  Tamil Nadu Climate Resilient Urban Development Program
+TNUIFSL                  Tamil Nadu Urban Infrastructure Financial Services Limited
+TNSUDP                   Tamil Nadu Sustainable Urban Development Program
+TTL                      Task Team Leader
+TUFIDCO                  Tamil Nadu Urban Finance and Infrastructure Development
+                         Corporation Limited
+TWAD                     Tamil Nadu Water Supply and Drainage Board
+ULB                      Urban Local Body
+VE                       Vigilance Entity
+WSS                      Water Supply and Sanitation
+
+
+
+
+                                         Page 6 of 61
+                  IFSA – Tamil Nadu Climate Resilient Urban Development Program (P179189)
+
+
+                                Section 1.              Integrated Fiduciary Systems Assessment (IFSA)
+
+1. 1     Fiduciary Risk Assessment – Conclusion
+
+
+1. An Integrated Fiduciary Systems Assessment (IFSA) of the key selected implementing agencies has been
+   carried out in accordance with Bank Policy and Directive for Program for Results (PforR) financing. This is a
+   multi-sector (Urban Sector, Water Sector, and Governance Sector) and multi-agency program. The key
+   implementing agencies are: Commissionerate/Directorate of Municipal Administration1 (CMA/DMA) which is
+   a directorate under the Municipal Administration and Water Supply Department (MAWSD) and is a core
+   government department, Tamil Nadu Urban Infrastructure Financial Services Limited (TNUIFSL) which is a
+   state government company, and 21 Urban Local Bodies2 (ULBs) which are part of the third level of government
+   as per the constitutional framework of the country.
+
+2. The IFSA assess whether the fiduciary system and performance of the Program’s fiduciary system are
+   adequate and provides reasonable assurance that the funds would be used for the intended purposes with
+   due attention to the principles of economy, efficiency, effectiveness, transparency, and accountability. The
+   IFSA is prepared based on the meetings and data/details provided by the officials of Implementing Agencies
+   (IA). The review relies upon documents and data provided by the IA regarding their fiduciary processes and
+   performance in past and upon the Bank’s past project experience and understanding of the Financial
+   Management (FM) and Procurement systems at the State level.
+
+3. IFSA is covering both the state level agencies and ULBs involved in the program on a sample basis. 3 ULBs
+   namely Avadi, Salem, and Kanchipuram was selected as representative sample as all ULBs follow the same FM
+   system and procurement system. These 2 ULBs were selected as they were among the ULBs who are expected
+   to implement large sub projects and receive large portion of funding from this Program.
+
+4. Based on the IFSA, given the experience of the main implementing agencies DMA and TNUFISL, the
+   combined fiduciary risk is rated as “Moderate”. The risk at ULB level is higher due to varying capacity, and
+   first time implementation of PFR. There is an inherent risk associated with variations in fiduciary capacity,
+   compliance to agreed FM and procurement processes at ULB level. To mitigate fiduciary risk and strengthen
+   the existing systems, various actions are recommended to be completed during preparation and
+   implementation as Program Action Plan (PAP). With the implementation of recommended mitigation
+   measures and system strengthening actions, during the program implementation, the capacity and
+   performance of the Program implementing agencies is considered adequate to provide reasonable assurance
+   that the financing proceeds would be used for the intended purposes, with due attention to the principles of
+   economy, efficiency, effectiveness, transparency, and accountability. If any significant events and issues come
+
+
+
+1
+ Commissionerate or Directorate both refer to same office and is dependent on the incumbent who heads the organisation.
+2
+ List of six ULBs with more than 400,000 population (Salem, Tambaram, Tiruchirappalli, Tirunelveli, Vellore, and Erode) and List of fifteen
+ULBs with less than 400,000 population (Avadi, Kancheepuram, Thoothkudi, Cuddalore, Dindigul, Nagercoil, Dharmapuri, Karaikudi,
+Krishnagiri, Namakkal, Pudukottai, Rajapalayam, Theni-Allinagaram, Tiruvannamalai and Tiruvarur).
+
+                                                              Page 7 of 61
+               IFSA – Tamil Nadu Climate Resilient Urban Development Program (P179189)
+
+    to the knowledge during the program implementation, additional appropriate mitigation measures shall be
+    put in place in consultation with the agencies.
+
+5. Government of Tamil Nadu (GoTN) has a good procurement and financial management (FM) framework
+   which all implementing agencies follow. GoTN follows the Tamil Nadu Transparency in Tenders Act ,1998
+   (TNTTA; the Tamil Nadu Transparency in Tenders Rules, 2000; and the Tamil Nadu Transparency in tenders
+   (PPP procurement) Rules 2012 that broadly meets the core procurement principles. FM arrangements in the
+   state are guided by The Tamil Nadu Finance Code Volume I and II, The Tamil Nadu Accounts Code Volume I
+   and II, The Tamil Nadu Treasury Code Volume I and II, The Tamil Nadu Budget Manual Volume I and II, Tamil
+   Nadu Public Works Department (PWD) Code and time to time government orders, are reasonably well
+   established and followed. The existing governance and accountability arrangements include audits by the
+   Comptroller and Auditor General (C&AG) of India, review of audit reports by Public Accounts Committee, Right
+   to Information (RTI) Act 2005, and Central Vigilance Commission (CVC) Act 2003. The State departments and
+   government agencies have clearly defined delegation of authority. Parastatals also have a clear delegation of
+   powers, financial rules and regulations which are followed.
+
+
+1. 2      Scope of IFSA
+
+
+6. The IFSA covered the Bank Program and assessment of agencies and covered the following key areas and
+   sub areas:
+
+    (a)      Procurement arrangements: Regulatory Framework; Procurement Planning; Staffing; e-procurement
+             system, capacity of bidders and staff at the line agencies; Standard procurement processes and
+             procedures; standard bidding document; value of procurement handled; availability of competition;
+             Existence of complaint handling and resolution system; Procurement performance; Existence of
+             management information system (MIS); internal controls mechanism; Procurement documentation,
+             review, and audit.
+
+    (b)      Public Financial Management:
+             • Planning and Budgeting: Budget Vs Expenditure; Budget utilization; Transparency.
+             • Fund Flow: Fund Flow Mechanism; Process of receipt of fund; Utilization certificates; Delegation
+                of authority; Fund Management; Timeliness of utilization of funds.
+             • Accounting, financial reporting and internal control: Process of compiling accounts and preparing
+                Financial Statements; Accounting system being used; Current staffing structure including
+                minimum qualification required; Adequacy and capacity of staff; Responsibilities of accounts
+                department; Time lag in preparation of Financial Statement; Existence of segregation of duty;
+                Existence of Fixed Asset Register and physical verification of assets; Record keeping.
+             • Audit-Internal and External: Entities responsible for auditing line agencies; Existence of internal
+                audit cell; Resolution of audit observations; Time lag in conducting audit.
+
+
+
+                                                   Page 8 of 61
+                    IFSA – Tamil Nadu Climate Resilient Urban Development Program (P179189)
+
+      (c)       Governance and Accountability: Vigilance function at entity level; Vigilance for the State of Tamil
+                Nadu; Organization structure of Vigilance Entity (VE); Functions of VE; Types of complaints that can
+                be registered at VE; Mode of complaints; Annual data of investigation undertaken; Duties of agencies
+                w.r.t fraud and corruption; and Awareness about the VE.
+
+
+1. 3        Key risks and mitigation measures
+
+
+7. Table 1 outlines the key risks and mitigation measures for the Program:
+
+
+                                         Table 1: Risk and mitigation measures
+
+ S.         Risks           Action Description     Document     Responsibility   Timing            Completion
+ No.                                                                                               Measurement
+ 1.         Government      Create budget          Readiness    GoTN             Before            Budget head
+            does not        heads.                 condition                     negotiations      created.
+            fund the
+                            Government Order       PAP                           Within four
+            Program
+                            (G.O.) issued                                        months of
+                                                                                 effectiveness
+
+
+ 2.         Insufficient    Strengthen staffing    Legal        DMA,TNUIFSL      Within      six   Adequate
+            Staffing        and fiduciary                                        months from       number of Staff
+            (number and     capacity of the PMU                                  effectiveness     appointed and
+            capacity        and PIUs                                                               trained
+            building)
+            may hamper
+            the progress
+ 3.         Program         Disclose the           Legal        DMA,TNUIFSL      Every    year     Audit report
+            Audit reports   Program audit                                        within   nine     completed and
+            not disclosed   report                                               months of end     displayed on the
+            to public                                                            of FY             website
+ 4.         Auditor not     Appoint External       PAP          DMA,TNUIFSL      Within six        Auditor
+            appointed       auditor for the                                      months from       appointed and
+            and delay in    Program and                                          effectiveness     report
+            submission of   include the review                                                     submitted
+            audit report    of procurement
+                            related aspects
+ 5.         Contracts       Monitor high value     Legal        DMA,TNUIFSL      Within six        Utilize
+            may be          contracts and                       in               months from       appropriate
+            issued for      screen the                          consultation     effectiveness     monitoring
+            more than       contracts for Bank’s                with ULBs        and semi-         tools covering
+            high value      debarment list                                       annually          the entire
+            threshold or    before initiation of                                                   procurement
+
+                                                     Page 9 of 61
+              IFSA – Tamil Nadu Climate Resilient Urban Development Program (P179189)
+
+
+S.    Risks            Action Description     Document    Responsibility   Timing          Completion
+No.                                                                                        Measurement
+      issued to        procurement and                                                     cycle and
+      debarred         awarding.                                                           submit six
+      entities or                                                                          monthly
+      individuals by                                                                       reports using
+      the World                                                                            the format in
+      Bank                                                                                 the POM
+6.    No               Integrate the          PAP         DMA and          Within a year   PP
+      procurement      preparation of the                 TNUIFSL, in      of              preparation is
+      plans            Program                            consultation     effectiveness   integrated
+      prepared         Procurement Plan                   with ULBs        and disclose    with the MIS,
+      leading to       to the existing web-                                procurement     monitored
+      disconnect       based MIS.                                          information     through the
+      with budget                                                          annually/when   KPIs (refer to
+      and Annual                                                           updated         following para
+      Work plans,                                                                          for KPIs), and
+      not using the                                                                        disclose the
+      KPIs for                                                                             procurement
+      monitoring                                                                           information
+      procurement                                                                          related to
+      cycle.                                                                               bidding and
+                                                                                           contract
+      IAs are
+                                                                                           award on the
+      seldom
+                                                                                           IAs websites.
+      publishing
+      the Contract
+      award details
+      in the public
+      domain
+7.    Procurement,     Establish a            PAP         DMA,TNUIFSL      Within three    Establish a
+      F&C, and         Complaint Handling                                  months from     CHM and
+      other            Mechanism (CHM)                                     effectiveness   display the
+      Program          at agencies to                                      and semi-       nodal officer
+      related          manage Program                                      annually        for receiving
+      fiduciary        related fiduciary                                                   the complaint
+      complaints       complaints                                                          on the official
+      not                                                                                  website.
+      addressed on                                                                         Submit Semi-
+      timely basis                                                                         annual
+      and not                                                                              reports using
+      reported to                                                                          the formats
+      Bank                                                                                 provided in
+                                                                                           the POM
+8.    Engineering      Develop detailed       Reform      DMA              Within six      Detailed
+      manual           procurement                                         months from     procurement
+
+                                               Page 10 of 61
+                   IFSA – Tamil Nadu Climate Resilient Urban Development Program (P179189)
+
+
+    S.     Risks            Action Description      Document       Responsibility    Timing              Completion
+    No.                                                                                                  Measurement
+           (2000)           guidance as an                                           effectiveness       guidance is
+           developed        Annex to the POM                                                             developed as
+           under TNUDP      considering the                                                              an Annex to
+           – II is being    changes in                                                                   the POM
+           used             procurement and
+                            contracting
+                            approaches
+                            including life-cycle
+                            costing, DBO, PBC
+                            contractual
+                            arrangements, and
+                            guidance on
+                            climate-resilient
+                            and green
+                            procurement
+                            practices
+    9      No Standard      Develop the STDs        PAP            DMA               Within six          STDs for
+           Tender           for Design Build                                         months from         (DBO/PBC)
+           Documents        Operate (DBO) /                                          effectiveness       are developed
+           (STD)3           Performance-Based                                                            and e-
+           available by     Contracts (PBC),                                                             procurement
+           following the    besides updating                                                             ready; The
+           TNTTA and        the                                                                          item rate
+           TNTTR for        admeasurement /                                                              tender is
+           DBO/PBC          item-rate contract                                                           updated and
+           type of          with e-procurement                                                           e-
+           procurement      usage ready                                                                  procurement
+           and not                                                                                       ready; These
+           updated the                                                                                   STDs are
+           model tender                                                                                  adopted for
+           document                                                                                      Program
+           (item rate)                                                                                   Procurement
+           for e-                                                                                        and revised
+           procurement                                                                                   periodically
+
+
+8. The above enlisted procurement & contract management related mitigation measures are to strengthen
+        procurement and contract management at DMA, TNUIFSL, and participating ULBs. Details will be further
+        elaborated in the Program Operation Manual, which is legal covenant for the Program. The IAs have been
+        implementing the projects financed by the World Bank and other multilateral, including the projects financed
+
+
+3
+  A DLR action in the PforR Operation Chennai City Partnership: Sustainable Urban Services Program (P175221)
+IAs are advised to check with TNIDB, adopt the STDs that suit to the Program’s contractual practices and develop the
+remaining STDs
+
+                                                      Page 11 of 61
+                IFSA – Tamil Nadu Climate Resilient Urban Development Program (P179189)
+
+    by the government. In the TNSUDP, three ULBs implemented IPF with PBC on a pilot basis. Through this
+    program, implementing this PAP actions in timely manner, providing detailed procurement guidance (Annex
+    in the POM) to the IAs, and imparting need-based training to staff periodically, will help the participating ULBs
+    to articulate the PforR financing instrument with ease and enhance the efficacy of procurement management
+    and the Program’s outputs/outcomes within the overall guidance of the DMA and TNUIFSL.
+
+
+1. 4     Procurement Exclusions
+
+9. The project envisages contracts in Goods, Civil Works, Consultancy, and non-Consultancy, of various values.
+   Based on the assessment of Procurement Profile of the Program (described later in the document), it is
+   confirmed that there are no high-value contracts in the Program at this stage. In accordance with the Program
+   Procurement Risk rating as “Moderate”, the applicable thresholds4 across three procurement categories are:
+   a) Works, including turnkey, supply & installation of plant and equipment, and PPP): US$ 115 million
+   b) Goods, including Information Technology or Non-consulting Services: US$ 75 million
+   c) Consulting Services: US$ 30 million
+
+10. The IAs shall submit report to the World Bank if any large contracts are envisaged throughout program
+    implementation. Format will be annexed to the Program Operation Manual. In addition, the Bank will review
+    the audit, the Program budget execution and contract management reports to identify any large‐value
+    contracts to ensure conformity with the Bank’s policy on Program for Results (PforR).
+
+11. At this stage, the interventions considered under the program boundary are described in Table 2 . The
+    maximum cost estimate is US$27.66 m, which is well below the OPRC threshold for Works procurement
+    category.
+
+                              Table 2: Details of DPRs with estimated cost and packages
+
+                                                                                                                    US$ m
+                                                                          Operational                  Contract
+                             Approve       US$         Capital                                                      (US$ =
+                                                                       Expenditure/annu    Contracts   wise Cost
+ S.No      Name of the       d Project    millio    Expenditure                                                    INR 82)
+                                                                        m INR Crore (as       in       estimate
+   .         Project          Cost in     n (INR     INR Crore
+                                                                          per Detailed      number      (INR in
+                              Crores       82)      (as per DPR)
+                                                                        Project Reports)                crores)
+                                                                                                        97.87      11.94
+                                                                                                        117.15     14.29
+   1     Salem UGSS             548.00     66.83          464.85                    4.12      4
+                                                                                                        165.45     20.18
+                                                                                                        167.53     20.43
+         Thoothukudi                                                                                    118.74     14.48
+   2                            152.14     18.55          118.74                    1.93      1
+         UGSS
+         Thiruvannamala                                                                                 77.03       9.39
+   3                             97.67     11.91           88.74                    1.73      2
+         i UGSS                                                                                         11.86       1.45
+
+
+4 Based on the World Bank’s Operations Procurement Review Committee.
+
+
+
+                                                       Page 12 of 61
+             IFSA – Tamil Nadu Climate Resilient Urban Development Program (P179189)
+
+                                                                                                       US$ m
+                                                             Operational                  Contract
+                      Approve      US$        Capital                                                  (US$ =
+                                                          Expenditure/annu    Contracts   wise Cost
+S.No    Name of the   d Project   millio   Expenditure                                                INR 82)
+                                                           m INR Crore (as       in       estimate
+  .       Project      Cost in    n (INR    INR Crore
+                                                             per Detailed      number      (INR in
+                       Crores      82)     (as per DPR)
+                                                           Project Reports)                crores)
+
+       Pudukottai                                                                          63.68       7.77
+ 4                       89.95     10.97         81.14                 1.74      2
+       UGSS                                                                                18.11       2.21
+ 5     Avadi UGSS        93.13     11.36         85.18                 7.78      1         85.18      10.39
+       Kancheepuram                                                                        226.81     27.66
+ 6                      336.20     41.00        339.08                15.39      2
+       UGSS                                                                                61.62       7.51
+       Kancheepuram                                                                        149.52     18.23
+ 7                      248.62     30.32        298.60                 6.69      2
+       WSIS                                                                                134.24     16.37
+
+
+
+
+                                              Page 13 of 61
+               IFSA – Tamil Nadu Climate Resilient Urban Development Program (P179189)
+
+
+                                       Section 2.         Scope and Program Boundary
+
+2. 1    Implementation Arrangements
+
+12. The Program’s institutional framework will rely on the state’s existing institutions that comprises a two-tier
+    government system of state level and ULB level institutions. At the state level, the TNUIFSL and DMA will be
+    the nodal implementing agencies. 21 ULBs will be implementing agencies at the ULB level. Refer Figure 1.
+
+13. The DMA is responsible for implementing the urban governance improvement component of the Program.
+    DMA will be responsible for coordinating and overseeing the achievement of Results Area 1 and will pass on
+    the funds to ULBs as grants, upon achievement of the DLIs. DMA had previously functioned as the
+    implementing agency for institutional capacity building activities under the World Bank supported urban
+    development projects as well as other projects. It has also coordinated implementation of reforms at ULB and
+    State level under AMRUT and SBM. It is also main implementing partner for SBM and in case of AMRUT, it
+    passes on funds to TUFIDCO for onward transfers to the ULBs.
+
+14. TNUIFSL will be responsible for Results Area 2 and will pass on the funds to ULBs as a mix of sub-loans and
+    sub-grants as well as for achievement of DLIs. TNUIFSL / TNUDF has its own Board of Directors that oversees
+    and approves sub-loans / sub-grants to ULBs as per their lending policies. TNUIFSL had previously functioned
+    as the implementing agency for institutional capacity building activities as well as coordinating agency for sub
+    investments done in the ULBs, under the World Bank supported urban development projects as well as other
+    projects.
+
+15. At the ULB level, Municipal Commissioners and Municipal Engineers will be responsible for implementing
+    Program activities and achieving the required results, under the supervision and monitoring of state level
+    agencies.
+
+                                Figure 1: PforR and IPF implementation structure
+
+
+                                                     TNCRUDP
+
+
+                                      Bank PforR                       TA-IPF
+
+
+                                DMA               TNUIFSL                   DMA
+
+
+                                    ULBs                ULBs              TNUIFSL
+
+
+                                                   Page 14 of 61
+              IFSA – Tamil Nadu Climate Resilient Urban Development Program (P179189)
+
+16. Program Steering Committee (PSC): A PSC chaired by Secretary of MAWSD with senior officials from the IAs
+    and Department of Finance will be set up within four months from effectiveness for sanctioning and
+    monitoring the Program and will meet twice a year or as required. Suitable orders will be issued.
+
+
+17. High Powered Committee (HPC): An existing HPC headed by the Chief Secretary of GoTN will provide guidance
+    on issues requiring inter-departmental coordination and policy direction for major infrastructure projects in
+    WSS and Urban sectors including the Program. The committee is chaired by the Chief Secretary of the GoTN,
+    and its members consist of the Secretary MAWSD, representatives from Finance Department, Water
+    Resources Department, Energy Department, Environment, Climate Change and Forest Department, Revenue
+    and Disaster Management Department, and representatives from the IAs. The committee will meet annually
+    or as required.
+
+18. Program and TA implementation: This project has both PforR Program and IPF for the TA component. PforR
+    Program will be implemented by DMA, TNUIFSL, and ULBs. In case of IPF-TA component will be implemented
+    only by DMA and TNUIFSL. Under the TA component of TNCRUDP, DMA and TNUIFSL would undertake
+    envisaged procurement activities and other activities. Refer Figure 2.
+                                    Figure 2: Implementation arrangements
+
+
+                                           Program Steering
+                                              Commitee
+                                               ACS/PS MAWS
+
+
+
+                                  DMA                             TNUIFSL
+
+                                        Director                  Manging Director (MD)
+
+
+
+
+                                  ULBs                               ULBs
+                                Comissioner/EO                   Commissioner/EO
+
+
+
+
+                                                 Page 15 of 61
+                IFSA – Tamil Nadu Climate Resilient Urban Development Program (P179189)
+
+
+2. 2    Program Boundary and Program Expenditure Framework
+
+19. The overall government program (“p”) is US$2.18 billion (2,175 million) to be implemented over six years.
+    The World Bank PforR Program (“P”) is proposed as US$ 809.62 million, with US$279 million from the
+    International Bank for Reconstruction and Development (IBRD)-supported TNCRUDP, as per table given below. The
+    Bank PforR Program (“P”) covers 37 percent of the overall government program (“p”). The World Bank (IBRD)
+    will finance US$279 million (or 34 percent) of the Bank PforR program (“P”) as per Table 3 below. GoI share is
+    part of the AMRUT 2.0 and SBM 2.0 funding to the tune of US$ 58 million which is 7.2 percent of the finance
+    for Bank Program and the balance is funded by the GoTN. Detailed activity wise cost breakdown is provided
+    in Table 4.
+
+                                             Table 3: Program Financing
+
+                             Source                       Amount (US$, millions)           % of Total
+
+           Counterpart Funding                                      530.62                  65.54%
+
+            -    Government of India                                 58.14                  7.18%
+
+            -    Government of Tamil Nadu                           472.48                  58.36%
+
+           International Bank for Reconstruction and
+           Development (IBRD)                                       279.00                  34.46%
+
+           Total PforR Program financing (“P”)                      809.62                   100%
+
+
+
+
+                   Figure 3: Government Program vs. Bank Program– “p” Vs “P” – (US$ million)
+
+
+                                        p vs. P in USD million
+
+                                  2,175.61
+
+
+
+
+                                                                             809.62
+
+
+
+                           Government Program "p"                       Bank Program "P"
+
+
+
+
+                                                    Page 16 of 61
+                 IFSA – Tamil Nadu Climate Resilient Urban Development Program (P179189)
+
+                                    Figure 4: PforR Program – “P”- Sources of funding
+
+
+
+                                            BANK PROGRAM FUNDING
+
+
+                                                                                         IBRD, 279.00,
+                                                                                            34.46%
+
+
+
+
+                                GOTN, 472.48,
+                                  58.36%
+
+
+                                                                                     GOI, 58.14,
+                                                                                       7.18%
+
+
+
+20. The PforR program has clear boundaries for the government program (‘p’) and the Bank Program (“P”). The
+    government program has identified investments of US$1166.45 million for both water and sewerage
+    investments5 out of which selected investment costing to the tune of US$ 356.87 million is funded by the Bank
+    Program. Apart from that the government program and Bank Program are funding the salaries of the
+    participating ULBs, Consultancy studies, goods and equipment’s which will help the agencies in achieving the
+    DLIs. The list of activities and the framework is given below in Table 4 and Table 5: PforR Program – Funding
+    agency wise and Activity wise (US$ million).
+
+                    Table 4: Government Program versus PforR Program by Activity (US$, million)
+
+    Activities                                                   Bank PforR Program (‘P’)          Government program (‘p’)
+    Consultants, studies, goods, and equipment, and                        30                               30
+    other expenses
+    ULBs institutional strengthening related cost                          388.50                            944.92
+    including filling vacancy6
+    Development of parks and investments in energy                          34.24                             34.24
+    efficiency in municipal assets
+
+    Capital investments and O&M in water supply                             84.46                            195.34
+    systems
+    Capital investments and O&M in sewerage systems                        272.42                             971.11
+                           Total                                           809.62                            2175.61
+
+
+5
+  Majority of the investment have been approved by the Government and suitable Government orders have issued for these investments.
+Funding tie ups have also been identified for these investments.
+6 Recurrent costs related to the ULBs staff salary will be mostly funded by the GoTN/ULBs.
+
+
+
+                                                         Page 17 of 61
+IFSA – Tamil Nadu Climate Resilient Urban Development Program (P179189)
+
+
+
+
+                             Page 18 of 61
+                     IFSA – Tamil Nadu Climate Resilient Urban Development Program (P179189)
+
+                         Table 5: PforR Program – Funding agency wise and Activity wise (US$ million)
+
+                                                                                    Government
+                                       Activities                                                      Bank PforR Program (‘P’)7
+                                                                                    program (‘p’)
+
+                                                                                                    IBRD              GOI
+                                                                                                             GOTN             Total
+                                                                                                     (@)               #
+
+
+    Consultants, studies, goods, and equipment, and other expenses
+                                                                                       30.00        30.00      -              30.00
+
+    ULBs institutional strengthening related cost including filling vacancy
+                                                                                       944.92       19.88    368.62           388.50
+
+    Development of parks and investments in energy efficiency in municipal assets
+                                                                                       34.24        34.24      -              34.24
+
+    Capital investments and O&M in water supply systems
+                                                                                       195.34       43.90    25.36    15.20   84.46
+
+    Capital investments and O&M in sewerage systems
+                                                                                       971.11       150.98   78.50    42.94   272.42
+    Total
+                                                                                      2,175.61      279.00   472.48   58.14   809.62
+
+
+       @ This is indicative funding and is fungible across activities. World Bank will account for overall
+       program expenditure up to US$279 million. Expenditure except GOI share will be treated as part of
+       the Program Expenditure.
+       # GOI funding is to be received for capital investments only against SBM 2.0 and AMRUT 2.0 schemes
+
+21. Most of the Program activities are fully funded by the Bank or state. In case of Capital investments GoI is
+    funding some of the schemes through AMRUT and SBM and these schemes are clearly identified, and the
+    funding is also clearly demarcated. The overall contribution of GoI for the Bank Program is 7.18 percent. Apart
+    from the Bank Program GoI is also providing funds for the larger government program through AMRUT and
+    SBM.
+
+
+22. The funding shown above is indicative and the expenditure will be reconciled on an overall basis for the
+       Bank Program. GoI will provide funds as a part of the ongoing AMRUT 2.0 and SBM 2.0 programs as per its
+       guidelines. While the expenditure for the Bank Program will be reported on overall basis, at the time of
+       reconciliation, expenditure incurred by GoTN/ULBs will only be considered and GOI expenditure will be
+       excluded. Also, the expenditure against each activity is indicative and could be changed based on the actual
+       implementation in the field. The overall funding provided by the Bank will be US$279 million.
+
+
+
+7
+    The World Bank’s Anti-Corruption Guidelines (ACG) for PforR shall be applicable to all procurement activities under the PforR
+Program,
+
+
+
+
+                                                                 Page 19 of 61
+               IFSA – Tamil Nadu Climate Resilient Urban Development Program (P179189)
+
+23. Salary cost is majorly borne by the state. In case of salaries, the entire cost of salaries of the participating
+    ULBs along with the expected increase in cost due to inflation and addition of new staff has been taken as
+    part of the program for six years. Salary is borne by the state and ULBs while salaries for new posts created to
+    achieve the DLIs is expected to be funded as part of the program expenditure.
+
+24. The Program will be a combination of capital expenditure (capex) and operating expenses (opex) activities.
+    The Program will finance procurement of goods, consultancy services, works, and other expenditure
+    associated with the implementation units, related to the program. Operational and administrative
+    expenditure will include salaries of incremental staff in ULBs, and general program expenses. Investments will
+    be in civil works; contractual payment to consulting firms; and non-procurement activities like training,
+    workshops, and Operational cost.
+
+25. The list of investments under the Bank Program is provided in Table 6:
+
+
+                   Table 6: Investments in PforR Program – Funding agency wise (US$ million)
+
+ ULB Name                                      GOI              GOTN               IBRD             Total
+ Under Ground Sewerage System                          42.94              78.50           150.98            272.42
+   Salem Corporation                                   22.05              20.05            24.73             66.83
+   Kanchipuram Corporation                                 -              11.79            27.51             39.30
+   Cuddalore Corporation                                   -               8.39            19.57             27.96
+   Dindugal Corporation                                    -               7.50            17.50             25.00
+   Namakkal Municipality                                1.95               4.77            15.68             22.40
+   Thoothukudi Corporation                              5.54               5.04             7.97             18.55
+   Thiruvannamalai Municipality                         3.93               3.57             4.41             11.91
+   Avadi Corporation                                    3.75               3.41             4.20             11.36
+   Pudukottai Municipality                              3.62               3.29             4.06             10.97
+   Theni Allinagaram Municipality                          -               3.20             7.46             10.66
+   Dharmapuri Municipality                              0.75               2.25             7.01             10.02
+   Krishnagiri Municipality                                -               2.56             5.98              8.54
+   Thiruvarur Municipality                                 -               1.45             3.38              4.83
+   Karaikudi Municipality                               1.35               1.23             1.52              4.10
+ Water Supply system                                   15.20              25.34            43.91             84.46
+   Kanchipuram Corporation                                 -              11.65            27.19             38.84
+   Nagercoil Corporation                                2.46               2.21             2.70              7.37
+   Avadi Corporation                                    2.28               2.05             2.50              6.83
+   Pudukottai Municipality                              1.82               1.64             2.00              5.45
+   Tiruchirappalli Corporation                          1.41               1.27             1.55              4.22
+   Cuddalore Corporation                                1.08               0.98             1.19              3.25
+   Tirunelveli Corporation                              1.07               0.96             1.18              3.22
+   Rajapalyam Municipality                              1.06               0.95             1.16              3.17
+
+
+                                                   Page 20 of 61
+              IFSA – Tamil Nadu Climate Resilient Urban Development Program (P179189)
+
+
+ ULB Name                                     GOI              GOTN              IBRD            Total
+   Karaikudi Municipality                              0.94              0.85             1.04             2.83
+   Erode Corporation                                   0.83              0.75             0.91             2.49
+   Tambaram Corporation                                0.76              0.69             0.84             2.29
+   Thoothukudi Corporation                             0.61              0.55             0.67             1.83
+   Vellore Corporation                                 0.52              0.47             0.57             1.55
+   Dindugal Corporation                                0.37              0.33             0.40             1.10
+ Grand Total                                          58.14            103.84           194.89           356.87
+
+
+
+2. 3    TA Expenditure
+
+26. Apart from PforR, the program has a TA for the tune of US$ 30 million. The TA will be funded by the Bank
+    to the tune of US$20.25 million and the balance is funded by the GoTN. The activities majorly include the
+    funding of consultancies, goods, operation costs, Independent Verification Agency (IVA) and audits which
+    will be spent at the level of TNUIFSL and DMA office. Front end fees is capitalised and will be funded from
+    IBRD.
+
+
+
+2. 4    Result Areas and DLI
+
+27. To achieve the Project Development Objective, an integrated approach is used, leveraging synergies across
+    the Results Areas. The Disbursement of US$ 279 million by the WB to GoTN will be linked to achievement of
+    Disbursement Linked Indicators (DLIs). DLIs and result areas are provided in the Project Appraisal Document
+    (PAD). Each year disbursement linked results along verification protocols is provided in the PAD.
+
+
+
+
+                                                 Page 21 of 61
+              IFSA – Tamil Nadu Climate Resilient Urban Development Program (P179189)
+
+
+                          Section 3.               Review of Public Financial Management Systems
+
+28. Public Financial Management (PFM) encompasses both upstream and downstream functions. Upstream
+    functions include policy, planning and budgeting and downstream functions include – budget execution
+    including procurement, internal controls, accounting, reporting and audit. The procurement cycle including
+    contract management is embedded coherently within the PFM and contributes substantially to the efficacy
+    of upstream and downstream functions. PFM cycle is represented in the figure given below. PFM is an ongoing
+    process and needs to be reviewed from time to time and aligned to achieve the objectives. Refer Figure 5.
+
+                                                     Figure 5: PFM CYCLE
+
+
+
+                                                             Budget
+                                                           Preparation
+
+                                                                                  Legislative
+                                   Planning
+                                                                                   Approval
+
+
+
+
+                  Legislative                                                                    Budget
+                   Scrutiny                                                                     Execution
+
+
+
+
+                        External                                                        Internal controls
+                         Audit                                                         and Internal Audit
+
+
+
+
+                                              Financial
+                                                                          Accounting
+                                              Reporting
+
+
+
+
+                                                          Page 22 of 61
+                        IFSA – Tamil Nadu Climate Resilient Urban Development Program (P179189)
+
+
+3. 1 Planning and Budgeting
+3.1.1 Adequacy of budget:
+
+3.1.1.1 Budget at state level
+
+29. The overall state budget has been increasing on a year-to-year basis. For FY 21-22 the actual expenditure
+    was US$ 35.49 billion. As per FY22-23 budget the total expenditure is expected to be US$ 39.9 billion. This
+    PforR program funds less than 1 percent of the State budget every year over the next five years. Hence this
+    PforR will not affect the state finances.
+
+30. The state has revenue deficit (RD) for a decade, and the deficit is increasing over the recent years and this
+    trend is expected to continue as per the medium-term fiscal plan (MTFP) projections. RD has increased
+    sharply in FY 20-21 due to economic slowdown caused by COVID-19 which led to reduction in revenue as well
+    as increase in expenditure to meet the needs of pandemic GoTN is expected to move into revenue surplus
+    position from FY 25-26 as per the MTFP.
+
+31. GoTN has been having fiscal deficits (FD) ratio to GSDP higher than the mandated 3 percent in the last three
+    years. During the last 3 years FD has been more than 3 percent and as per MTFP it is expected to normalise
+    from FY 24-25. Due to widening RD, FD is also getting affected and this issue has been raised by the AG in the
+    audit report. The state overall liabilities including off-budget borrowings were above the allowed limit of 28
+    percent of GSDP in the last two years. Since increase in RD, and FD as well as loans have happened during the
+    COVID years, the numbers in FY 22-23 needs to be reviewed once available to look at the trend post COVID.
+    Refer Table 7 and Table 8.
+
+
+                                               Table 7: Snapshot of the State Finances (INR Crores)8
+    Particulars             2015-16             2016-17            2017-18            2018-19            2019-20            2020-21            2021-22
+
+    GSDP (at current
+    prices)                     1,176,500           1,302,639          1,465,051          1,630,209          1,743,144          1,808,239          2,065,436
+
+    Total    Revenue
+    Receipts                      129,008             140,231            146,280            173,741            174,526            174,076            207,492
+
+    Revenue
+    Expenditure                   140,993             153,195            167,874            197,201            210,435            236,402            254,030
+
+    Committed
+    Expenditure                       83,317              94,750             91,103         107,936            116,194            118,061            125,935
+
+    Capital     Outlay
+    Expenditure                       18,995              20,709             20,203             24,311             25,632             33,067             37,011
+
+    Revenue       Deficit
+    (RD)                          (11,985)            (12,964)           (21,594)           (23,460)           (35,909)           (62,326)           (46,538)
+
+
+
+
+8
+    Based on data available in the AG reports, AG (A&E) reports, and Budget documents available in the FD website.
+
+                                                                        Page 23 of 61
+                       IFSA – Tamil Nadu Climate Resilient Urban Development Program (P179189)
+
+ Particulars             2015-16             2016-17             2017-18             2018-19            2019-20            2020-21             2021-22
+
+ Revenue    Deficit
+ (RD)/GSDP %                       1.02%               1.00%               1.47%               1.44%              2.06%              3.45%               2.25%
+
+ Fiscal Deficit (FD)               32,627              56,170              39,840              47,336             60,179             93,983              81,835
+
+ Fiscal     Deficit
+ (FD)/GSDP %                       2.77%               4.31%               2.72%               2.90%              3.45%              5.20%               3.96%
+
+ Fiscal Liabilities/
+ GSDP %                        18.96%                 21.75%           22.29%                22.62%           24.31%             28.35%              28.87%
+
+ Total Expenditure
+ outturn %                     93.05%                 93.21%           92.61%                99.77%           97.03%             97.15%              95.94%
+
+ Revenue outturn %             90.42%                 94.64%           91.79%                98.58%           88.27%             79.35%             102.47%
+
+ Capital
+ expenditure / total
+ expenditure %                 11.87%                 11.91%           10.74%                10.98%           10.86%             12.27%              12.72%
+
+ Revenue
+ expenditure                         96%                 93%                 96%                102%                99%                98%                 97%
+ outturn
+
+ Capital
+ expenditure                         77%                 92%                 73%                 86%                82%                91%                 88%
+ outturn
+
+
+
+                             Table 8: State finances actual expenditure for seven years (INR Crores)
+
+                                            2015-16        2016-17           2017-18           2018-19       2019-20          2020-21           2021-22
+ Particulars
+                                            (A)            (A)               (A)               (A)           (A)              (A)               (A)
+ Revenue Expenditure                          140,993           153,195         167,874           197,201          210,435       236,402           254,030
+ Capital outlay Expenditure                    18,995            20,709             20,203         24,311           25,632           33,067         37,011
+ Total Expenditure                            159,988           173,904         188,077           221,512          236,067       269,469           291,041
+ Revenue Surplus                              -11,985           -12,964         -21,594           -23,460          -35,909           -62,326        -46,538
+ Revenue surplus/GSDP                          1.02%             1.02%              1.47%           1.44%            2.06%            3.45%          2.25%
+ Fiscal Deficit (FD)/GSDP                      2.77%             4.42%              2.72%           2.90%            3.45%            5.20%          3.96%
+ Total Expenditure in US$
+                                               19,511            21,208             22,936         27,014           28,789           32,862         35,493
+ million
+
+
+32. States revenue expenditure outturn has been consistently over 90% which outlines better alignment
+    between the budget and the actual expenditure. Capital expenditure outturn has been varying around 77
+    percent which was 90 percent in the recent year. The share of capital expenditure on total expenditure has
+    also been increasing over the years.
+
+
+
+
+                                                                      Page 24 of 61
+                IFSA – Tamil Nadu Climate Resilient Urban Development Program (P179189)
+
+
+
+3.1.1.2 Sector level budget
+
+33. The 2 key sectors involved in this program are the Municipal Administration and Urban Water supply and
+    sanitation sector. Both these sectors are part of budget demand 34 of the GoTN budget under the MAWSD.
+    2215 budget head represent revenue expenditure and 4215 represents capital expenditure provided for water
+    supply and sanitation sector. Budget head 2217 revenue expenditure and 4217 represents capital expenditure
+    provides the budget and accounts details for the urban development where funds are routed through DMA
+    office to the ULBs or other agencies. Apart from these heads other heads operated are 3604, which deals with
+    compensation transferred to ULBs through DMA, 6215 head for loans for water supply, and 6217 loans for
+    urban development.
+
+34. We consider the revenue and capital expenditure budget head patterns to understand the sector funding.
+    The expenditure under these heads are increasing consistently over the years. Also, all EAPs and CSS projects
+    are funded through these heads. The overall expenditure (revenue and capital) under these heads based on
+    actual expenditure amounts to US$733 million per year which when compared to the program funds is on the
+    higher side and hence the absorptive capacity for the Program is not an issue. Refer Table 9.
+
+
+                              Table 9: Sector financing over the years (US$ million)
+
+ Years               2215 WSS   2217 UD       4215 Capital WSS     4217 Capital UD                   total
+ 2015-16 (A)               30.4          43.8               194.8                 194.3                 463.17
+ 2016-17 (A)               46.2          80.6               155.0                 328.3                 610.12
+ 2017-18 (A)               38.0          55.0                 97.4                239.1                 429.63
+ 2018-19 (A)               25.9          72.0               108.8                 490.1                 696.71
+ 2019-20 (A)               31.3         143.9               167.2                 346.3                 688.78
+ 2020-21 (A)               63.8         103.8               311.5                 543.4               1,022.44
+ 2021-22 (A)               44.3         113.3               186.3                 880.1               1,224.06
+ 2022-23 (BE)
+                            45.0            308.3                   240.0                   762.9    1,356.24
+ 2023-24 (BE)               36.7            248.2                   680.2                   453.4    1,418.54
+ Average                    40.0             87.5                   174.4                   431.7         733.6
+
+    (A) = Actuals as per accounts (BE) Budget estimates as per Budget
+
+35. While the budget outturn has been erratic in the earlier years it has stabilized in the later years. Also, the
+    expenditure under these heads based on actual expenditure for capital expenditure on an average amount to
+    US$605 million per year which when compared to the program funds is on the higher side and hence the
+    absorptive capacity for the Program is not an issue. Refer Table 10.
+
+
+
+
+                                                  Page 25 of 61
+              IFSA – Tamil Nadu Climate Resilient Urban Development Program (P179189)
+
+                          Table 10: Sector budget outturn and expenditure (US$ million)
+
+                    Water Supply and sanitation Heads                         Urban Development Heads
+            2215 -      Budget        4215 –       Budget           2217-     Budget       4217 –     Budget
+ Years      Revenue     outturn       Capital      outturn          Revenue   outturn      Capital    outturn
+ 2015-16           30.4                    194.8                       43.780                194.268
+ 2016-17           46.2       119%         155.0          93%          80.610       110%     328.293         88%
+ 2017-18           38.0          98%         97.4          55%         55.000           50%   239.146             46%
+ 2018-19           25.9          68%        108.8          55%         71.951           66%   490.122             88%
+ 2019-20           31.3          77%        167.2          73%        143.902           79%   346.341             53%
+ 2020-21           63.8         154%        311.5         118%        103.780           67%   543.415             78%
+ 2021-22           44.3         100%        186.3         102%        113.279           72%   880.122            105%
+ 2022-23
+ (BE)              45.0                     240.0                     308.293                 762.927
+ 2023-24
+ (BE)              36.7                     680.2                     248.171                 453.415
+ Average           40.0                     174.4                      87.472                 431.672
+
+
+3.1.1.3 Absorption capacity
+
+36. DMA office is one of the main implementing agencies. DMA office is handling various projects and funds. The
+    funds handled by DMA is increasing every year and mostly it is a pass through to ULBs and other agencies.
+    DMA passes on the AMRUT funds to ULBs through TUFIDCO, SBM funds directly to ULBs, and other funds to
+    ULBs based on state schemes. DMA also carries out the devolution of funds for ULBs for the SFC grants. On an
+    average as per budget estimates, the DMA handles US$1618 million and hence this program would not affect
+    the capacity of the DMA office. Refer Table 11.
+
+
+                          Table 11: Funds handled by DMA as per budget in past six years
+
+ DMA                                              INR Crores                                       US$ million
+                Revenue expenditure      Capital expenditure Loans              Total
+ 2017-18                     5,647                     4,239              261             10,147             1,237
+ 2018-19                     6,279                     4,592              500             11,371             1,387
+ 2019-20                     7,714                     5,395              515             13,624             1,661
+ 2020-21                     7,695                     5,743              553             13,991             1,706
+ 2021-22                     6,941                     5,644              540             13,125             1,601
+ 2022-23                     8,836                     6,256              475             15,567             1,898
+ 2023-24                    10,597                     3,718              718             15,033             1,833
+ Average                     7,673                     5,084              509             13,265             1,618
+
+37. TNUIFSL handles many funds, externally aided projects, and schemes. Currently as Fund Manager, it manages
+    TNUDF, and other 5 funds apart from EAP with ADB, KFW, JICA and the World Bank. The net loan balance with
+
+
+
+                                                    Page 26 of 61
+              IFSA – Tamil Nadu Climate Resilient Urban Development Program (P179189)
+
+    ULBs as on 31-03-2022 is INR 3000.07 crores. During 21-22 a sum of INR 348.79 crores has been borrowed
+    from EAPs. Refer Table 12 and Table 13.
+
+                             Table 12: EAP Loans balance of TNUDF as on 31/3/22
+
+ Particulars                                                Amount in Crores                US$ million
+ Loan balance as on 1/4/2021                                                      3259.62       397.51
+ Loans Borrowed during the year                                                    348.79        42.54
+ Loans repaid to Government                                                         90.58        11.05
+ Loan balance as on 31/3/22                                                       3517.83       429.00
+
+                                Table 13: List of EAP Loans taken as on 31/3/22
+
+ Loans under EAP                                Loan Size                      Loan availed      US$ million
+ World Bank TNUDP II                                                 27.58                 27.58     3.36
+ World Bank TNUDP III                                               462.20                462.20    56.37
+ World Bank TNSUDP                                                 1390.84              1285.04    156.71
+ JICA - TNUIP                                                       258.36                258.36    31.51
+ KFW-SMIF-TN-I                                                      314.28                314.28    38.33
+ KFW-SMIF-TN-II-1                                                   349.36                349.36    42.60
+ KFW-SMIF-TN-II-2                                                   410.86                380.51    46.40
+ ADB-TNUFIP-1                                                       304.78                218.50    26.65
+ ADB-TNUFIP-2                                                       487.01                222.00    27.07
+ Total                                                             4005.27              3517.83    429.00
+
+
+38. The entire debt service (principal and interest) dues of 404.66 crores from the ULBs for the financial year
+    2021-22 have been collected and has achieved record 100 percent collection efficiency continuously for the
+    past seventeen financial years. The total assets as on 31.3.22 was INR 3,991 crores (US$ 486 million) and net
+    worth was INR 300 crores (US$ 36.5 million).
+
+39. In the past five years TNUIFSL has provided loans worth INR 1,682 crores (US$ 205 million) with an average
+    loan disbursal of US$ 41 million per year. Based on these numbers this program would not affect the capacity
+    of TNUIFSL to disburse loans. Refer Table 14.
+
+
+
+
+                                                 Page 27 of 61
+               IFSA – Tamil Nadu Climate Resilient Urban Development Program (P179189)
+
+                      Table 14: Loans sanctioned and disbursed by TNUIFSL in last 10 years
+
+                          Loan Sanctions (INR         Loans disbursement (INR      Loans Disbursement
+ Year                     Crores)                     Crores)                      US$ million
+
+ 31.3.2013                                 342.21                         257.68 31.42
+
+ 31.3.2014                                 773.34                         566.19 69.05
+
+ 31.3.2015                                  89.07                         311.79 38.02
+
+ 31.3.2016                               1038.76                          145.84 17.79
+
+ 31.3.2017                                 236.96                         359.18 43.80
+
+ 31.3.2018                                 105.17                         441.75 53.87
+
+ 31.3.2019                                 441.08                         376.73 45.94
+
+ 31.3.2020                                 487.01                         213.76 26.07
+
+ 31.3.2021                                 281.59                         435.19 53.07
+
+ 31.3.2022                                 52.31                           215.4 26.27
+ Grand Total                              3847.5                         3323.51                        405.31
+ Total for last 5 years                  1367.16                         1682.83                           205
+ Average for last 5
+ years                    273.43                      336.57                       41.04
+
+40. The Bank Program is supplemented by funds from centrally sponsored schemes (CSS) and state schemes.
+    CSS like AMRUT 2.0 and SBM 2.0 are recent programs which started in FY 22-23 while AMRUT and SBM were
+    funding in earlier years. State schemes like Capital Grant Fund was started in FY 17-18 while NNT (Nammuku
+    Namme Thittam) and KNMT (Kalaingar Nagar Pura Membatu Thittam) was started in FY 22-23. The
+    expenditure under these schemes are increasing gradually even though it was impacted during COVID.
+    Expenditure in case of AMRUT for FY 21-22 is USD 27.5 million while under SBM it was 5.29 million. Funds
+    under these programs are not an issue as these are milestone based and once the milestone is achieved both
+    centre and state release the funds. In case of state funds like CGF the expenditure in 21-22 was USD 8.78
+    million while for the other two schemes it was US$ 1.83 million and 12.2 million. In FY 21-22 a total amount
+    of US$ 55.59 million was spent and based on budget similar or higher expenditure is expected. This PforR is a
+    part of the envisaged government spending and will not affect the finances. Refer Table 15.
+
+
+
+
+                                                    Page 28 of 61
+               IFSA – Tamil Nadu Climate Resilient Urban Development Program (P179189)
+
+                                Table 15: Various schemes funding in US$ Million
+                AMRUT                SBM               CGF            NNT          KNMT      Total
+          B      A      O    B      A      O    B     A    O    B    A    O B      A    O    B      A
+2016-17    6.10    7.63 125% 2.44     4.58 188%    -    -    0%                                8.54 12.21
+2017-18   17.07    9.47 55% 7.32      3.00 41% 7.04 6.91 98%                                  31.43 19.38
+2018-19   14.63 14.21 97% 6.27        3.66 58% 8.05 8.05 100%                                 28.95 25.92
+2019-20   17.68    0.97   6% 14.04 10.95 78% 8.97 8.26 92%                                    40.69 20.18
+2020-21   17.68 11.54 65% 9.76        4.33 44% 9.21 7.37 80%                                  36.65 23.24
+2021-22   17.68 27.49 155% 10.24      5.29 52% 8.02 8.78 110% 3.66 1.83 50% 12.20 12.20 100% 51.80 55.59
+2022-23   25.98     -         25.54    -         10.04 -         2.44 -      12.20   -        76.19   -
+2023-24    7.47     -         15.85    -          6.71 -         2.44 -      12.20   -        44.66   -
+B= Budget A= actuals O= outturn percentage which is actual expenditure/budget
+
+
+
+3.1.2 Planning and Budget Preparation
+
+
+41. The GoTN has an established budget preparation process that is guided by Budget Manual. The
+    Administrative Department prepares a budget that includes the budget estimate (BE) for the current year and
+    advance estimate for the next two fiscal years and these detailed budget proposals, are submitted to the
+    Budget Division in the Finance Department. The revised estimate for the ongoing fiscal year is also submitted
+    along with the BE of the ensuing year. The final agreed budget allocations are presented in the state annual
+    budget and are approved by the Assembly in February/March.
+
+42. Each IA should prepare an annual work plan and based on that prepare the budget requirements for that
+    year. The budget requirements of the Program should be intimated to the administrative department as per
+    the state budget schedule so that the requirements can be incorporated in the state budget.
+
+43. DMA and TNUIFSL should prepare an annual work plan and based on that prepare the program budget
+    requirements. They should submit the budget requirements to MAWSD as per the state budget schedule so
+    that these figures can be incorporated in the state budget. MAWSD will consolidate the budget estimate (BE)
+    for the current year and submit to the Budget Division in the Finance Department. The final agreed budget
+    allocations are presented in the state annual budget and are approved by the Assembly in February/March.
+    Refer Figure 6 and Figure 7.
+
+44. The agencies must prepare an annual procurement plan aligned with the annual work plan and budgeting
+    for better planning. In state of Tamil Nadu, Tamil Nadu Transparency in Tenders Act 1998 requires that (a)
+    The Government or the procuring entity, may, by order, appoint an officer under its control as Tender Inviting
+    Authority for carrying out the functions assigned to it under the Tender Act; (b) The Government or the
+    procuring entity, may, by order, appoint an officer or a committee consisting of such number of officers as
+    may be prescribed as Tender Accepting Authority for carrying out the functions assigned to it under this Act.
+    The procurement activities will be initiated after the Administrative and Technical sanction, based on the
+    delegation of financial powers. However, there are no specific provisions related to procurement planning in
+    the above-mentioned Act or Rules. Hence, the IAs do not maintain the procurement schedule (date of
+    initiation, award, and completion) linked with the Budget and annual workplan (procurement plan) and utilise
+
+                                                  Page 29 of 61
+                  IFSA – Tamil Nadu Climate Resilient Urban Development Program (P179189)
+
+       this data for reviewing and monitoring of high value key contracts, which are often procured at the state level
+       and implemented by ULBs. The procurement plan is also useful in strategizing the inter-dependent
+       procurement activities and computing helpful key procurement performance indicators.
+
+45. DMA, and TNUIFSL should prepare the Procurement Plan, and link each of activities with envisaged Result
+    areas, DLIs, and Program Results. For each of the approved DPR, identify procurement activities, and prepare
+    the procurement packaging and activity-wise schedule (date of initiation, award, and completion). The IAs
+    requires to strengthen the existing monitoring mechanism by including the tendering (procurement) plan in
+    the existing web-based MIS that helps the IAs connect the scheme approval stage9 with the contract
+    monitoring (physical and financial progress) stage. This bridging will help IAs review and monitor the tendering
+    stage. Link these activities with Program’s outputs/outcomes (DLRs/PAP/Result Indictors) duly considering the
+    procurement turnaround time and completion period. This comprehensive planning will help the IAs to
+    achieve the intended outcomes and outputs. Besides, these planning details can be utilised as a review &
+    monitoring tool. Action: The IAs are to regularly disclose the procurement information related to the bidding
+    and contract award details on the official website and e-procurement portal.
+
+
+                               Figure 6: Budget preparation process – Bottom-up approach
+
+
+
+                                                                         FD
+        Budget is prepared by
+        DMA and TNUIFSL and
+        submits to MAWSD which
+        consolidates and submits                                    MAWSD
+        the budget to FD. FD
+        consolidates for entire
+        state and finalizes budget.
+                                                           DMA                  TNUIFSL
+
+
+
+
+9
+    After approval of budget proposals and budget, IAs sanctions Administrative Sanction (AS) & Technical Sanction (TS)
+
+                                                        Page 30 of 61
+                  IFSA – Tamil Nadu Climate Resilient Urban Development Program (P179189)
+
+                                  Figure 7: Budget allocation process – Top-down approach
+
+
+        Once budget is finalised, FD
+        provides the budget figures to                                        FD
+        all departments, and this is
+        allocated through state IFHRMS.
+        Each department can further
+        allocate the money to its                                        MAWSD
+        subordinates. The DDOs can
+        access the budget through the
+        system.
+                                                                 DMA                TNUIFSL
+
+
+
+46. The state should provide budget for the entire program in their annual budget based on the annual work
+    plan. The state will prefund the entire program expenditure during the Program life, disbursements from the
+    Loan will be made based on successful completion of DLI and verification by IVA.
+
+47. Separate EAP budget heads one head for DMA (budget head to be created) and one head for TNUIFSL
+    (budget head already created) needs to be created for the Program for accessing the funds. Once the budget
+    is approved by the state, then the budget is available to the agencies.
+
+48. All budget documents are displayed in the public domain through the State Finance Department website 10
+    in both English and Tamil. The following documents are displayed on the website:
+
+         a.   Budget Speech
+         b.   Budget Publications – Demand wise publications
+         c.   Budget Highlights
+         d.   Annual Financial Statements
+         e.   MTFP
+         f.   Budget Memorandum
+         g.   Loans and advances, public debt, and public account details
+         h.   Appropriation Accounts
+         i.   Finance Accounts
+         j.   Citizen budget
+
+
+10 https://financedept.tn.gov.in/en/
+
+
+
+                                                      Page 31 of 61
+               IFSA – Tamil Nadu Climate Resilient Urban Development Program (P179189)
+
+
+
+49. The following are the actions to be done:
+
+        a. Pass GO for the Program
+        b. Create budget heads for the Program.
+        c. Prepare annual work plan and annual procurement plan for the Program,
+
+
+3.1.3 Procurement profile of the Program
+
+50. In accordance with the definition of Program Expenditure Framework, PforR Program’s Result areas (1 and
+    2) encompasses procurement activities at each of the sub-project proposal, mainly the water supply and
+    sanitation work. Most of these activities using the life-cycle costing (Capital and operational expenditure),
+    key performance indicators, and energy saving initiatives. These contracting approaches falls in the domain
+    of Green / Climate resilient public procurement. Based on the learnings and implementation experience, the
+    GoTN may append a guidance for ULBs on the Green / Climate Resilient / Sustainable public procurement
+    guidelines and compendium of best practices to the detailed procurement guidance in the Annex of the PoM
+    in the second year of the Program.
+
+
+
+3. 2    Budget Execution
+
+
+3.2.1 Fund Flow
+
+51. For budget execution and fund flow the existing system will be followed. GOTN has implemented a
+    comprehensive Integrated Finance and Human Resource Management System (IFHRMS) across the state
+    departments. Once the budget is approved, the budget figures are posted on the IFHRMS head wise and the
+    Head of Departments have the right to further allocate the funds to officers in the chain of command based
+    on budget requirement. All payments and accounts done by the core departments are maintained in the
+    IFHRMS system.
+
+52. For DMA, a separate Program budget head would be created. This budget head will provide funds for a)
+    transfers to the ULBs on successful completion of DLIs; and b) for items of expenditure to be incurred by the
+    DMA office for achievement of DLIs. For institutional reforms DLI (RA-1), DMA will transfer funds to ULBs upon
+    successful completion and verification of DLIs which will be grant to ULBs, and these amounts can be used by
+    the ULBs for achieving DLIs under the Program as well as for meeting their share of the investments.
+
+53. DMA in first year can provide advance to ULBs for achieving the DLIs. ULBs will incur expenditure and achieve
+    the DLIs, based on which DMA can transfer the balance DLI amount to the ULBs. DMA has a designated DDO
+    who can draw/transfer funds to the ULBs based on achievement of DLIs. In case of own expenditure, the office
+
+
+
+                                                  Page 32 of 61
+               IFSA – Tamil Nadu Climate Resilient Urban Development Program (P179189)
+
+    of the DMA will use the state treasury system to make payments directly to the vendors. So, all program
+    payments made at the office of the DMA will be available in the IFRHMS.
+
+54. TNUIFSL already has a separate Program budget head. It is a company which has its own legal existence and
+    works outside the core government system. Once the budget is provided, TNUIFSL can draw the amounts and
+    transfer to PD A/c of the MD, which is an account kept in the treasury under the public deposits. As and when
+    the amount is required by the company the funds are transferred from the PD A/C to the bank account of the
+    company. A separate bank account will be maintained for the program as it is done for all other schemes. All
+    payments will be done from the bank account, including transfers to the ULBs. Under Results Area-2, TNUIFSL
+    will transfer funds to ULBs as per progress of work in proportionate basis as well as for successful completion
+    of DLIs.
+                                   Figure 8: Fund flow, Budget and DLI reporting
+
+
+
+
+        World Bank                           Government of                       GoTN – Finance
+                                              India - CAAA                        Department
+
+
+
+
+                                                                                GoTN-MAWS
+
+                                   DMA
+
+
+
+
+                                                                                  TNUFISL
+
+
+
+
+                                              ULBs
+
+
+
+
+        DLI reporting and expenditure reporting
+
+           Budget provision
+
+                 Funds transfer
+
+
+
+
+                                                  Page 33 of 61
+               IFSA – Tamil Nadu Climate Resilient Urban Development Program (P179189)
+
+55. ULBs will have a separate program bank account. Funds received from DMA for DLI achievement and funds
+    received from TNUIFSL will be maintained in two separate program bank accounts. All payments related to
+    DLIs, and capital investments will be made from these bank accounts. Only in case of staff salaries all payments
+    will be made through the general fund bank account which will be different from these bank accounts. ULBs
+    also have access to the SLNA A/C through which AMRUT/SBM funds will be accessed and payments made.
+    SLNA bank accounts is a noncash bank account with limits and hence the funds need to be maintained
+    separately. ULBs should open the program bank accounts at the earliest and operationalise them.
+
+56. Some ULBs may request TWAD Board to execute the sub-project on its behalf. In such cases TWAD Board will
+    get the work done, raise the bills and provide it to ULBs who will make payments directly to the contractors.
+    Any centage payable to the TWAD Board will be paid by the ULBs directly to the Board.
+57. There are three types of sub projects which will be funded under the program. Sub projects funded under
+    AMRUT with TUFIDCO as nodal agency; sub projects funded under SBM with DMA as nodal agency; and sub
+    projects fully funded the state through TNUIFSL.
+
+58. Sub projects funded under AMRUT: AMRUT is a Centrally Sponsored Scheme (CSS) under which funds are
+    provided by the Government of India and State. GoI releases amount to the state in tranches based on
+    milestones to be achieved. State provides matching share of funds. The funds are transferred to the State
+    Level Nodal Agency (SLNA) bank account which is managed by TUFIDCO. The ULBs are provided access to the
+    SLNA bank account and payments are made from the SLNA bank account. TNUIFSL will provide amount which
+    will be maintained in separate bank account and reporting will be done on an overall basis for the sub project.
+    Same vouchers and bills will be used for both payments and part payments made from the respective funds.
+
+59. Sub projects funded under SBM: SBM is a Centrally Sponsored Scheme (CSS) under which funds are provided
+    by the Government of India and State. GoI releases amount to the state in tranches based on milestones to
+    be achieved. State provides matching share of funds. The funds are transferred to the SLNA bank account
+    which is managed by DMA. The ULBs are provided access to the SLNA bank account and payments are made
+    from the SLNA bank account. TNUIFSL will provide amount which will be maintained in separate bank account
+    and reporting will be done on an overall basis for the sub project.
+
+60. Sub projects funded by state under EAP Projects: These projects are fully funded by state and entire funds
+    are provided by TNUIFSL to ULBs for which a separate bank account will be maintained and reporting to
+    TNUIFSL will be done on an overall basis.
+
+
+
+
+                                                   Page 34 of 61
+                IFSA – Tamil Nadu Climate Resilient Urban Development Program (P179189)
+
+                                      Figure 9: SLNA funds flow - AMRUT
+
+
+
+                                     State Budget and
+          GoI                                                              GOTN
+                                         Treasury
+
+
+
+
+                                           DMA
+
+
+
+
+                                        SLNA A/c -
+                                         TUFIDCO
+
+
+
+                                     SLNA A/c - ULBs                      Payment to
+                                                                          contractors
+
+
+
+61. The following are the actions to be done:
+       a. Program bank accounts to be operationalised at ULBs and TNUIFSL
+
+
+3.2.2 Accounting Systems and Financial Reporting
+
+62. Existing accounting system would be used for the Program. DMA will use the IFHRMS system. Payments will
+    be done through the GoTN Treasury, expenditures are recorded in the state treasury system, accounts will be
+    maintained in the state treasury system, and reports can be drawn from the treasury system. Accounting is
+    done on cash basis. DMA accounting will be done as part of the state treasury which is a computerized
+    accounting system and will provide head wise, voucher wise, and month wise expenditure. Apart from the
+    treasury records, office of the DMA maintains cash book, cheque issue register, and other basic records as
+    prescribed by the state and excel sheets for ease of reporting.
+63. TNUIFSL follows Institute of Chartered Accountants of India (ICAI) accounting standards, double entry
+    accrual-based accounting system and maintains accounts as per the Companies Act 2013. Fund wise
+    accounting/project wise accounting is being followed in the company. All expenditures, payments and
+    accounting are centralized. TNUIFSL has Oracle based software for the company accounts, while Tally software
+    is used for maintaining sub project accounts which is maintained on a proforma basis. Sub project accounts
+    reflects the entire expenditure and voucher wise accounts are maintained in TNUIFSL. Similar arrangement
+    would be made for this Program. Accounts has been closed for FY 22-23 and audit is expected to be completed
+    before September 2023.
+
+
+                                                 Page 35 of 61
+                  IFSA – Tamil Nadu Climate Resilient Urban Development Program (P179189)
+
+64. ULBs follow the Tamil Nadu Municipal Accounting Manual which is double entry accrual-based accounting
+    system. The accounting manual prescribes accounting policies procedures and presentation of financial
+    statements. ULBs have computerized accounting software (part of Urban Tree) which is online, and accounts
+    are generated from the software. Most of the ULBs have completed the accounts for FY 22-23. Separate
+    Program ledger will be maintained in the software for reporting on the Program. Details of payments done
+    under the Program can be generated from the software. Also, the ULBs will report the entire expenditure on
+    investments to TNUIFSL so that proforma accounts are maintained by them.
+65. ULBs payroll is computerized, payroll processing is done using the software and payments are done through
+    Bank transfers directly. The cost of payroll with all details are available from the system and can be used for
+    reporting and auditing.
+66. The following are the actions to be done:
+        a. Program accounting system to be operationalised at DMA, TNUIFSL and ULBs.
+
+
+3.2.3 Procurement system analysis
+67. GoTN's Procurement Framework: The Tamil Nadu Transparency in Tenders Act (TNTTA), 1998, Tamil Nadu
+    Transparency in Tenders Rules (TNTTR), 2000, and Tamil Nadu Transparency in Tenders (Public Private
+    Partnership Procurement) Rules, 2012, relevant amendments issued from time to time, and delegation of
+    financial powers11 constitutes the State's procurement framework. Chapter VI-A of Tamil Nadu Transparency
+    in Tender Rules 2000 provides for purchase preference applicable to Domestic small-scale industrial unit in
+    case of low value less than INR 2.5 million (~US$ 30,487) for Works and INR 1 million (~US$ 12,195) for other
+    procurement categories- and local purchases, and spot purchases of certain commodities from public sector
+    institutions.
+68. Procurement Manual: The MAWSD has prepared an Engineering Manual in 2000 through TNUDP – II for urban
+    local bodies as a day-to-day reference, particularly for the works. This manual requires upgrading, including
+    changes in procurement, and contracting approaches in the previous two decades, including life-cycle costing,
+    PPP contractual arrangements, and guideline for climate-resilient and green procurement practices.
+69. Procurement methods: Open Tendering is the preferred procurement method used widely by all the
+    Departments, including TNUIFSL. Other methods of procurement are single sourcing and spot purchase. In
+    addition, single-envelope and two-envelope bidding provisions and a multi-stage procurement method are
+    available. It is mandatory for Tenders of estimated cost INR 20 million (~US$ 243,902) or less to have a
+    minimum submission period of 15 days; above this threshold, the minimum period is 30 days.
+70. Standard Tender documents (STD): GoTN has not prepared and disclosed a universal suite of Procurement
+    documents/templates. In general, IAs have developed customised procurement documents aligned with the
+    provisions of the TNTTA and TNTTR, and subsequent amendments. In these lines, the MAWSD prepared a
+    customised tender document for the Works – admeasurement (item rate) contract. The ULBs are using this
+    document. However, the MAWSD need to develop the standard procurement documents for design and build
+    operate (DBO) / performance-based contracts that are unavailable.
+
+
+11
+     http://www.tnmea.in/img/upload/G.O_.No_.158_Revision_of_Monetary_Limit_.pdf
+
+                                                        Page 36 of 61
+                  IFSA – Tamil Nadu Climate Resilient Urban Development Program (P179189)
+
+71. The following are the actions to be done:
+        a. As annex to the POM, prepare a detailed procurement guidance with procurement and contracting
+            approaches akin to those envisaged through the Program.
+        b. Develop the Standard Tender Documents with e-Procurement ready for particularly for the DBO and
+            Performance-based works contracts on priority. Update the item-rate contact for e-procurement
+            ready. Adopt them for the Program Procurement and revise them periodically.
+3.2.4 e-Procurement
+72. e-Procurement Platform: An e-publication of tenders is mandatory on the website12 as per Tamil Nadu
+    Transparency in Tenders Act 1998. However, IAs did not use an e-procurement system to receive bids and
+    subsequent stages until the award and were using the manual process. Recently, the GoTN has mandated
+    using an e-procurement platform13 from 1 Apr 202314 above a low value threshold as per the TNTTA and
+    TNTTR. The World Bank assessed TN's e-procurement platform for the adequacy of multilateral agencies and
+    accepted it. Based on previous assessments of the system and its ongoing use under the IPF portfolio, this
+    system is deemed acceptable for the current Program.
+73. Use of e-Government Marketplace (GeM): GoTN have also entered MoU’s with the Ministry of Commerce,
+    Government of India which stipulates using the Government e-Marketplace (GeM) portal of central
+    Government for procurement of Goods and Services which are available on the portal. It requires the
+    Procuring Entities in the State to use Government e-Marketplace (GeM) portal for procurement of everyday
+    use items and services available on GeM. In 2019, the World Bank team assessed the GeM portal and found
+    it acceptable under Bank-financed projects up to a US$ 100,000 monetary limit.
+
+
+
+3.2.5 Procurement processes and procedures
+
+74. Publication of tender notice: Tamil Nadu Transparency in Tenders Rules provides mandatory provisions for
+    the publication of tender notices depending on the estimated cost. Publication of compulsory procurement
+    opportunity in English Newspapers of national circulation for Goods, Services: INR 10 million (US$ 121,951)
+    and above and for Works: INR 50 million (~US$ 609,756). In addition to publishing the tender notices in
+    newspapers, all tender notices shall include the web address of a dedicated website. In the case of
+    international competitive biddings, it would be open for the Tender Inviting Authority to give additional
+    advertisements in other newspapers.
+75. Evaluation process: Tamil Nadu Transparency in Tenders Rules require the prescription of the evaluation
+    criteria upfront in the tender documents and advised to utilise the same criteria for evaluation and award
+    recommendation. The Tender Scrutiny Committee or the officer evaluating the tender shall prepare a detailed
+    evaluation report which the Tender Accepting Authority shall consider before taking a final decision on the
+    tender. The evaluation report shall be prepared in the standardised format as prescribed. The tender
+
+
+
+12 http://www.tenders.tn.gov.in/ The e-procurement platform to be used from 1 Apr 2023
+13 https://tntenders.gov.in/nicgep/app
+14 https://cms.tn.gov.in/sites/default/files/go/fin_e_94_2023.pdf
+
+
+
+                                                            Page 37 of 61
+               IFSA – Tamil Nadu Climate Resilient Urban Development Program (P179189)
+
+    evaluation process shall be confidential until the award of the contract award and its notification. The
+    negotiation is permitted under the TNTTA. The IA does not publish contract award notices on its website.
+
+3.2.6 Contract management: Agency wise analysis
+76. Contract Management: The TNTTR does not prescribe specific contractual terms and conditions or contract
+    administration provisions. Hence it is expected that the contractual relationship between two parties shall be
+    governed strictly in line with requirements agreed by the parties during the tender process and then
+    incorporated into the resulting contract agreement.
+77. In the Measurement Book, the engineer-in-charge (Assistant/Junior Engineer records the completed work.
+    Then the Assistant / Executive Engineer verifies it based on the prescribed limits and approves the completed
+    work for payment. The payment is processed through Bank checks (not electronic transfer), and the average
+    payment period is around 30 days from the measurement date. However, the ULBs and IAs are not
+    maintaining the payment period.
+78. Though limited in numbers, the ULBs have engineers (municipal engineers) to manage and implement
+    contracts. These contracts are small value, scattered in nature. The ULBs obtained advisory support from the
+    TWAD board and Chennai Metro Water Corporation in a few contracts with high-value contracts. Based on
+    the interactions with representative ULBs (Kancheepuram, Avadi, and Salem), the assessment infers that the
+    ULBs require Project preparation and Implementation Support for high-value contracts with life cycle costing
+    and performance-based contracts. The high value contracts are supervised by the PMC contractors.
+79. Executing Agency: A participating ULB (Thoothukudi UGSS sub-project) is seeking Tendering and contract
+    management support from the Tamil Nādu Water Supply and Drainage Board (TWAD) board by paying
+    centage/service charges per the government norms. The TWAD Board is tendering and managing the awarded
+    contracts. However, the contractual payments will be processed by the respective ULB after certification from
+    the TWAD board. For this ULB or any other ULBs during the Program period, the TWAD Board shall use the
+    tender documents provided by the TNUIFSL that include the Bank’s ACG for PforR, reference to the Bank’s
+    debarment list and self-declaration form, definition of the Bank. The TWAD board will also designate a point
+    of contact for submitting procurement-related complaints and report any complaints or high-value contracts
+    during the Program period and procurement KPIs. The Program Audit (procurement part) also includes the
+    contracts awarded by the TWAD Board. Based on the lesson learnt during the implementation of TNSDUP for
+    using the TWAD Board as an executing agency, the memorandum of understanding between the ULB and
+    TWAD board may be revisited to enhance the level of monitoring & coordination to minimize the cost and
+    time overruns.
+
+80. Monitoring of Physical and Financial Progress: DMA has developed an online MIS platform that tracks each
+    procurement activity's physical and financial progress in the respective programs/schemes. DMA may
+    consider the upgradation of the monitoring tools (excel / web-based software) to derive useful KPI covering
+    the entire procurement cycle.
+
+81. Procurement Contract Performance data: The IAs do not maintain the procurement schedule linked with the
+    annual workplan, budget (procurement plan) and utilise this data for deriving helpful key performance
+    indicators (KPIs). In line with the PforR instrument and relying on the TN's procurement system, and
+
+
+
+                                                  Page 38 of 61
+               IFSA – Tamil Nadu Climate Resilient Urban Development Program (P179189)
+
+    procedure, the IFSA has listed a few salient KPI in the previous section to measure the procurement
+    performance.
+
+82. For assessment, five high value contracts were sampled from the TNSUDP. The average estimate was INR
+    182.70 Crore (US $ 22.28 m at INR 82 per US$) and awarded the contract with an average 17 percent above
+    the cost estimate. The average participation was 2.4 and the contracts were awarded with average
+    procurement lead time of 139 days, which is good turnaround time for the ticket size sampled. These contracts
+    were completed (fully /partially due to closure of TNSUDP) with substantial time overrun (6- 27 months) and
+    reduction in the scope with cost underrun of 40%. The ULBs requires contract management and
+    implementation support with appropriate monitoring mechanism.
+
+83. Procurement capacity and Lesson learnt from implementing series of projects in Urban sector financed by
+    the World Bank, other multilateral financing institutions, and GoTN’s budget. TNUIFSL had an experience in
+    implementing series of projects. Besides facilitating the procurement activities for the ULBs, procured in three
+    years
+
+                        Table 16 TNUIFSL's Procurement activities in previous three years
+
+                                                                                        Amount in INR (lakhs)
+                                         FY 20-21              FY 21-22           FY 22-23 (May 2023)
+       Description                  Numbers     Amount    Numbers    Amount       Numbers      Amount
+       Goods,           including      3       1728.50-      -           -               1         4966.00#
+       information technology                                                                        WRD
+                                                @ GCC
+
+       Works (including turnkey,       -           -          -             -              -           -
+       supply & installation of
+       plant and equipment, and
+       PPP)
+       Consultancy Services            6        1233.18       8          479.22            8        741.43
+
+       Non-Consulting Services         -           -          -             -              -           -
+
+       Total                           9       2961.68        8          479.22        9            5707.43
+
+
+
+84. TNUIFSL facilitated the following types of works contracts:
+    1. Construction of STPs in DBO model with 5 years O&M
+    2. Hybrid document for Design Build for Tertiary Treatment Reverse Osmosis (TTRO) and item rate
+       contract for supply of water.
+    3. Contract packaging is done based on the availability of the potential bidders.
+    4. Including longer O&M period of 15 years for STPs
+    5. Performance based contracts with KPIs.
+    6. Providing internal plumbing in sewerage schemes results in effective implementation.
+    7. Including O&M for WSIS & UGSS
+
+85. TNUIFSL procured consultancy contracts are:
+
+                                                   Page 39 of 61
+                   IFSA – Tamil Nadu Climate Resilient Urban Development Program (P179189)
+
+       1. Feasibility Study for Reuse of Treated Used Water across Tamil Nadu
+       2. Feasibility Report & Transaction Advisory services for Restoration of Rivers.
+       3. Feasibility Report & Transaction Advisory services for Biomining of Kodungiyar Dump yard for GCC.
+       4. Preparation of Feasibility Report cum DPR for Rehabilitation of Defunct Dumping site at Erumapalayam
+          in Salem Corporation
+       5. Preparation of Feasibility Report and DPR for construction of Bridges at various locations for Greater
+          Chennai Corporation
+
+86. Based on the interaction with the few ULBs (Kancheepuram, Avadi, and Salem), the participating ULBs are
+    familiar in procurement and contract management of small value contracts (item rate / admeasurement) and
+    consultancy contacts through the state agencies like TWAD Board / GCC. The engineers are managing the
+    procurement. Need adequate number of staff deployed and trained.
+
+
+87. The following are the few lessons learnt based on the Post procurement review reports for TNSDUP and
+    Draft Implementation Completion Report:
+
+            a. Requires strengthening of support to the ULBs in project preparation, procurement, contract
+               management, operation & maintenance period.
+            b. Enhanced and concurrent review & monitoring is required to ensure the nominal cost and time
+               overruns, and resolution of the site-specific challenges.
+            c. Build capacity for the staff articulating various stages of the implementation cycle and provide
+               periodic training.
+            d. Consolidate the lesson learnt from implementation of the DBO / Performance based contracts in the
+               projects financed by multilateral banks and strengthen the GoTN’s procurement and contact
+               management system using the PforR instrument.
+
+
+
+
+88. The following are the actions to be done:
+        a. PMUs to strengthen the procurement monitoring of activities undertaken by the ULBs. In addition to
+            activity level physical and financial progress monitored through integrated MIS15, consider upgrading
+            the MIS to include procurement KPIs for monitoring planning, tendering, evaluation, and award. Also,
+            disclose the procurement plan and contract award details.
+
+
+3. 3        Internal Controls and Internal audit
+
+
+89. Internal controls are being practiced and are included in the financial rules supplemented by defined
+    delegation of financial powers. Oversight regarding compliance with internal controls is vested with the head
+    of the Administrative Department and FD, and these are reviewed by the auditors during annual audits. Clear
+
+
+
+15
+     https://www.tnurbantree.tn.gov.in/urban-e-governance/
+
+                                                             Page 40 of 61
+               IFSA – Tamil Nadu Climate Resilient Urban Development Program (P179189)
+
+    delegation of powers exists which defines all activities. Regular reconciliations are carried out with the state
+    treasury/bank account. In case of TNUIFSL since it is a company internal controls exist and are followed.
+90. Entity-level internal audits are not practiced in departments. DMA does not have internal audits as it is a
+    part of government department. TNUIFSL has started the practice of internal audit from FY 22-23. Internal
+    audit is not envisaged as most of the program audit will be done by a CA firm both at state and ULB level.
+
+3. 4    External Audit
+91. The existing audit arrangements will be used for DMA and TNUIFSL. The State Audit for FY21/22 has been
+    completed and is available in the C&AG website. A consolidated audit report is issued by the C&AG for the
+    state. DMA is a directorate under MAWSD, and so no separate audit report is issued. In case of TNUIFSL audit
+    report has been completed for FY 21/22. TNUIFSL is audited by a CA firm.
+92. For DMA part of the Program, a separate audit report will be issued by the state office of the C&AG. This
+    audit will cover only the transfer of funds from DMA to ULBs and receipt of funds from the government. The
+    C&AG needs to be entrusted the audit within six months from effectiveness of the Program.
+93. For the TNUIFSL part of the Program, a CA firm will be appointed as per agreed TOR and a separate program
+    audit report will be issued by the firm. This auditor will be separate from the entity auditor. This report will
+    cover both the TNUFISL part of the program and the sub projects expenditure at the ULB level. It will be a
+    consolidated report including sub-project reports. This report will cover the entire amount received and spent
+    by the ULBs from this Program.
+94. Annual Program audit report needs to be submitted within 9 months from end of the financial year by both
+    DMA and TNUIFSL for their respective parts. Auditor needs to be appointed within 6 months from program
+    effectiveness and TOR will be agreed by appraisal. The DMA and TNUIFSL will finalise Terms of reference for
+    Program Audit in consultation with the World Bank, prior to the negotiations.
+95. A separate audit will be carried out to cover the procurement and contract management aspects of the
+    Program, including the contracts awarded by the TWAD Board. While the same CA firm can be given the
+    contract a separate terms of reference and reporting format will be agreed for procurement audit. The
+    Program audit scope would include these specific points:
+        a. review of contracts to ensure that contracts are not awarded to Bank's debarred/suspended entities
+           and individuals.
+        b. verification on a sample basis of all contracts to ensure no High Value Contracts over the OPRC limits
+           are funded under the program without approval.
+        c. complaints received were satisfactorily addressed in line with established procurement complaint
+           handling system.
+        d. review and comment on adequate checks and balances are built into the procurement system and
+           procedures are adhered.
+96. Program audit report needs to be disclosed on the implementing agencies website every year and cross
+    referenced as required. This is as per legal agreement and General Conditions of the Bank.
+
+
+
+                                                   Page 41 of 61
+                 IFSA – Tamil Nadu Climate Resilient Urban Development Program (P179189)
+
+97. Following are the agreed actions:
+         a.   Appointment of CA firm for audit within six months of effectiveness.
+         b.   Entrust audit to C&AG within six months of effectiveness
+         c.   Develop the ToR both financial and procurement by negotiations
+         d.   Display the program audit report on the PMU website
+
+
+98. Since this program has both PFR and IPF components the following table clarifies the audit reports needed.
+                                           Table 17: List of audit reports
+
+
+
+       Implementing         Instrument    Type of statement     Audited by      Period       Submission
+       Agency
+
+       DMA                  PFR           Program Financial C&AG                Annually     Within    9
+                                          Statements                                         months from
+                                                                                             end of FY
+
+       TNUIFSL              PFR           Program Financial CA                  Annually     Within    9
+                                          Statements                                         months from
+                                                                                             end of FY
+
+       ULB – sub projects PFR             Program Financial CA                  Annually     Within    9
+       (combined with                     Statements                                         months from
+       TNUIFSL above)                                                                        end of FY
+
+       ULB – sub projects   PFR           Procurement audit CA                  Annually     Within    9
+                                                                                             months from
+                                                                                             end of FY
+
+       DMA                  IPF-TA        Project Financial C&AG                Annually     Within    9
+                                          Statements                                         months from
+                                                                                             end of FY
+
+       TNUIFSL              IPF-TA        Project Financial CA                  Annually     Within    9
+                                          Statements                                         months from
+                                                                                             end of FY
+
+
+
+3. 5     Procurement and Financial Management Capacity – Staffing
+99. Procurement Capacity: In the absence of a dedicated cadre, the municipal engineers, with the help of the
+    Tamil Nadu Water Supply and Drainage (TWAD) Board / Chennai Metropolitan Water Supply and Sewerage
+
+                                                   Page 42 of 61
+               IFSA – Tamil Nadu Climate Resilient Urban Development Program (P179189)
+
+    Board (CMWSSB), prepare the DPR, articulate the procurement process, and manage the contacts with the
+    support of supervision consultants. In Kanchipuram ULB, 10 engineers (1 Superintending engineer and Four
+    Assistant / Junior Engineer, including Electrical and Draughtsmen, and 5 Technical Assistants) are managing
+    the works as against 27. A DLI is included in the Program to increase the overall staffing at ULB level, which
+    may add a few more staff to this cadre as well. The ULBs have reasonable procurement capacity to procure
+    works like traditional admeasurement contracts. The ULBs also procure everyday off-the-shelf goods from
+    GeM. The services, mainly preparation of the DPR, are procured based on a fixed percentage of the estimated
+    cost. In addition, a few consultancies with strategic and policy advice will be procured by the DMA and TNUIFSL
+    consultancy services by following the Bank's procurement regulations. The TNUIFSL has experience in
+    selecting and employing consultancies by following the Bank’s procurement and consultant guidelines, which
+    require migration to Procurement Regulations (a new regime from 1 Jul 2016). Considering these varied
+    capacities in procurement categories and across the IAs, the MAWSD may develop a need-based procurement
+    capacity development plan and provide training to the staff at all levels to build the procurement capacity.
+100. DMA finance is headed by a Finance Controller who is posted from the Government. The finance
+   controller handles the budget and accounts for the department as well as for the Program. For the Program
+   while staff are available in government, but they are overburdened with many schemes and to day-to-day
+   activities. A dedicated program management unit is being setup in the Directorate and two FM staff with
+   qualifications of M. Com / MBA Finance / CA (Inter) or CMA with minimum 2 years’ experience in Finance &
+   Accounts as well as exposure to Tally will be appointed.
+101. TNUIFSL finance is headed by a Senior Vice President - Finance and Company Secretary who is supported
+   by an accounts team. TNUIFSL also have regular FM staff, but they are overburdened with many schemes and
+   to day-to-day activities. Four FM staff with qualifications of M. Com / MBA Finance / CA (Inter) or CMA with
+   minimum 2 years’ experience in Finance & Accounts as well as exposure to Tally will be appointed. Two of
+   them will work with the finance department and two of them will work with the projects department.
+102. The Program can hire staff from the market on a contractual basis as required and the cost can be
+   charged to the Program. These staff should be hired within three months of effectiveness. For FM, staff who
+   are currently available training on accounting for program expenditure, DLI disbursements, and other FM
+   requirements will be carried out once the program is effective.
+103.    Following are the agreed actions:
+        a. Ensure each of the IA have required FM and Procurement staff who have received training and are
+           well versed with the procurement and contract management aspects.
+        b. Staff to be hired/nominated within three months of effectiveness.
+        c. Nodal officers for Procurement and FM to be nominated at DMA and TNUIFSL
+        d. Develop a need-based fiduciary capacity development action plan and update periodically.
+
+
+3. 6    Program Governance and Anticorruption Arrangements
+
+
+104. The Tamil Nadu Lokayukta office derives its power from, The Tamil Nadu Lokayukta Act, 2018. It
+   enquires into allegations of corruption against certain public servants and for matters connected in addition
+
+
+                                                  Page 43 of 61
+               IFSA – Tamil Nadu Climate Resilient Urban Development Program (P179189)
+
+    to that or incidental to that. Any person can make a complaint in the office of Lokayukta. The Inquiry Wing of
+    Lokayukta enjoys the power of a civil court under the Code of Civil Procedure, 1908. It can issue summons,
+    and warrants, take evidence on affidavits, and issue commissions to examine the witnesses and documents.
+    Any proceeding before the Lokayukta shall be deemed to be a judicial proceeding within the meaning of
+    section 193 of the Indian Penal Code.
+
+105. Directorate of Vigilance & Anti-Corruption (DVAC), GoTN, undertakes enquiries/investigations into
+   complaints/information about specific acts of bribery, corruption, or other malpractices by the state public
+   servants. DVAC comes under the administrative control of the Personnel and Administrative Reforms
+   Department and the overall supervision of the Vigilance Commission. DVAC has its prosecution wing for the
+   speedy trial of cases registered under the PC Act. The Government has established special courts and
+   empowered Judicial Magistrates to deal with cases arising under the Prevention of Corruption Act (PC Act).
+   Here is a performance chart Directorate of Vigilance and Anti-corruption, GoTN.
+
+
+
+                                              Figure 10: DPAC enquiry status
+
+
+
+
+       PE= Preliminary enquiry, DE=Detailed Enquiry, RC=Regular Case (Source: https://www.dvac.tn.gov.in/stat-invtrap.html)
+
+106. At the state level, the DVAC will be responsible for investigations. Tamil Nadu Lokayukta also receives
+   and conducts enquiries into corruption allegations against certain public servants. The procurement related
+   complaints will be mixed along with other complaints/Grievances and processed by using administrative
+   procedure. Hence, it would be challenging to identify the procurement related complaints and providing
+   resolution in a timely manner. Tamil Nadu’s procurement framework (TNTT Act and Rules) does not include
+   the Bank’s five definitions of fraud and corruption. IAs to include a reference to the Bank’s ACG for PforR in
+   the tender/proposal document and resultant contracts. The ‘Appeal’ section 11 in the TNTTA describes about
+   the receipt and resolution of procurement related complaints. However, the TNTTR does not provide detailed
+   procedure and customised tender document does not include a point of contact to receive procurement-
+   related complaints, if any.
+
+107. At the Program level, the IAs will be responsible for investigations of procurement-related complaints.
+   Given the multiple agencies, IAs will establish a dedicated complaint handling mechanism for Program (PAP).
+   The WB “Guidelines on Preventing and Combating Fraud and Corruption in Program for Results Financing”
+
+
+                                                        Page 44 of 61
+                IFSA – Tamil Nadu Climate Resilient Urban Development Program (P179189)
+
+    dated February 1, 2012, and revised on July 10, 2015, shall apply to all activities within the Program
+    Boundary, including activities undertaken through the TWAD Board. These guidelines shall be applicable
+    only to all activities within the Program boundary (“P”) and does not apply to government program (‘p’). The
+    procurement-related centralized fiduciary complaint handling mechanism to receive complaints and clearly
+    defined rules and authorities to resolve/process the complaint/suggestions. The POM provides the details of
+    streamlining the complaint handling system for the Program including reporting formats. A workshop to
+    sensitize on applicability of anti-corruption guidelines and protocol to be followed will be organized as part of
+    the project launch. An ACG Protocol has been drafted to operationalize the ACGs and it is being discussed with
+    the government and added as annexure 1.
+
+108. The IAs, including TWAD Board will share incidences related to fraud and corruption with World Bank.
+   If the World Bank determines to conduct an administrative review into allegations or other indications of fraud
+   and corruption in the Program, PMU will cooperate fully with representatives of the World Bank for carrying
+   out review. The Implementing Agencies shall acknowledge and consent to the Borrower’s right of restitution
+   of any amounts disbursed under the program with respect to which fraud and corruption has occurred, or
+   with which an ineligible expenditure, has been paid.
+
+109. Implementing agencies shall implement their respective activities under the Program, in compliance
+   with the Anti-Corruption Guidelines for the Program and ensure following actions:
+
+         a. Ensure each of the procurement entity shall ensure incorporation of the Bank’s debarment list16 in
+            the tender documents and filter used by implementing entities when they conduct due diligence.
+         b. For every bidding opportunity under the Program, each participating bidder shall submit (as part of
+            the bidding process) a self-declaration to be included in STD that the firm is not subject to ineligibility
+            or has not been sanctioned under the World Bank system of debarment and cross-debarment.
+         c. IAs shall add to scope of Auditor to validate that, under Program Expenditure Framework, no contract
+            is awarded to World Bank debarred firms.
+110.     Following are the agreed actions:
+         a. IAs establish fiduciary complaint redressal system and ACG reports using the formats provided in the
+            POM as per agreed timelines.
+
+3. 7     Disbursement Arrangements
+
+
+111. The DLIs form the basis of disbursement of funds for the Program. PAD provides details on the DLIs,
+   disbursement amounts against each indicator, and the protocols for their verification. Disbursements will be
+   made against successful achievements of DLIs which will be verified by the IVA.
+
+112. Disbursements will be made against DLI irrespective of the program expenditure incurred at the time of
+   releasing the DLIs. It is important to note that the actual expenditure at Program completion would be
+
+
+16 https://www.worldbank.org/en/projects-operations/procurement/debarred-firms
+
+
+
+                                                       Page 45 of 61
+              IFSA – Tamil Nadu Climate Resilient Urban Development Program (P179189)
+
+   reconciled with disbursements at the end of the Program. Any amount disbursed by the Bank more than the
+   actual expenditures spent under the Bank Program will be refunded to the Bank.
+
+113.   The key principles guiding the World Bank disbursement of DLIs are as follows:
+       a. DMA/TNUIFSL will prepare technical reports to document the status of achievement of DLIs. The
+           technical reports will be verified by an IVA, appointed as per terms of reference agreed with the World
+           Bank. On validation of DLIs by an IVA, the PMU will communicate the achievement of DLIs and
+           corresponding DLI values to the World Bank along with supporting documents.
+       b. In case, the IA is unable to achieve the DLI target set out in any year, it will be rolled over for future
+           years till such time the DLI target is achieved.
+       c. In the case of non-scalable DLIs, the World Bank will disburse the DLI value only upon full achievement
+           of the DLI target.
+       d. In the case of scalable DLIs, if partially achieved, the World Bank may authorize withdrawal of an
+           amount lesser than the DLI value allocated to the said DLI target. The remaining amount of the DLI
+           will be disbursed once the DLI target value is fully achieved.
+       e. In case the IA is unable to achieve the DLI target (scalable or non-scalable), the World Bank may
+           reallocate the proceeds of the Loan to another DLI, in consultation with the state.
+       f. The World Bank will issue an official letter to the IA endorsing the achievement of the DLI target and
+           value.
+       g. The IA will submit the disbursement claim of the DLI value to the Controller Aid, Accounts and Audits
+           (CAAA) Division of the Ministry of Finance in the GoI.
+       h. The CAAA will submit the disbursement claim to the World Bank and the funds will be disbursed by
+           the World Bank to the GoI under IBRD loan terms. The GoI will release funds to the state as per agreed
+           financing norms between the Centre and the state.
+
+
+
+
+114.   The procedure for claiming the Disbursement linked results are as follows:
+
+       a. Step 1: Once the results are achieved, the agency provides a letter/mail to IVA stating that the results
+          have been achieved along with the documentation for achievement of results.
+       b. Step 2: IVA will conduct the verification as per the agreed protocol and prepare a DLR wise report
+          stating their opinion on achievement and the amount of DLI which could be released.
+       c. Step 3: Submit the report along with Disbursement Linked Results (DLR) achievement letter to the
+          Bank Task team leader (TTL) for review and confirmation.
+       d. Step 4: Once the TTL reviews and confirms the achievement of the DLR, a formal letter accepting the
+          result and approval for withdrawal of disbursement will be issued to Department of Economic Affairs
+          and the Program implementing agency.
+       e. Step 5: On receipt of the letter the Program implementing agency can prefer a withdrawal with the
+          office of the CAAA.
+       f. Step 6: CAAA will lodge a claim with the Bank loans disbursal office and payment would be processed
+          by the Bank to the CAAA
+
+                                                  Page 46 of 61
+              IFSA – Tamil Nadu Climate Resilient Urban Development Program (P179189)
+
+       g. Step 7: CAAA on receipt of funds will work with the department of expenditure and ensure that funds
+          are transferred to the state as Additional Central Assistance release. The fund would be transferred
+          from GoI account to the GoTN account, and the process of disbursement would be completed.
+
+115. In the last year of the Program, the IA in coordination with the World Bank, will reconcile the audited
+   program expenditure with the DLI amounts disbursed by the World Bank. If the Borrower has failed to
+   provide evidence satisfactory to the Bank that the disbursed amount does not exceed the total amount of
+   Program Expenditures, the Bank will request a refund equivalent to such excess amount.
+
+
+3. 8   Implementation Support
+
+116. The mission would review the agreed fiduciary actions and related PAPs provided in the PAD during
+   every mission and agree on an action plan based on the work done by the project. Continuous support would
+   be given to the client for implementing actions/PAP. The mission would review implementation progress
+   report on a timely basis and monitor the finding of the audit report on a regular basis. The mission would
+   review the fiduciary risk including relevant legal covenants. The mission would also review the program
+   expenditure on a regular basis.
+
+117. The WB task team will carry out regular implementation mission to support the IA to achieve results.
+   The progress on agreed PAPs will be reviewed and any changes to the action plan will be made during the
+   implementation phase. The PMU will regularly share (KPI) reports with the Bank to monitor the FM and
+   procurement performance, and fraud and corruption risks, identify gaps, and recommend actions. These
+   reports will be reviewed, and issues identified will be addressed appropriately.
+
+
+
+
+                                               Page 47 of 61
+                 IFSA – Tamil Nadu Climate Resilient Urban Development Program (P179189)
+
+
+3. 9     Key Performance Indicators
+
+
+118.     The team will monitor the following performance indicators:
+
+                                                Table 18: Performance Metrics
+
+       Area          Indicator                      Calculation methodology                                           Timeline
+        Procurement171. Procurement Cycle Time – Time taken from Date of                                              Semi-
+        Adequate         Measured in days           Advertisement to Date of Contract                                 Annually
+        monitoring of                               Signing                                                           or during
+                     2. Competition of bidders Average number of bidders and                                          ISM,
+        the
+                         measured in numbers and average         discovered     price                                 whichever
+        procurement                                                                                                   occurs
+                         price     measured      in below/above the estimated cost
+        activities at all                                                                                             earlier
+                         percentage
+        levels      (for
+        PforR) 18    3. Time overrun - number of Time exceeded in comparison to
+                         contracts and average original closing date
+                         percentage of delays
+                     4. Cost overrun - number of Cost/Savings in comparison to
+                         contracts and average original contract value
+                         percentage of variance.
+                     5. Average payment period – Time taken from date of
+                         number of days and acceptance of bill to payment to
+                         percentage over the contractors
+                         stipulated       payment
+                         period.
+       Adequate      6. Budget allocation as per Variance of budget allocation with      Semi-
+       monitoring of     annual work plan           budget demand of agencies for        Annually
+       FM activities                                the Program                          or during
+                     7. Release of funds on timely Funds released from GoTN to the       ISM,
+                         basis                      agencies                             whichever
+                                                                                         occurs
+                             8. Accounting      system Systems are operational and earlier
+                                operational             program expenditure reports are
+                                                        updated on monthly basis within
+                                                        15 days from month end
+                             9. Payments done on timely Time taken for payment is as per
+                                basis                   agreed schedule
+
+17
+   For the Top 15 procurement activities (highest contract award amount / estimated cost) covering all procurement categories
+(Works/Goods/Consultancy/Non-consultancy services).
+18
+   The above indicators will be consolidated based on the data from ULBs, DMA, TNUIFSL and reported (in agreed format) with the World
+Bank Semi-Annually during the Program life. The first semi-annual report will be considered as baseline If baseline details are not
+available in the procurement performance historical data.
+
+                                                          Page 48 of 61
+               IFSA – Tamil Nadu Climate Resilient Urban Development Program (P179189)
+
+
+       Area               Indicator                         Calculation methodology               Timeline
+                          10. Audits completed on           Audit reports submitted to the        Annually
+                              timely basis                  Bank as per agreed schedule
+       Adequate           11. Reports submitted on          Number of complaints received Semi-
+       monitoring      of     receipt and action taken      and addressed with timelines  Annually
+       Fraud           &      on Fraud and Corruption                                     or during
+       Corruption             complaints                                                  ISM,
+       activities:        12. Number of procurement-        Number of complaints received whichever
+                              related complaints and        and addressed with timelines  occurs
+                              average resolution time                                     earlier
+
+
+     The Procurement related KPIs may be utilised for the preparation of the ULB level Procurement
+     Performance Report (a Performance Indicator in DLI -4).
+
+3. 10 Action Plan
+
+
+119.     Following are the actions to strengthen the Program during implementation:
+                                            Table 19: Action Plan
+
+ S.      Action
+ No.     Description          Document     Responsibility    Timing               Completion Measurement
+ 1       Issue Program         Legal/PAP       GoTN          Within four          GO Issued
+         G.O.                                                months of
+                                                             effectiveness
+
+ 2       Create budget          Budget         GoTN          Negotiations         Budget head created
+         heads.                document
+ 3       Strengthen              Legal     DMA,TNUIFSL       Within six months    Staff appointed and trained
+         staffing and                                        from
+         fiduciary capacity                                  effectiveness
+         of the PMUs and
+         PIUs
+ 4       Disclose the            Legal     DMA,TNUIFSL       Every year within    Audit report completed and
+         Program audit                                       nine months of       displayed on the website
+         report                                              end of FY
+ 5       Appoint External        PAP       DMA,TNUIFSL       Within six months    Appoint an auditor to
+         auditor for the                                     from                 conduct audits (including
+         Program                                             effectiveness and    procurement audit) and
+                                                             periods as per the   submit the reports to the
+                                                             IFSA.                Bank
+ 6       Monitor to track        Legal     DMA,TNUIFSL       Within six months    Utilize appropriate
+         high value                        in                from                 monitoring tools covering
+
+                                               Page 49 of 61
+            IFSA – Tamil Nadu Climate Resilient Urban Development Program (P179189)
+
+
+S.    Action
+No.   Description         Document   Responsibility   Timing              Completion Measurement
+      contracts and                  consultation     effectiveness       the entire procurement
+      screen the                     with ULBs                            cycle and submit six
+      contracts for                                                       monthly reports (format in
+      Bank’s                                                              the POM)
+      debarment list
+      before initiation
+      procurement and
+      awarding.
+7     Integrate the          PAP     DMA and          Within a year of    PP preparation is
+      preparation of                 TNUIFSL, in      effectiveness and   integrated with the MIS,
+      the Procurement                consultation     disclose            monitored through the
+      Plan to the                    with ULBs        Procurement         KPIs (refer to following
+      existing web-                                   Information         para for KPIs), and disclose
+      based MIS.                                      annually/when       the procurement
+                                                      updated             information related to
+                                                                          bidding and contract
+                                                                          award on the IAs.
+8     Establish a            PAP     DMA,TNUIFSL,     Within three        Establish a CHM and
+      complaint                            ,in        months from         display the nodal officer
+      Handling                        coordination    effectiveness and   for receiving the complaint
+      mechanism                           with        semi-annually       on the official website.
+      (CHM) at                        particpating                        Submit Semi-annual
+      agencies to                        ULBs                             reports using the formats
+      manage Program                                                      provided in the POM
+      related fiduciary
+      complaints
+9     Develop detailed      Reform       DMA          Within six months   Detailed procurement
+      procurement                                           from          guidance is developed as
+      guidance as an                                   effectiveness      an Annex to the POM
+      Annex to the
+      POM considering
+      the changes in
+      procurement and
+      contracting
+      approaches
+      including life-
+      cycle costing,
+      DBO, PBC
+      contractual
+      arrangements,
+      and climate-
+      resilient and
+      green
+      procurement
+
+                                         Page 50 of 61
+                IFSA – Tamil Nadu Climate Resilient Urban Development Program (P179189)
+
+
+ S.       Action
+ No.      Description           Document        Responsibility    Timing                Completion Measurement
+          practices19
+
+ 10       Develop the              PAP              DMA           Within six months      STDs for (DBO/PBC) are
+          Standard Tender                                         from                   developed and e-
+          Documents                                               effectiveness and      procurement ready; The
+          (STD)20 for                                             update                 item rate tender is
+          Design Build                                            periodically           updated and e-
+          Operate (DBO) /                                                                procurement ready; These
+          PBC, besides                                                                   STDs are adopted for
+          updating the                                                                   Program Procurement and
+          admeasurement                                                                  revised periodically
+          / item-rate
+          contract with e-
+          procurement
+          usage ready
+
+
+120. For Annex 6 Program Action Plan, Serial Number 7,9 and 10 are combined as single PAP Action
+   (Procurement).
+                                                Table 20: Procurement PAP
+
+
+     Action                                                            Completion
+                                                                                         Action Description
+     Description    Source        DLI#    Responsibility    Timing     Measurement
+     Establish a    Fiduciary     NA      DMA/TNUIFSL       Other      Within three      Established functional
+     complaint      Systems               in                           months from       CHM and displayed
+     Handling                             coordination                 effectiveness     contact of nodal
+     mechanism                            with ULBs                    and semi          officer on the official
+     (CHM) at                                                          Annually          website for receiving
+     implementing                                                                        complaints.
+     agencies to                                                                         Submitted semi-
+     handle                                                                              annual reports using
+     Program                                                                             the formats provided
+     related                                                                             in the POM.
+     fiduciary
+     complaints
+     Strengthen     Fiduciary     NA      DMA               Other      (a) Within a      (a) PP is integrated
+     procurement    Systems                                            year from         with MIS and
+
+
+19
+  Appending the guidance and lesson learnt on the sustainable / green procurement in the second year of the Program.
+20
+  A DLR action in the PforR Operation Chennai City Partnership: Sustainable Urban Services Program (P175221)
+IAs are advised to check with TNIDB, adopt the STDs that suit to the Program’s contractual practices and develop the
+remaining STDs
+
+                                                    Page 51 of 61
+               IFSA – Tamil Nadu Climate Resilient Urban Development Program (P179189)
+
+ and contract                                                     effectiveness     monitored through
+ management                                                       and disclose      KPIs (see IFSA).
+ by (a)                                                           procurement       Procurement
+ integrating                                                      information       information and
+ the                                                              annually; (b)     contract award details
+ Procurement                                                      within six        are disclosed; (b) STDs
+ Plan for the                                                     months from       are developed and
+ Program to                                                       effectiveness     adopted for the
+ MIS; and (b)                                                     and update        Program’s
+ developing                                                       periodically.     procurement; detailed
+ Standard                                                                           guidance is included
+ Tender                                                                             as an annex in POM.
+ Documents
+ and guidance
+ for the
+ Program
+
+
+121.   List of ULBs who are participating in the Program are as follows:
+
+
+                                              Table 21: List of ULBs
+
+
+
+
+ SN.            ULB       Administrative      Year of formation/upgradation       Area in     Last        Last
+                             Status                                               Sq.km     accounts     audit
+                                                                                               in       report
+                                                                                            website        in
+                                                                                                       website
+  1    Avadi             Municipal         1970 as Municipality                   65.00     FY21-22    FY21-22
+                         Corporation       2008 as Special Grade Municipality
+                                           2019 as Corporation
+  2    Kancheepuram      Municipal         1866 as Municipality                   36.14     FY22-23    FY21-22
+                         Corporation       2008 as Special Grade Municipality
+                                           2021 as Corporation
+  3    Cuddalore         Municipal         1866 as Municipality                   27.69     FY19-20    FY17-18
+                         Corporation       2008 as Special Grade Municipality
+                                           2021 as Corporation
+  4    Dindigul          Municipal         1866 as Municipality                   14.01     FY22-23    FY20-21
+                         Corporation       1988 as Special Grade Municipality
+                                           2014 as Corporation
+  5    Erode             Municipal         1871 as Municipality                   109.52    FY21-22    FY20-21
+                         Corporation       1980 as Special Grade Municipality
+                                           2008 as Corporation
+  6    Nagercoil         Municipal         1920 as Municipality                   24.25     FY21-22    FY20-21
+                         Corporation       1988 as Special Grade Municipality
+
+                                                Page 52 of 61
+                IFSA – Tamil Nadu Climate Resilient Urban Development Program (P179189)
+
+SN.             ULB        Administrative      Year of formation/upgradation       Area in     Last       Last
+                              Status                                               Sq.km     accounts    audit
+                                                                                                in      report
+                                                                                             website       in
+                                                                                                        website
+                                            2019 as Corporation
+7     Salem               Municipal         1866 as Municipality                   91.34     FY18-19    FY17-18
+                          Corporation       1979 as Special Grade Municipality
+                                            1994 as Corporation
+8     Tambaram            Municipal         1964 as Municipality                   87.64     FY22-23    FY21-22
+                          Corporation       2008 as Special Grade Municipality
+                                            2021 as Corporation
+9     Thoothukudi         Municipal         1866 as Municipality                   90.63     FY21-22    FY20-21
+                          Corporation       2008 as Corporation
+10    Tiruchirappalli     Municipal         1866 as Municipality                   167.20    NA         FY17-18
+                          Corporation       1994 as Corporation
+11    Tirunelveli         Municipal         1866 as Municipality                   108.65    FY21-22    FY18-19
+                          Corporation       1994 as Corporation
+12    Vellore             Municipal         1866 as Municipality                   87.92     FY22-23    FY20-21
+                          Corporation       2008 as Corporation
+13    Dharmapuri          Municipality      1964 as Municipality                   11.65     FY22-23    FY21-22
+                                            2019 as Special Grade Municipality
+14    Karaikudi           Municipality      1928 as Municipality                   13.75     FY22-23    FY21-22
+                                            2013 as Special Grade Municipality
+15    Krishnagiri         Municipality      1965 as Municipality                   11.50     FY21-22    FY20-21
+                                            2019 as Special Grade Municipality
+16    Namakkal            Municipality      1970 as Municipality                   55.24     FY21-22    FY21-22
+                                            2021 as Special Grade Municipality
+17    Pudukottai          Municipality      1912 as Municipality                   21.95     FY22-23    FY21-22
+                                            1988 as Selection Grade Municipality
+18    Rajapalayam         Municipality      1941 as Municipality                   11.36     FY21-22    FY21-22
+                                            2008 as Special Grade Municipality
+19    Theni-Allinagaram   Municipality      1964 as Municipality                   22.23     FY21-22    FY21-22
+                                            2023 as Special Grade Municipality
+20    Thiruvannamalai     Municipality      1896 as Municipality                   13.64     FY21-22    FY21-22
+                                            2008 as Special Grade Municipality
+21    Tiruvarur           Municipality      1914 as Municipality                   10.47     FY22-23    FY21-22
+                                            2023 as Selection Grade Municipality
+                                                                                   1081.78
+
+
+
+
+                                                 Page 53 of 61
+              IFSA – Tamil Nadu Climate Resilient Urban Development Program (P179189)
+
+
+                                               Section 4.         IPF assessment
+
+122. IPF Component to Finance Technical Assistance (TA) activities: [US$30 million of which US$20.25 million
+   is IBRD Loan]. The main objectives of this component are to: (i) provide technical support for program
+   implementation; and (ii) provide other systemic technical assistance for urban sector and ULBs in TN. This TA
+   will have two sub-components that would be implemented through the office of the DMA and TNUIFSL and
+   the main TA activities are as listed in the table below. Both these main implementing agencies were involved
+   in earlier Bank-financed projects and are familiar with Bank policies / procedures.
+
+
+4.1 Financial Management for IPF component
+
+123. A designated PMU will be responsible in the DMA to execute the TA component. A budget head for TA
+   component will be created for office of the DMA based on which expenditure will be incurred. Payments will
+   be done through the GoTN Treasury, expenditures are recorded in the state treasury system, accounts will be
+   maintained in the state treasury system, and reports can be drawn from the treasury system. Accounting is
+   done on cash basis. A project cash book will be maintained at the DMA office. Quarterly IUFR will be submitted
+   within 45 days from end of the quarter based on which disbursements will be done by the Bank for the TA
+   component. Audit of the expenditure under the sub-component at DMA will be done by the C&AG and a
+   separate report will be shared with the Bank within nine months from close of the quarter. IUFR format will
+   be finalised by negotiations.
+
+124. A designated PMU will be responsible in the TNUIFSL to execute the TA component. A budget head has
+   already been created for TNUIFSL and budget allocation has already been made. TNUIFSL has access to budget
+   and amounts can be transferred to the Personal Deposit Account (PD A/C) of the MD initially as and when
+   required and then the funds are transferred to the bank account of the Company. For approved TA activities,
+   expenditure will be incurred by TNUIFSL, and all payments are made to the vendors using the project bank
+   account. Accounts will be maintained using a commercial off the shelf accounting software. The internal
+   control framework and practices in TNUIFSL are robust, supported by a standardized framework and effective
+   compliance. Internal audit is carried out by a firm of Chartered Accountants. Quarterly IUFR will be submitted
+   within 45 days from end of the quarter based on which disbursements will be done by the Bank for the TA
+   component. Audit of the expenditure under this sub-component at TNUIFSL will be done by the CA firm and
+   a separate report will be shared with the Bank within nine months from close of the quarter. IUFR format will
+   be finalised by negotiations.
+
+125. Disbursements will be made at the rate of 67.5 percent for the TA component. 2 omnibus disbursement
+   categories will be designed one for office of the DMA and one for TNUIFSL as follows:
+
+
+
+
+                                                 Page 54 of 61
+              IFSA – Tamil Nadu Climate Resilient Urban Development Program (P179189)
+
+                                       Table 22: Disbursement categories
+
+ Category                           Amount in US million               Disbursement % (inclusive of
+                                                                       taxes)
+ (1) Goods, Consultancies, Non- 10.125                                 67.5%
+     Consulting, IOC, training,
+     and workshops for office of
+     the DMA
+ (2) Goods, Consultancies, Non- 10.125                                 67.5%
+     Consulting, IOC, training,
+     and workshops for TNUIFSL
+
+
+
+126. The amount and the date of retroactive financing will be from March 1, 2023 and amount is JPY
+   610,275,600. Retroactive financing will be available:
+      (a) for payments that are made by the Borrower not more than 12 months before the expected date of
+          the signing of the legal agreements for the Bank
+      (b) procurement has been done in accordance with the applicable Bank procurement regulations,
+      (c) activities are related to the project and has been agreed with the Bank
+
+
+
+4.2 Procurement for IPF Component
+127. Applicable Procurement Framework: The PMUs (DMA and TNUIFSL) follows the World Bank’s
+   Procurement Regulations for IPF Borrowers dated September 2023 (Procurement Regulations) for the
+   procurement of goods, non-consultancy services, and services (excluding Works) activities envisaged under
+   the TA component. In addition, the Guidelines on Preventing and Combating Fraud and Corruption in Projects
+   Financed by IBRD Loans and IDA Credits and Grants, revised July 1, 2016, and the provisions agreed in the
+   Financing Agreement are applicable.
+
+128.    Project Procurement Strategy for Development (PPSD) and Procurement Plan (PP): The TNUIFSL
+   prepared the consolidated PPSD with a focus on key procurement activities (TA). The Bank reviewed and
+   uploaded it to the STEP Portal. The PPSD does not anticipate any major risks from the operation context. Also,
+   the procurement opportunities may elicit adequate participation and no market risk foreseen. However, the
+   DMA and TNUIFSL need a smooth transition from the procurement guidelines regime to the procurement
+   regulations. Till the completion of key procurement activities, the PMUs require dedicated procurement staff
+   assigned to the TNCRUDP considering the staff turnover or staff posted with multiple projects financed by
+   other development partners. Also, training in Bank’s procurement regulations is required for the team
+   members managing the procurement and contract management directly or indirectly throughout the
+   procurement cycle. The DMA and TNUIFL need to strengthen the procurement monitoring mechanism to
+   manage the consultancies awarded on behalf of the ULBs. Most envisaged consultancies will be procured
+   using open competitive procurement targeting the national market.
+
+
+
+
+                                                 Page 55 of 61
+               IFSA – Tamil Nadu Climate Resilient Urban Development Program (P179189)
+
+129. Procurement Arrangements: The initial PP also prescribes the agreed procurement arrangements for the
+   IPF component. The prior review, conducting the post review, disclosure of the procurement-related
+   information, and complaint handling are as per the applicable Procurement Regulations. National
+   competition for the procurement of goods, works, and non-consulting services according to the established
+   thresholds will be conducted in accordance with paragraphs 5.3–5.6 of Section V of the Procurement
+   Regulations and the NCP provisions agreed with GoI. Government e-Marketplace (GeM) will be allowed
+   instead of RFQ for all activities with cost estimates less than or equal to US$ 100,000 equivalent. Shortlisting
+   with national consultants is up to US$ 2 million, and up to this threshold, the Direct RFP for the selection of
+   consultancies is permitted (India-specific provision). E-Procurement: GoTN uses the NIC21 E-Government
+   Procurement (E-GP) platform. The Bank assessed the NIC E-GP platform and accepted it. Record keeping and
+   anti-corruption measures will be as per IPF general conditions. After the Bank reviews the PPSD and agrees to
+   the initial PP, the PMU uploads these documents to the World Bank’s Systematic Tracking of Exchanges in
+   Procurement (STEP) and updates the PP in line with the requirements of procurement regulations. The Bank
+   provided training to registered users with STEP and oriented the staff on procurement regulations and
+   preparation of the PPSD.
+
+130. Advance procurement and retroactive financing: The Borrower may wish to proceed with the
+   procurement process before signing the Legal Agreement. The eventual contracts shall be procured in
+   accordance with advance contracting and retroactive financing (Para 5.1 of the Procurement Regulations).
+
+131. Under TA for TNCRUDP, the Bank is to consider financing an activity procured in the TNSUDP. The TA
+   also include a prior review procurement activity22 notified with an award of contract through TNSUDP will be
+   financed under TNCRUDP. The Bank reviewed key stages until the award notification and accorded No
+   Objection. The TNUIFSL uploaded relevant documents per the STEP roadmap. As of date, TNUIFSL notified the
+   contract award on 13 Mar 2023 before the closure of the TNSUDP (31 Mar 2023). This contract management
+   of this activity will be managed under TNCRUDP STEP Portal.
+
+132. Procurement risk assessment: The Bank undertook a procurement capacity assessment of the PMUs, and
+   the residual procurement risk is ‘Moderate’. The Bank will assess and update the risk periodically. The initial
+   PP prescribes the prior review thresholds based on this risk at this stage.
+
+
+
+
+21
+ https://tntenders.gov.in/nicgep/app
+22
+ Setting up of Real-Time Data Acquisition System, Hydro Modelling Flood Control Room at Ezhilagam and Flood
+Monitoring Centres for Water Resources Department Headquarters at Chepauk and four Collectorates (IN-TNUIFSL-298576-
+GO-RFB) with a contract amount of INR 763,891,408 (US$ 9,315,749 at 82 INR = 1 US$)
+
+                                                   Page 56 of 61
+                   IFSA – Tamil Nadu Climate Resilient Urban Development Program (P179189)
+
+
+                                Annexure-1: ANTI-CORRUPTION GUIDELINES PROTOCOL
+
+Pursuant to Section 5.13 of the General Conditions: (i) as defined and incorporated by reference in the Loan
+Agreement for the financing of the “Tamil Nadu Climate Resilient Urban Development Program (TNCRUDP)” (the
+“Program”), to be entered between India (the “Borrower”) and the International Bank for Reconstruction and
+Development (the “Bank”); and also (ii) incorporated by reference in the Program Agreement for the Program, to
+be entered between the Bank and the GoTN (“Program Implementing Entity”), the Borrower and the Program
+Implementing Entity shall ensure that the Program is carried out in accordance with the provisions of the Bank’s
+“Guidelines on Preventing and Combating Fraud and Corruption in Program-for-Results Financing”, dated
+February 1, 2012 and revised on July 10, 201523 (variously, the “Anti-Corruption Guidelines” or “ACG”). Set out
+below are the supplementary protocols to be followed in implementing the Anti-Corruption Guidelines for the
+Program.
+
+1.         Borrower Arrangements.
+
+       a) The office of the DMA and TNUIFSL will be the GoTN’s focal offices for facilitating coordination among
+          relevant agencies and assessing the implementation of such ongoing actions by those agencies to ensure
+          that the Program activities are implemented in accordance with the provisions of the ACG and these
+          protocols.
+
+       b) As there is no distinction between Bank-financed activities and government-financed activities within the
+          Program, the ACG shall be applied in an unrestricted manner on all activities within the Program boundary.
+
+2.         Reporting.
+
+       a) For purposes of Section 6 of the ACG, DMA and TNUIFSL will collect, consolidate and provide the Bank,
+          on a half yearly basis, with a report on: (1) any material and credible allegations and other indications of
+          fraud and corruption under the Program that come to the attention of during such period, including those
+          reported under the Whistle Blowers Protection Act (2014); (2) any investigations into such allegations;
+          and (3) the progress of and outcomes from such investigations and any remedial or corrective actions
+          taken or planned in response to such allegations or the findings of such investigations.
+
+       b) It will also report therein that none of the contract awards under the Program are made to any of the
+          Bank debarred or suspended persons or entities.
+
+       c) A template for reporting under paragraph 2. (a) above is attached to this Protocol as Appendix-A.
+
+       d) Where such allegations might constitute a serious risk to the implementation of the Program, the
+          reputation of the Borrower or the Bank, or to the proper use of the proceeds of the Loan, DMA and
+          TNUIFSL will immediately inform the Bank.
+
+23
+     https://policies.worldbank.org/en/policies/all/ppfdetail/3682
+
+                                                         Page 57 of 61
+                 IFSA – Tamil Nadu Climate Resilient Urban Development Program (P179189)
+
+
+
+     e) For purposes of Section 7(a) of the ACG, the Bank will, consistent with its policies and procedures, inform
+        DMA and TNUIFSL of any material and credible allegations or other indications of fraud and corruption in
+        connection with the Program that may come to its attention, for investigation by the Borrower under the
+        relevant criminal and civil laws.
+
+3.       Conduct of Investigations and Inquiries.
+
+     a) For purpose of Section 6(d) of the ACG, DMA and TNUIFSL will ensure the timely and appropriate action
+        to get investigation conducted on allegation and indications of fraud and corruption; and inform the Bank
+        of its progress and findings at quarterly intervals and no later than one month after the conclusion of any
+        investigation,
+
+     b) For purposes of Sections 6(f) and 7(b) of the ACG, in the event that the Bank decides to conduct its own
+        inquiry into allegations or other indications of fraud and corruption in connection with the Program, the
+        Borrower, the Program Implementing Entity, and other entities implementing the Program will cooperate
+        fully with the Bank’s representatives and take all appropriate measures to ensure the full cooperation of
+        relevant persons and entities, including in each case, allowing the Bank to access sites and facilities, meet
+        with relevant persons and/or entities, and to inspect all of their relevant accounts, records, and other
+        documents and have them audited by, or on behalf of, the Bank.
+
+     c) Any inquiries undertaken by the Bank are administrative in nature. The Bank’s right to investigate or
+        conduct review does not extend to criminal investigations, which is the exclusive jurisdiction of the
+        Borrower. The World Bank may, however, sanction any individual or entity other than the Member
+        Country (as defined in the ACG) on its own pursuant to its prevailing policies and procedures.
+
+     4. Suspension and Debarment.
+
+     a) The Borrower and the Program Implementation Entity will ensure that any person or entity debarred or
+        suspended by the Bank is not awarded a contract under, or otherwise allowed to participate in or benefit
+        from, the Program during the period of such debarment or suspension by the Bank. To that end, the
+        Borrower and the Program Implementation Entity will put in place appropriate measures, including but
+        not limited to the following:
+
+         (i)      Bidding documents will include information regarding the applicability of the ACG to the Program,
+                  and exclusion of any debarred or suspended person or entity from a contract under or
+                  participation in the Program.
+
+         (ii)     the Bank’s listing of debarred or suspended persons or entities will be incorporated in the filter
+                  used by implementing agencies when they conduct due diligence.
+
+         (iii)    each participating bidder will be required to submit a self-declaration that the firm is not subject
+                  to ineligibility or has not been sanctioned under the Bank system of debarment and cross-
+                  debarment.
+
+                                                    Page 58 of 61
+          IFSA – Tamil Nadu Climate Resilient Urban Development Program (P179189)
+
+
+
+b) Compliance with the Bank’s suspension and debarment lists will be verified by the Program auditor as
+   part of its annual audit of the Program’s Financial Statements. If a person or entity suspended or debarred
+   by the Bank has been awarded a contract under, or has otherwise benefited or participated in the
+   Program, any proceeds of the Loan expended in relation to such person or entity will be considered
+   ineligible and promptly refunded to the Bank or, at the Bank’s discretion, reallocated to other eligible
+   expenditures. The Borrower shall take timely and appropriate action to exclude such person or entity from
+   the Program.
+
+c) Specific procedures for implementation of the Anti-Corruption Guidelines, including these protocols, will
+   be set out in the Program Operations Manual for the Program.
+
+
+
+
+                                              Page 59 of 61
+             IFSA – Tamil Nadu Climate Resilient Urban Development Program (P179189)
+
+
+                                                                                        APPENDIX-A
+
+
+                       ANTI-CORRUPTION: COMPLAINTS HANDLING REPORT
+                         (Reporting Period: dd/mm/yyyy to dd/mm//yyyy)
+
+                                                                                  (Date of Reporting)
+
+   1. Credible and Material Allegations of Fraud and Corruption under the Program
+
+ S.   Complaint Summary      Complaint      Who      Manners               Status
+ No                            Date       received      of
+                                             the    complaint
+                                         complaint submission
+                                                   (e.g.,     Interim Action   Final Action
+                                                   phone,                      taken
+                                                    e-mail,
+                                                   writing,
+                                                   verbal)
+
+
+
+
+   2. Suspension and Debarment.
+
+This is to confirm that none of the contract awards under the Program are made to any of the Bank
+debarred or suspended persons or entities.
+
+
+
+
+                                            Page 60 of 61
+

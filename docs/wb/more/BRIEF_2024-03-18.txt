@@ -1,0 +1,436 @@
+Public Disclosure Authorized
+
+
+
+                                         Tamil Nadu Climate Resilient Urban Development Program (TNCRUDP)
+                                                                 Technical Note on Climate Change
+
+                               Climate Change
+
+                               Climate Change vulnerability context:
+                               Urban Local Bodies (ULBs) in Tamil Nadu frequently face the combined climate risks of hydro-
+                               meteorological hazards (like floods, storm surges, etc.) and slow onset of disasters (like
+                               droughts). A review of climate induced risks, specifically water risks, reveals that, among the 21
+                               ULBs participating in the TNCRUDP, 11 face high risk of water scarcity, 6 face high risk to riverine
+Public Disclosure Authorized
+
+
+
+
+                               flooding, 3 (namely Kancheepuram, Tambaram and Tiruvarur) face high risk to coastal flooding, while
+                               almost all the ULBs face high risk to extreme heat. A further assessment using the Aqueduct Water
+                               Risk Atlas indicates that all the ULBs fall under the category of high to extreme water high risk.
+                               Tamil Nadu’s vulnerability to landslides is very low to medium (Dindigul, Salem, and Theni have been
+                               categorized as medium risk), medium prone to earthquake hazard and only the ULBs along the coast
+                               are vulnerable to tsunami 1. Since the risks due to geophysical hazards are very low to medium, they
+                               will not have a significant impact on the Water Supply and Sanitation (WSS) projects proposed under
+                               the Program. Thus, the table below presents a snapshot of only climate and water risks faced by
+                               these ULBs.
+                               ULB-wise climate induced risks and overall water risks
+Public Disclosure Authorized
+
+
+
+
+                                                                     Extreme heat,              Overall Water Risk             Riverine Flood Risk
+                                   Sl.no    Name of the ULB          based on think            (Aqueduct water risk          Stress (Aqueduct water
+                                                                      hazard tool                     atlas)                        risk atlas)
+                                     1     Kancheepuram                   High                    Extremely high                       High
+                                     2     Pudukottai                     High                    Extremely high                  Extremely high
+                                     3     Tambaram                       High                    Extremely high                  Extremely high
+                                     4     Salem                          High                    Extremely high                  Low - Medium
+                                     5     Dharmapuri                     High                    Extremely high                  Low - Medium
+                                     6     Nagercoil                    Medium                         High                       Extremely high
+                                     7     Tiruvarur                      High                    Extremely high                  Extremely high
+                                     8     Karaikudi                      High                    Extremely high                  Extremely high
+                                     9     Dindigul                       High                    Extremely high                  Medium - High
+                                    10     Tiruvannamalai                 High                    Extremely high                  Low - Medium
+                                    11     Krishnagiri                    High                    Extremely high                  Low - Medium
+                                    12     Tiruchirappalli                High                    Extremely high                       High
+                                    13     Avadi                          High                    Extremely high                  Extremely high
+Public Disclosure Authorized
+
+
+
+
+                                    14     Vellore                        High                    Extremely high                       High
+                                    15     Theni-Allinagaram            Medium                    Extremely high                  Extremely high
+                                    16     Erode                          High                    Extremely high                  Low - Medium
+                                    17     Namakkal                       High                    Extremely high                       High
+                                    18     Rajapalayam                    High                    Extremely high                  Low - Medium
+                                    19     Cuddalore                      High                    Extremely high                  Extremely high
+                                    20     Thoothukudi                    High                    Extremely high                  Low - Medium
+                                    21     Tirunelveli                    High                    Extremely high                       High
+
+
+
+                               Extreme heat is prevalent in more than 90% of the participating ULBs. Owing to rapid
+                               urbanization across the state, unplanned and unsustainable development continues to proliferate at
+                               the cost of mass removal of green cover resulting in heat island effect 2. Urban forests and green
+                               cover play a critical role in sustaining watersheds and preventing landslides, especially in hilly terrains
+                               like Krishnagiri, regulating a city’s microclimate, mitigating heat island effect, and providing carbon
+                               sinks for sequestration. While the tree cover could play a critical role in improving the adaptive
+
+
+                               1
+                                 According to the Think Hazard tool developed by Global Facility for Disaster Reduction and Recovery (GFDRR) with support
+                               from the WBG
+                               2
+                                 Draft Tamil Nadu State Action Plan on Climate Change - 2.0
+capacity of the ULBs by limiting the impact of heat waves, an account of existing green spaces (which
+include green areas in public and private places, parks, avenue plantations) in the 21 ULBs indicates
+that only 4 ULBs have more than 1 sq.m. per capita green space (WHO prescribes 9 sq.m. per
+capita). Furthermore, Urban and Regional Development Plans Formulation and Implementation
+(URDPFI) guidelines of the Government of India recommend 12% to 18% green cover in urban areas.
+Except for Krishnagiri which has 1.45% green cover, green cover in none of the other ULBs crosses
+1% of total area of the ULB.
+More than 48% of urban Tamil Nadu has previous experienced issues with respect to water
+availability and unsafe sanitation access contributes to high climate-related risks. This is a result
+of growing demand due to urbanization, poorly managed water systems and climate-induced seasonal
+extremes. The severe northeast monsoons of 2015 resulted in a record-breaking flood in Tamil Nadu,
+which was followed by the worst drought in 140 years the state faced in 2016. During the summer of
+2019, four major reservoirs experienced complete depletion, leading to a “Day Zero” water crisis in the
+capital city, Chennai. 3 Out of the 1,943 tanks identified by the Ministry of Water Resources, a significant
+number have been revealed as sites for municipal waste disposal. The fact that WSS services in TN’s
+ULBs suffer from limited coverage and quality, as well as high operational and financing
+inefficiencies exacerbate climate-induced impacts (such as floods and droughts) to the
+population. In most ULBs, residents receive water for only one to three hours per day, with the
+frequency varying from daily to once in every five days. Bulk water supply levels are at 65 liters per
+capita per day (lpcd) compared to the national guideline of 135 lpcd. Thus, the population often depend
+on informal water supply (such as water trucks, private vendors or unregulated groundwater) to meet
+their needs, but these sources tend to become unavailable and unsafe in climate extreme events. The
+quality of service is further strained by uncontrolled non-revenue water (NRW), which leads to wastage
+of fresh water sources. Access to sanitation services is poor as well and raises public health
+concerns relating to water source contamination from flood and storm waters. For the one-third
+of ULBs with sewerage networks, service coverage is less than 40 percent. Many of the existing sewage
+treatment plants (STPs) suffer from poor operation and maintenance (O&M). A systematic planning
+through a combination of sewerage and non-sewerage systems to ensure a citywide access to safely
+managed sanitation is missing. As such, a large part of the population still relies on unsafely managed
+sanitation, which exposes them to health risks in a flooding event. Women and children also suffer the
+most from the lack of improved sanitation, which causes diseases and increases the need for health
+care support, as well as absence from school.
+Energy Efficiency is a non-regret, climate-friendly, source of savings to ULBs. The Alliance to
+Save Energy’s Watergy program launched in 2007 by TNUIFSL has demonstrated that, by optimizing
+energy use, municipalities can achieve significant energy and monetary savings, at least 20 percent in
+water supply systems alone. By updating municipal infrastructure, improved utility services can be
+provided to the population and industries while simultaneously reducing pollution, GHG emissions and
+costs. Some of the participating ULBs like Vellore, Cuddalore, Pudukottai and Dindigul were also a
+part of the municipal energy efficiency project by TNUIFSL. However, increasing urban population
+and extreme temperatures will lead to further increase in energy consumptions that attribute to rise in
+GHG emissions 4.
+ULB’s face institutional capacity and policy challenges. Insights from consultations with ULBs
+revealed that tackling climate change is presently limited to adaptation measures like preparedness
+for disaster management. The latest government order with sanctioned positions for ULBs in Tamil
+Nadu does not contain dedicated personnel for climate change and resilience, thus limiting planning,
+financing and rolling out robust climate actions. Furthermore, ULBs currently lack mechanisms to
+incorporate climate and disaster risks in their investment identification and prioritization procedures,
+and there is a lack of contingency planning for impending risk of climate hazards. Thus, there is a
+strong case for enhancing the institutional capacities and increasing investments for incorporating
+climate resilience in ULBs and the proposed urban WSS infrastructure systems.
+
+
+Green House Gases accounting:
+An estimation of emissions from wastewater projects was carried out for the participating
+ULBs. The study shows that without the implementation of proposed fourteen sewerage projects
+under the Program, the GHG emissions will continue to increase owing to the CH4 (methane)
+
+3
+    https://thecityfix.com/blog/tamil-nadus-seasonal-swings-water-stress-state-much-little-water/
+4
+    Ministry of Power – Tamil Nadu
+emissions from untreated wastewater. GHG account was carried out based on the Water Global
+practice standardized methodology, focusing on sanitation activities (as the most relevant sector on
+this matter). It shows that the Program will result in a reduction in unchecked GHG emissions from
+individual cesspools and latrines by expanding household sewerage connections and increasing the
+amount of wastewater being treated in existing and newly constructed STPs in the project area that
+meet the effluent disposal standards. The Program’s gross emissions over the economic lifetime are
+2,318,677 tCO2-eq, the net emission reduction over the economic lifetime is 6,786,713 tCO2-eq, and
+the net average annual emission reduction is 212,085 tCO2-eq. 5
+
+In the WSS infrastructure assets financed under the Program, energy consumption from pumping
+stations, motors, and treatment plants are potential sources of GHG emissions due to expansion of
+WSS services in the project area. However, these will be offset by emissions reductions due to more
+households being connected to sewerage solutions, moving away from use of highly emissive septic
+tanks and also by expected reduction in emissions due to energy efficiency gains (see DLI 8), non-
+revenue water reduction (DLI 7.2) and creation of green areas (DLI 8). In the medium to long term,
+further reduction in emissions due progressive city-wide access to safely managed sanitation
+solutions coming from the implementation of the CWIS plans (DLI 3) are expected. These aspects
+(energy efficiency, parks, NRW, CWIS) have not been quantified in the GHG calculations.
+
+
+Disbursement-Linked Indicator (DLI)-wise Climate Adaptation and Mitigation Actions
+           Activities                       Adaptation Action                              Mitigation Action
+    Results Area 1: Strengthening urban management, institutional framework and climate resilient
+    planning
+    DLI 2: Increased access to financial market
+    ULBs issue municipal
+                                Funds raised through these bonds will be allocated to the ULBs for investing in
+    bonds with support from
+                                urban water systems including WSS and stormwater drainage.
+    TNUIFSL
+    DLI 3: Enhanced institutional capacities for climate resilient planning
+    Adoption and initiation of implementation of climate change action plans by participating ULBs
+    • ULBs have prepared in Vulnerability context: Climate risks as          The CCAPs for the ULBs will
+      a consultative manner,      described above.                           comprise of mitigation actions for
+      adopted and initiated                                                  reducing GHG emissions, by
+      implementation of City-                                                establishing set emission reduction
+      Climate Action Plan         Intent to address identified
+                                  vulnerabilities: This DLI and  DLRs  will  targets and have planned approach
+      (CCAP)                                                                 towards decarbonization.
+    • The CCAP should             significantly contribute to adaptation
+      include a cross-            efforts by strengthening the institutional
+      sectoral action plan        capacity of ULBs to tackle impacts of      The CWIS plan support setting the
+      covering WSS,               climate change including the extreme       ULBs on a progressive path to
+      transport,                  weather events like floods, droughts,      emissions reduction by increasing
+      energy/building, solid      cyclones, etc.                             access to safely managed sanitation
+      waste and green                                                        services, including increase the
+      space, and four WSS         Explicit link between identified climate   treatment of sewerage, leading to
+      sub-plans on water          change risks and specific project          reduction of CH4, CO2 and N2O
+      security and                activities: The cross-sectoral CCAP and    emissions.
+      emergency                   four WSS subplans will include
+      preparedness and            recommendations that prioritizes: (i)
+      response, citywide          water source sustainability, reduction of
+      inclusive sanitation        NRW to also contribute to water security,
+      (CWIS), WSS business installation of rainwater harvesting
+      plan, and stormwater        systems. All of this address the risks of
+      drainage.                   water scarcity in the participating ULBs.
+                                The emergency preparedness and
+                                response plan, enhances the capacity of
+                                the ULBs, to better handle climate crisis.
+                                This would ensure that the WSS
+                                infrastructure are resilient, and the
+                                service delivery is not disrupted during
+
+5
+ GHG account was carried out based on the Water Global practice standardized methodology, focusing on sanitation
+activities only since these are the largest portion of program-supported investments with relevance to GHG accounting. DLIs
+supporting sanitation investments are: DLIs 6.1 (partially), 6.3 (fully), 7.1 (partially) and 7.3 (fully).
+        Activities                       Adaptation Action                          Mitigation Action
+                             disasters, which would further reduce the
+                             stress on water resources. (ii) urban
+                             drainage plan to identify hot spots of
+                             water stagnation and recommend
+                             structural and non-structural measures
+                             including nature-based solutions to
+                             improve the stormwater management
+                             system to reduce flooding damage; (iii)
+                             CWIS plan to support ULBs to
+                             progressively advance in city-wide
+                             access to improved and safely managed
+                             sanitation, thus supporting reducing
+                             heath impacts in a flooding event.
+Results Area 2: Improving accessibility, climate resilience and efficiency of urban WSS services
+DLI 6: Delivery of functional water and sanitation connections
+DLI 6.1: ULBs implementation of WSS investments incorporating climate resilience guidelines
+DLI 6.2: Number of new or rehabilitated functional water tap connections
+DLI 6.3: Number of new functional sewerage connections
+• WSS Investment           Vulnerability context: Water risks and          The implementation of wastewater
+  implementation by        climate risks discussed above.                  projects under the Program will lead
+  participating ULBs                                                       to reduction of CO2 emissions (see
+  incorporating climate                                                    GHG paragraph above). Increased
+  resilience guidelines    Intent to address identified                    household sewerage connections in
+  developed by TNUIFSL vulnerabilities: Development of climate             addition to augmentation of existing
+• Number of new or         resilient infrastructure for service delivery   network, as well as new STPs will
+  rehabilitated functional and operations.                                 contribute to increase in treatment
+  water tap connections                                                    quantity of sewerage generated in the
+  across 2 ULBs with                                                       ULBs.
+  pan-city of city water   Explicit link between identified climate
+  supply projects and 12   change risks and specific project
+  ULBs with 24x7 water     activities: DLIs 6.2 and 6.3 mandate the
+  supply projects of the   incorporation of climate resilience
+  city                     measures in the design of the WSS
+• Number of new            investments funded under the Program.
+  functional sewerage      These include measures to prevent
+  connections (treated     potential damages due to floods, wind
+  effluents up to Effluent and droughts and other climatic hazards.
+  Discharge Standard       Increasing the number of functional tap
+  levels) in 14 ULBs       connections is a more climate resilient
+                           water supply solution that reduces the
+                           use of unsafe water sources, especially
+                           during ‘stress’ scenarios of flooding and
+                           cyclone, as informal water points can be
+                           difficult to access or become
+                           contaminated.
+                             Access to functional sewerage
+                             connections refers to the entire
+                             sanitation chain (from household
+                             connection up to treating the effluent as
+                             per standards) thus enhancing the
+                             resilience of infrastructure and services
+                             to climate risks and directly contributing
+                             to reduce health risks exposures in
+                             floods events.
+DLI 7: Operational, climate and financial efficiency of WSS services
+DLI 7.1: Number of participating ULBs with performance-based contracts signed for water and/ or sanitation
+    services
+DLI 7.2: Number of water connections with NRW 20% or below in areas receiving 24 x 7 services
+• Number of ULBs that      Vulnerability context: Water risks
+  have signed              discussed above.
+  performance-based
+  contracts for water and/ Intent to address identified
+  or sewerage services.    vulnerabilities: Ensuring resilient and well
+• Number of ULBs with      operated WSS systems at a ULB level.
+  Non-Revenue Water        Reduced water losses and improved
+  20% or below             water and wastewater management.
+          Activities                     Adaptation Action                            Mitigation Action
+   (measured for at least
+   six months) in project    Explicit link between identified climate
+   areas up to household     change risks and specific project
+   level in 24x7 projects    activities: PBC contracts will finance
+   and [up to DMA level]     implementation and operation and
+   in citywide water         maintenance of WSS services, as per
+   projects                  DLI 6 and additional WSS efficiency
+                             improvements as per DLIs 7.2 and 7.3.
+                             Specific clauses under the performance-
+                             based contracts will ensure, contractors
+                             are incorporating the necessary
+                             mitigation measures, that would
+                             contribute to building resilience for the
+                             WSS systems in the ULBs. The projects
+                             for water and sewerage are embedding
+                             climate resilience in the project design as
+                             prescribed under DLI 6.1, and the PBCs
+                             also includes the portion of O&M of
+                             these WSS services. Reduction of NRW,
+                             further reduces stress on freshwater
+                             resources.
+ DLI 7.3 Increase in cumulative volume of sewage treated (meeting minimum standards) in eligible existing
+     sewage treatment plants (STPs)
+                             DLI 7.3 supports higher sewage                 Increase in treatment of wastewater
+ Increase in volume of           treatment, thus reducing health            in existing STPs will reduce
+ treated wastewater in           impacts in case of floods.                 greenhouse gas emissions during
+ existing STPs                                                              the Program period.
+
+ DLI 8: Improved city-level climate resilience
+ DLI 8.1: Energy savings over respective ULB baseline of FY2021-22
+ ULBs have demonstrated                                                    Implementation of energy efficiency
+ aggregate energy                                                          measures in municipal assets ensures
+ savings.                                                                  progressive reduction in emissions.
+ DLI 8.2: Increase in area of green space
+ ULBs’ have greened          Increasing green space will help              Increasing green space will contribute
+ more area designated as     mitigate heat island effects and              to carbon sequestration.
+ parks                       increase rainfall infiltration, thus
+                             reducing flood impacts.
+ Program Action Plan
+ Establish water and wastewater quality surveillance program and disclose results
+ • Within 3 years of       Vulnerability context: Climate risks         Disclosure of wastewater quality
+   Program                 discussed above.                             reports will ensure periodic monitoring
+   implementation, ULBs                                                 of sewerage in a systematic manner.
+   will establish the                                                   This will lead to ULBs to complying
+   surveillance program    Disclosure of water quality and              with the Effluent Discharge standards
+   for city-wide sampling, wastewater quality reports will ensure       of Pollution Control Board with
+   testing and disclosure  periodic monitoring of water and             reduction in BOD levels contributing
+   of water quality and    effluents in a systematic manner, thus       to emissions reduction.
+   wastewater influent     incentivizing ULBs to keep up the quality
+   and effluent quality as of the services and their climate
+   per applicable norms,   resilience function.
+   and disclose results on
+   a quarterly basis
+
+Paris Alignment
+The operation is aligned with the goals of the Paris Agreement focused on mitigation, adaptation, and
+resilience.
+Consistency with the country’s NDC, LTS, and NAP A review of the wastewater management
+projects under the Program shows a strong potential to reduce GHG emissions as the projects will
+lead to reducing methane emissions from untreated wastewater through scientific treatment and
+disposal of the same (see GHG accounting paragraph). Moreover, low carbon technological design
+and interventions and the City Climate Action Plan (CCAP) (such as energy efficiency, increased
+treatment of the wastewater, CWIS, green areas) will ensure future WSS projects are set on a low
+carbon trajectory, contributing to the overall climate goals of the state (in line with INDCs). To ensure
+that all Program activities are aligned with India’s NDCs, India’s Long-Term Low-Carbon Development
+Strategy (2022), and National Action Plan on Climate Change (NAPCC 2021), specific DLRs have
+been proposed (DLRs 3 and 8, and parts of DLR 6 and 7) which include clear activities and results
+towards climate adaptation and mitigation.
+Climate Baseline assessment: climate vulnerability situation of program ULBs was described earlier
+in this document. On the institutional responses side, it was identified that tackling climate change is
+limited preparedness for disaster management. ULBs in Tamil Nadu does not contain dedicated
+personnel for climate change and resilience, thus limiting planning, financing, and rolling out robust
+climate actions. Furthermore, ULBs currently lack mechanisms to incorporate climate and disaster
+risks in their investment identification and prioritization procedures, and there is a lack of contingency
+planning for impending risk of climate hazards.
+Climate resilience interventions are integrated under both the result areas under the Program.
+While RA1 focuses on strengthening urban management and climate resilient planning at ULB level,
+RA2 prioritizes improving accessibility, climate resilience and financial sustainability of urban services.
+On one hand, RA1 prioritizes the adoption of CCAP for each ULB, which includes climate risk
+vulnerability assessment, GHG inventories, adaptation and mitigation measures based on their
+vulnerabilities, and identifying alternative water sources to ensure water security. On the other hand,
+RA2 incentivizes the ULBs to mainstream climate resilience aspects in investment design and O&M of
+proposed WSS infrastructure, including adopting a detailed climate risk screening checklist and
+incorporating resilient measures in the design of their WSS projects. The Program incentivizes the
+development and approval of the water security and emergency plan for WSS services (RA1), which
+are intended to better prepare the service providers to maintain WSS services (RA2) in case of a
+climate-related emergency. The use of a program for results instrument (PforR) supports carrying out
+climate related activities in different levels: physical designs, O&M of assets, service delivery,
+planning, institutional strengthening.
+Assessment and reduction of mitigation risks: Program has a low risk of preventing the country’s
+transition to low-carbon development pathways, since (i) all the activities financed are either universally
+aligned or are expected to lead to low GHG emission impacts; (ii) a mechanism for tracking and lowering
+GHG emissions for activities with moderate GHG emissions intensity have been assessed and
+integrated in the Program design; (iii) activities supported by the Program and the economic impacts of
+the PforR are not expected to be at risk from low-carbon transition. The operation is not at material risk
+of having a negative impact on the country’s low-GHG emissions development pathways. All of the
+activities financed under the Program are on the universally aligned list, including the expansion and
+rehabilitation of water supply systems 6, NRW management, wastewater management systems (from
+collection to effluents treatment), conducting of energy audits and improving of energy efficiency, and
+constructing of green spaces.
+The proposed wastewater projects represent the largest portion of program investments. In this sector,
+Program activities support a full sanitation chain, from household connections all the way through
+treating and discharging effluents at adequate standards. These activities enable a robust reduction in
+GHG emissions, as described earlier in this document. For the WSS infrastructure assets financed
+under the Program, energy consumption from pumping stations, motors, and treatment plants are the
+potential sources of GHG emissions. To ensure that all Program activities are aligned with India’s NDCs,
+India’s Long-Term Low-Carbon Development Strategy (2022), and NAPCC 2021, specific targets have
+been proposed under RAs 1 and 2. The Program will incentivize the adoption of robust CCAP by each
+ULB, which includes preparation of CWIS plans to improve sanitation facilities and city-wide safe
+disposal of sewage, leading to a progressive (medium-to-long term) reduction of GHG emissions.
+Increasing green space will help mitigate heat island effects, increase rainfall infiltration, and contribute
+to carbon sequestration. The ULBs are incentivized to carry out energy audits to closely monitor their
+energy consumption and achieve systematic improvement in energy efficiency for their municipal
+assets. The Program will also ensure progressive reduction in emissions through incentivizing the
+optimization of existing assets and efficient operation of WSS assets. The proposed wastewater
+management subprojects would lead to an increase in sewerage connections and treatment of
+wastewater, directly leading to a net reduction in lifetime emissions of 6,786,713 tCO2-eq.
+
+
+
+6 All WSS pumping systems are supplied by the grid. However, occasionally in events of power failure, some critical pumps
+
+may be supplied by diesel generators on a temporary basis.
+Assessment and reduction of adaptation risks. The ULBs in Program areas have a high exposure
+to climate change risks, particularly water scarcity, floods, and extreme heat. The Program’s climate
+risk reduction measures would help the 21 participating ULBs to adapt to them. RA1 prioritizes the
+adoption of CCAPs for the ULBs based on assessment of climate vulnerability and GHG inventories,
+and implementation of adaptation and mitigation measures including identifying alternative water
+sources to ensure water security, promoting city-wide access to improved sanitation (including
+adequate treatment) and ensuring water supply and sanitation infrastructure are resilient to flooding
+and other disasters. RA2 incentivizes the ULBs to mainstream climate resilience aspects in investment
+design, planning, and operation of WSS services. A climate risk screening checklist and resilience
+design guideline have been developed by TNUIFSL outlining climate risk aspects and resilience
+measures pertaining to WSS systems, and the ULBs are required to incorporate these measures in the
+design of their WSS projects. This will help pre-empt and prevent potential impacts to WSS systems
+from climate-exacerbated floods and droughts, for example, restricting potential contamination of raw
+water in service reservoirs due to flooding, reducing disruption in road connectivity, and ensuring access
+to pump houses during flooding. In the case of wastewater management systems, enhanced resilience
+to floods will lead to lower operational disruptions caused by power fluctuations causing obstructions in
+pumping, which may lead to sewage overflows and flooding of STPs, while drought preparedness will
+limit the impact of silting of sewers due to low flows. For each type of risk, the guideline recommends
+specific measures for the design and O&M stages.
+Overall, core Program activities such as improvement in WSS coverage, performance standards, and
+an overall effective institutional framework will enhance operational efficiency and sustainability of
+services, thus helping enhance resilience to droughts, floods, and extreme temperatures. The IPF
+component will also include training and capacity building for the ULBs in the management of WSS
+services during climate emergencies. In addition, through DLI 8, ULBs are encouraged to adopt a
+targeted approach to achieve systematic improvement in energy efficiency for municipal assets. ULBs
+will also achieve increase in their carbon sink, through developments of parks which will lead to increase
+in green cover. Apart from carbon sequestration benefits, this will also have significant adaptation
+benefits by preventing the formation of urban heat islands. Disbursement linked to these indicators,
+aims to serve as necessary incentive for ULBs to prioritize improved climate performance through
+progressive implementation of specific and relevant climate actions. Thus, risks from climate hazards
+have been reduced to an acceptable level and are not likely to have material impact on the operation
+and its development objective.
+
+
+
+
+.
+
