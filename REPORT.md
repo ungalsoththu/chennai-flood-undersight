@@ -2,7 +2,7 @@
 
 ## A public audit of Chennai's ₹107.2-crore Real-Time Flood Forecasting & Spatial Decision Support System
 
-**UngalSoththu — AI-native desk** · Report draft v0.4 · 2026-10-04 (v0.2 §5 financing · v0.3 media-claims + data catalogue · v0.4 question-bench loop: 200-question accountability bank, machine-scored, 25 gaps fixed — see `file CHAPTER.md`)
+**UngalSoththu — AI-native desk** · Report draft v0.5 · 2026-10-04 (v0.2 §5 financing · v0.3 media-claims + data catalogue · v0.4 question-bench loop, 200-question bank · v0.5 World Bank documents: contract annexes, $0-disbursement status, ISR silence)
 **Companion data release:** four Hugging Face datasets (links in §3) + the 2026-12 rescue archive `chennai-rain-gauges` · **Media-claims register:** `file MEDIA-CLAIMS.md` (every public success/impact reference, claim-typed and cross-checked) · **Data catalogue:** `file DATA-CATALOGUE.md` (coverage reconciliation + per-layer freshness)**Question bank:** `file 200-QUESTIONS.md` (200 graded accountability questions) · **Chapter:** `file CHAPTER.md` (bench method, reviewer scorecard, gap fixes) · **Resident review bench:** https://cashlessconsumer.zo.space/rtff-200-review
 **Evidence grades used:** **A** = artifact captured in our archive (reproducible command in appendix) · **B** = captured + corroborated by dated press · **C** = press-reported only, not independently verified · **D** = inference from evidence (reasoning stated)
 
@@ -120,6 +120,8 @@ The Bank has funded TN's urban-financial machinery for three decades: TNUDF was 
 
 The current operation matters most: **TNCRUDP's procurement plans (Dec 2023 and Dec 2024) still list Chennai RTFF assignments** — "Supervisory Consulting Services during the Handholding Phase for the Chennai Real Time Flood Forecasting Project" (US$0.10M, direct selection) and "Generation of DEM & DSM using High Resolution Satellite Image for the Chennai Real Time Flood Forecasting Project" (US$0.36M) — both executed by TNUIFSL under Bank procurement rules. The Bank that "funded" the system is still buying its aftercare, three years after the pilot and one year after "fully operational." \[B\]
 
+The Dec-2024 plan's contract annex (borrower-submitted, prior/post-reviewed by the Bank) goes further than any Indian disclosure — it prices and statuses the Bank-side RTFF contracts: **IN-TNUIFSL-350974-GO-RFB** (RTDAS + control rooms, $6.06M, disbursed **$0.00**, status "Pending Implementation", bid opening slipped Mar 2023 → Sep 2024, footnoted "under TNSUDP. Agreement is yet to be executed"); **IN-TNUIFSL-351017-CS-CDS** (handholding supervision, $83K, direct selection, disbursed $0.00, revised completion **2025-10-15** — a week before the "fully operational" launch); **IN-TNUIFSL-385194-CS-CDS** (DEM/DSM, $360K, disbursed $0.00, revised 2024-08-30). In other words: the state launched the flagship on its own money while every Bank-side contract sat at zero disbursement, and the Bank's own progress reporting (ISR Seq 5, June 2026, loan IBRD-96250 at 24.77% disbursed) never mentions the flood project at all — its results narrative covers municipal bonds (₹367 crore, incl. Chennai's ₹200 crore storm-water-drain bond of May 2025), ULB revenue reform and water connections. The flagship appears only as procurement paperwork, never as a result. Archived: `docs/wb/`. **\[A\]**
+
 ### 5.4 The terms of such lending
 
 Four features of IBRD lending shape what this project costs the state, and none of them are visible in anything the project publishes: **\[B→D\]**
@@ -197,6 +199,7 @@ Point-in-time capture (2026-09-29); activations since Oct 2025 may have changed 
 | 25 | AMC/sensor-vendor name fields are blank across all station-registry rows in the mirror | A | registry scan 2026-10-04 |
 | 26 | Archived model runs and bulletins end 2025-12-02 — before the Ditwah-remnant peak (Dec 3–5) | A | model-run + bulletin layer inspection |
 | 23 | Build history: piloted NEM 2021 (incl. Cyclone Nivar field campaigns), operationalized NEM 2022–23, documented in Current Science 127(1) Jul 2024; predecessor portal chennaifloodsdss.in (live from \~2021) died Aug 2025 after the move to chennaifloodmonitor.tn.gov.in | B | Current Science 2024 + IIT-M press 2021-11 + Wayback 2025-08-31 |
+| 27 | Bank-side RTFF contracts per Dec-2024 WB procurement annex: all three "Pending Implementation", $0.00 disbursed; RTDAS goods ($6.06M) footnoted "under TNSUDP. Agreement is yet to be executed" (bid open slipped Mar 2023 → Sep 2024); handholding ($83K) revised completion 2025-10-15; DEM/DSM ($360K) revised 2024-08-30; ISR Seq 5 (Jun 2026; IBRD-96250 24.77% disbursed) never mentions the flood project | A | P179189 procurement plans + ISR, archived `docs/wb/` |
 
 ## Appendix B — Reproduction
 
