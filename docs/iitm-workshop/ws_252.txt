@@ -1,0 +1,415 @@
+Flood Early Warning System for
+Chennai & Lessons from 2015 floods
+for Making Chennai Water Resilient
+Balaji Narasimhan
+B.S. Murty & Soumendra Nath Kuiry
+Professor
+Dept. of Civil Engineering
+IIT Madras
+
+Outline
+Chennai Floods 2015
+Rainfall
+• Historic Intensity – Duration – Frequency curve
+• A perspective of Dec.1, 2015 rainfall
+
+Landuse – Rapid Urbanization
+Reservoir Release
+Drainage System
+Tidal Levels
+
+Way Forward
+Salient Features of a Flood Resilient City
+• Forecasting and Planning
+
+Tangible actions
+
+Dec.1-Dec.2,
+2015: 24hr rainfall
+
+Dec.1, 2015
+
+Landuse
+
+Chembarambakkam Release
+Reach "Reach-2" Results f or Run "Run 1"
+900
+
+800
+
+700
+
+600
+
+Flow (cms)
+
+500
+
+400
+
+300
+
+200
+
+100
+
+0
+26
+
+27
+
+28
+
+29
+
+30
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+Nov 2015
+Run:Run 1 Element:Reach-2 Result:Outflow
+
+9
+
+10
+
+11
+Dec2015
+
+Run:Run 1 Element:Reach-2 Result:Combined Flow
+
+Estimated unregulated flow
+from the rest of the watershed
+Reach "Reach-8" Results f or Run "Run 1"
+3,500
+
+3,000
+
+2,500
+
+Flow (cms)
+
+2,000
+
+1,500
+
+1,000
+
+500
+
+0
+26
+
+27
+
+28
+
+29
+
+30
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+Nov 2015
+Run:Run 1 Element:Reach-8 Result:Outflow
+
+9
+
+10
+
+11
+Dec2015
+
+Run:Run 1 Element:Reach-8 Result:Combined Flow
+
+Topography: Less relief
+
+Littoral Sediment and closure of
+river mouths
+
+Tidal levels and
+Reservoir Releases
+Flood peak occurred
+during the low tide,
+otherwise the
+inundation extent
+could have been
+severe
+
+Stormwater Drainage System
+Road network length: 6000 km
+only about 1660 km of storm drains
+• Prior to 2015
+
+205 km of drains have a width of 0.6 m or
+more
+Storm Water Drains are provided only for
+roads with 12 m width or more
+
+Stormwater Drainage System
+Insufficient coverage with storm water
+drains
+Lack of Proper connectivity
+Linkage to major canals and waterways
+
+Insufficient capacity
+Original design intensity of 31.39 mm/h
+• 1hr storm duration and 2yr return period
+– Revised to 68 mm/h in 2014 (new drains)
+
+Polder Effect of Road Aggradation
+
+Roads fragment the
+natural drainage
+pathways
+Lack of adequate
+cross drainage
+works along roads
+
+Outer Ring Road (ORR) near Varadharajapuram
+
+2002
+
+Before the construction of Outer Ring
+Road
+
+2020
+
+After the construction of Outer Ring
+Road
+
+How did Chennai 2015 flood
+happen?
+Is climate and extreme weather the only cause?
+Only Partly;
+Topography, littoral sediment
+Design issues
+
+Could this have been prevented?
+No
+
+Could the effect have been minimized with a resilient
+design and management?
+Yes
+
+Could this recur in the future?
+YES. Very likely. Could be even worse if we remain
+unprepared
+
+Salient Features of a Flood
+Resilient City
+Forecasting and Planning
+
+Resilience
+Capability to prepare for, respond to,
+and recover from significant multihazard threats with minimum damage
+to public safety and health, the
+economy, and security
+
+Design of an Expert System for Flood Forecasting and
+Management for the city of Chennai
+
+Funding support
+Principal Scientific Advisor
+Govt. of India
+
+IIT Bombay, IIT Madras, Anna University, IISc Bangalore, NCCR
+
+- A disaster preparedness decision support system for coastal
+flooding in urban areas
+
+Water level logger, Automatic water level recorder, ADVP
+
+Calibration & Validation of hydrological
+model
+
+Reservoir operation for 2015 flood
+
+Reservoir operation for 2015 flood
+
+900
+
+Inflow hydrograph
+
+825
+
+3 hours
+
+750
+
+6 hours
+
+675
+
+9 hours
+
+Flow (m3/s)
+
+600
+
+18 hours
+
+525
+
+24 hours
+
+450
+375
+300
+225
+150
+75
+
+0
+0
+
+2000
+
+4000
+
+6000
+8000
+Time (minutes)
+
+10000
+
+12000
+
+Effect of Spatial variability of Rainfall Events
+
+Using Doppler weather radar for
+nowcasting would improve the
+inflow predictions significantly
+and will be very useful for issuing
+flood warning
+
+Water Sensitive Urban
+Design (WSUD)
+Planning for increasing resilience
+
+Rapid and Unplanned
+Urbanization
+
+2002
+
+2016
+
+Future scope for urbanization
+If this urbanization takes place,
+what would happen to the
+frequency and magnitude of
+flooding in the future??
+
+Water Cycle as a whole
+
+Sustainable Drainage Systems
+(SUDS)
+SuDS management train
+
+Source: CIRIA, 2000
+www.susdrain.org
+
+Site control
+Detention basins
+
+Source
+Sourcecontrol/
+conveyance
+control/convey
+Swales
+ance
+Swale
+
+Source control
+Green roof
+
+Prevention/
+Source control
+Water butts
+
+Source control
+Permeable surface
+
+Source control/
+conveyance
+Underdrained swales
+swale
+
+Regional control
+Retention pond
+
+100’s of water bodies
+
+Current recycling: 10%
+(only to industries)
+Source: City of 1000 Tanks
+
+Source: City of 1000 Tanks
+
+Source: City of 1000 Tanks
+
+Source: City of 1000 Tanks
+
+Source: City of 1000 Tanks
+
+Source: City of 1000 Tanks
+
+Tangible actions
+Ensure road resurfacing does not result in
+aggradation of road level
+Adopt IRC:120-2015
+
+Adequate cross-drainage works across streets/roads
+and highways
+Revive tanks wherever possible
+Where tanks are lost, at least revive the outlet and excess
+sluice
+
+Demarcate flood lines of rivers, drains and lakes
+Restrict activities within these demarcated water line zones
+
+Proper solid waste management
+Community Education on waste segregation and solid waste
+management
+
+Tangible actions
+Mandate Sustainable Urban Drainage Systems (SuDs)
+for all new developments
+Permit system for storm water discharge
+Ensure that urbanization does not necessarily result in
+higher rate of runoff
+Macro drainage in place before new development
+
+But the city will be
+resilient to
+flooding☺
+
+
