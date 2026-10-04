@@ -1,1617 +1,2617 @@
 {
- "responses": {
+  "responses": {
+    "1": {
+      "rel": 5,
+      "updatedAt": 1791091966847,
+      "qual": 2,
+      "comment": "Add state of  RTFF and  SDSS and its possibilities",
+      "jev": {
+        "rel": 4,
+        "qual": 3,
+        "comment": "Decent orientation; add one concrete capability example instead of REPORT pointer"
+      }
+    },
+    "2": {
+      "rel": 5,
+      "updatedAt": 1791091966847,
+      "qual": 4,
+      "jev": {
+        "rel": 5,
+        "qual": 4,
+        "comment": "ok"
+      }
+    },
+    "3": {
+      "qual": 5,
+      "updatedAt": 1791091966847,
+      "rel": 4,
+      "jev": {
+        "rel": 3,
+        "qual": 4,
+        "comment": "ok"
+      }
+    },
+    "4": {
+      "rel": 4,
+      "updatedAt": 1791091966847,
+      "qual": 4,
+      "comment": "",
+      "jev": {
+        "rel": 4,
+        "qual": 4,
+        "comment": "ok"
+      }
+    },
+    "5": {
+      "rel": 4,
+      "updatedAt": 1791091966847,
+      "qual": 3,
+      "jev": {
+        "rel": 2,
+        "qual": 3,
+        "comment": "Name the competing 'first' claims explicitly; low accountability weight"
+      }
+    },
+    "6": {
+      "jev": {
+        "rel": 5,
+        "qual": 4,
+        "comment": "Explain what would publicly verify prediction; mirror self-reference unclear to outsiders"
+      },
+      "updatedAt": 1791091966847
+    },
+    "7": {
+      "jev": {
+        "rel": 4,
+        "qual": 4,
+        "comment": "ok"
+      },
+      "updatedAt": 1791091966847
+    },
+    "8": {
+      "jev": {
+        "rel": 3,
+        "qual": 2,
+        "comment": "Pull actual per-ward station counts from the dataset instead of deferring readers there"
+      },
+      "updatedAt": 1791091966847
+    },
+    "9": {
+      "jev": {
+        "rel": 5,
+        "qual": 4,
+        "comment": "ok"
+      },
+      "updatedAt": 1791091966847
+    },
+    "10": {
+      "jev": {
+        "rel": 4,
+        "qual": 3,
+        "comment": "Inline the delay reasons; ELI10 pointer carries no content"
+      },
+      "updatedAt": 1791091966847
+    },
+    "11": {
+      "jev": {
+        "rel": 5,
+        "qual": 3,
+        "comment": "Press-only figure; seek a government-side corroboration"
+      },
+      "updatedAt": 1791091966847
+    },
+    "12": {
+      "jev": {
+        "rel": 5,
+        "qual": 5,
+        "comment": "ok"
+      },
+      "updatedAt": 1791091966847
+    },
+    "13": {
+      "jev": {
+        "rel": 5,
+        "qual": 4,
+        "comment": "ok"
+      },
+      "updatedAt": 1791091966847
+    },
+    "14": {
+      "jev": {
+        "rel": 4,
+        "qual": 4,
+        "comment": "ok"
+      },
+      "updatedAt": 1791091966847
+    },
+    "15": {
+      "jev": {
+        "rel": 3,
+        "qual": 4,
+        "comment": "ok"
+      },
+      "updatedAt": 1791091966847
+    },
+    "16": {
+      "jev": {
+        "rel": 5,
+        "qual": 3,
+        "comment": "ok"
+      },
+      "updatedAt": 1791091966847
+    },
+    "17": {
+      "jev": {
+        "rel": 3,
+        "qual": 4,
+        "comment": "ok"
+      },
+      "updatedAt": 1791091966847
+    },
+    "18": {
+      "jev": {
+        "rel": 3,
+        "qual": 4,
+        "comment": "ok"
+      },
+      "updatedAt": 1791091966847
+    },
+    "19": {
+      "jev": {
+        "rel": 4,
+        "qual": 5,
+        "comment": "ok"
+      },
+      "updatedAt": 1791091966847
+    },
+    "20": {
+      "jev": {
+        "rel": 5,
+        "qual": 3,
+        "comment": "State QCBS definition and why direct selection would matter"
+      },
+      "updatedAt": 1791091966847
+    },
+    "21": {
+      "jev": {
+        "rel": 5,
+        "qual": 3,
+        "comment": "Quantify consequence: who pays repairs after warranty lapses"
+      },
+      "updatedAt": 1791091966847
+    },
+    "22": {
+      "jev": {
+        "rel": 4,
+        "qual": 4,
+        "comment": "ok"
+      },
+      "updatedAt": 1791091966847
+    },
+    "23": {
+      "jev": {
+        "rel": 4,
+        "qual": 3,
+        "comment": "Name the remaining aftercare tranches and amounts"
+      },
+      "updatedAt": 1791091966847
+    },
+    "24": {
+      "jev": {
+        "rel": 5,
+        "qual": 4,
+        "comment": "ok"
+      },
+      "updatedAt": 1791091966847
+    },
+    "25": {
+      "jev": {
+        "rel": 3,
+        "qual": 4,
+        "comment": "ok"
+      },
+      "updatedAt": 1791091966847
+    },
+    "26": {
+      "jev": {
+        "rel": 3,
+        "qual": 3,
+        "comment": "Fetch the actual rate from the published loan agreement"
+      },
+      "updatedAt": 1791091966847
+    },
+    "27": {
+      "jev": {
+        "rel": 3,
+        "qual": 4,
+        "comment": "ok"
+      },
+      "updatedAt": 1791091966847
+    },
+    "28": {
+      "jev": {
+        "rel": 3,
+        "qual": 4,
+        "comment": "ok"
+      },
+      "updatedAt": 1791091966847
+    },
+    "29": {
+      "jev": {
+        "rel": 5,
+        "qual": 3,
+        "comment": "Good RTI/watch target; add what DLR verification would look like"
+      },
+      "updatedAt": 1791091966847
+    },
+    "30": {
+      "jev": {
+        "rel": 4,
+        "qual": 4,
+        "comment": "ok"
+      },
+      "updatedAt": 1791091966847
+    },
+    "31": {
+      "jev": {
+        "rel": 3,
+        "qual": 4,
+        "comment": "ok"
+      },
+      "updatedAt": 1791091966847
+    },
+    "32": {
+      "jev": {
+        "rel": 4,
+        "qual": 3,
+        "comment": "Add filing route and any India precedent complaints"
+      },
+      "updatedAt": 1791091966847
+    },
+    "33": {
+      "jev": {
+        "rel": 3,
+        "qual": 3,
+        "comment": "List a few named assignments to show the pattern"
+      },
+      "updatedAt": 1791091966847
+    },
+    "34": {
+      "jev": {
+        "rel": 4,
+        "qual": 4,
+        "comment": "ok"
+      },
+      "updatedAt": 1791091966847
+    },
+    "35": {
+      "jev": {
+        "rel": 4,
+        "qual": 3,
+        "comment": "Add firm size, other government contracts, track record"
+      },
+      "updatedAt": 1791091966847
+    },
+    "36": {
+      "jev": {
+        "rel": 4,
+        "qual": 4,
+        "comment": "Insurance-industry parent angle deserves a conflict-of-interest sentence"
+      },
+      "updatedAt": 1791091966847
+    },
+    "37": {
+      "jev": {
+        "rel": 5,
+        "qual": 3,
+        "comment": "ok"
+      },
+      "updatedAt": 1791091966847
+    },
+    "38": {
+      "jev": {
+        "rel": 3,
+        "qual": 2,
+        "comment": "Name the AMC vendors and sensor suppliers from mirrored registries, not file pointers"
+      },
+      "updatedAt": 1791091966847
+    },
+    "39": {
+      "jev": {
+        "rel": 4,
+        "qual": 3,
+        "comment": "Add engagement duration and deliverables if obtainable via RTI"
+      },
+      "updatedAt": 1791091966847
+    },
+    "40": {
+      "jev": {
+        "rel": 4,
+        "qual": 4,
+        "comment": "ok"
+      },
+      "updatedAt": 1791091966847
+    },
+    "41": {
+      "jev": {
+        "rel": 5,
+        "qual": 2,
+        "comment": "States gap but defers to internal audit plan; add known AMC lapse examples."
+      },
+      "updatedAt": 1791091966847
+    },
+    "42": {
+      "jev": {
+        "rel": 5,
+        "qual": 3,
+        "comment": "Adequate; add tender counts, dates, and examples of missing contracts."
+      },
+      "updatedAt": 1791091966847
+    },
+    "43": {
+      "jev": {
+        "rel": 4,
+        "qual": 2,
+        "comment": "Bare negative; state where you searched and WB disclosure norms."
+      },
+      "updatedAt": 1791091966847
+    },
+    "44": {
+      "jev": {
+        "rel": 4,
+        "qual": 2,
+        "comment": "Pure RTI placeholder; include any contract clause evidence already gathered."
+      },
+      "updatedAt": 1791091966847
+    },
+    "45": {
+      "jev": {
+        "rel": 3,
+        "qual": 2,
+        "comment": "Watch-note only; name JV, IFMC scope, and procurement references."
+      },
+      "updatedAt": 1791091966847
+    },
+    "46": {
+      "jev": {
+        "rel": 4,
+        "qual": 5,
+        "comment": "ok"
+      },
+      "updatedAt": 1791091966847
+    },
+    "47": {
+      "jev": {
+        "rel": 5,
+        "qual": 4,
+        "comment": "Good; clarify scope — 38 dashboard stations vs 328+ registry sensors."
+      },
+      "updatedAt": 1791091966847
+    },
+    "48": {
+      "jev": {
+        "rel": 5,
+        "qual": 5,
+        "comment": "ok"
+      },
+      "updatedAt": 1791091966847
+    },
+    "49": {
+      "jev": {
+        "rel": 4,
+        "qual": 4,
+        "comment": "ok"
+      },
+      "updatedAt": 1791091966847
+    },
+    "50": {
+      "jev": {
+        "rel": 3,
+        "qual": 4,
+        "comment": "ok"
+      },
+      "updatedAt": 1791091966847
+    },
+    "51": {
+      "jev": {
+        "rel": 2,
+        "qual": 4,
+        "comment": "ok"
+      },
+      "updatedAt": 1791091966847
+    },
+    "52": {
+      "jev": {
+        "rel": 4,
+        "qual": 4,
+        "comment": "ok"
+      },
+      "updatedAt": 1791091966847
+    },
+    "53": {
+      "jev": {
+        "rel": 3,
+        "qual": 3,
+        "comment": "Pointer-style; name the five districts and give a lookup example."
+      },
+      "updatedAt": 1791091966847
+    },
+    "54": {
+      "jev": {
+        "rel": 5,
+        "qual": 4,
+        "comment": "Good specific example; trim self-referential closer, add observation date."
+      },
+      "updatedAt": 1791091966847
+    },
+    "55": {
+      "jev": {
+        "rel": 4,
+        "qual": 3,
+        "comment": "ok"
+      },
+      "updatedAt": 1791091966847
+    },
+    "56": {
+      "jev": {
+        "rel": 4,
+        "qual": 3,
+        "comment": "ok"
+      },
+      "updatedAt": 1791091966847
+    },
+    "57": {
+      "jev": {
+        "rel": 3,
+        "qual": 4,
+        "comment": "ok"
+      },
+      "updatedAt": 1791091966847
+    },
+    "58": {
+      "jev": {
+        "rel": 4,
+        "qual": 5,
+        "comment": "ok"
+      },
+      "updatedAt": 1791091966847
+    },
+    "59": {
+      "jev": {
+        "rel": 3,
+        "qual": 4,
+        "comment": "ok"
+      },
+      "updatedAt": 1791091966847
+    },
+    "60": {
+      "jev": {
+        "rel": 4,
+        "qual": 3,
+        "comment": "'Compute it yourself' deflects; give a one-line density sketch per district."
+      },
+      "updatedAt": 1791091966847
+    },
+    "61": {
+      "jev": {
+        "rel": 5,
+        "qual": 5,
+        "comment": "ok"
+      },
+      "updatedAt": 1791091966847
+    },
+    "62": {
+      "jev": {
+        "rel": 4,
+        "qual": 4,
+        "comment": "ok"
+      },
+      "updatedAt": 1791091966847
+    },
+    "63": {
+      "jev": {
+        "rel": 4,
+        "qual": 4,
+        "comment": "ok"
+      },
+      "updatedAt": 1791091966847
+    },
+    "64": {
+      "jev": {
+        "rel": 3,
+        "qual": 4,
+        "comment": "ok"
+      },
+      "updatedAt": 1791091966847
+    },
+    "65": {
+      "jev": {
+        "rel": 2,
+        "qual": 4,
+        "comment": "ok"
+      },
+      "updatedAt": 1791091966847
+    },
+    "66": {
+      "jev": {
+        "rel": 2,
+        "qual": 5,
+        "comment": "ok"
+      },
+      "updatedAt": 1791091966847
+    },
+    "67": {
+      "jev": {
+        "rel": 2,
+        "qual": 4,
+        "comment": "ok"
+      },
+      "updatedAt": 1791091966847
+    },
+    "68": {
+      "jev": {
+        "rel": 1,
+        "qual": 3,
+        "comment": "ok"
+      },
+      "updatedAt": 1791091966847
+    },
+    "69": {
+      "jev": {
+        "rel": 2,
+        "qual": 4,
+        "comment": "ok"
+      },
+      "updatedAt": 1791091966847
+    },
+    "70": {
+      "jev": {
+        "rel": 3,
+        "qual": 3,
+        "comment": "ok"
+      },
+      "updatedAt": 1791091966847
+    },
+    "71": {
+      "jev": {
+        "rel": 4,
+        "qual": 5,
+        "comment": "ok"
+      },
+      "updatedAt": 1791091966847
+    },
+    "72": {
+      "jev": {
+        "rel": 2,
+        "qual": 4,
+        "comment": "ok"
+      },
+      "updatedAt": 1791091966847
+    },
+    "73": {
+      "jev": {
+        "rel": 3,
+        "qual": 3,
+        "comment": "Group counts sum to 199, not 344 — reconcile or note remainder."
+      },
+      "updatedAt": 1791091966847
+    },
+    "74": {
+      "jev": {
+        "rel": 2,
+        "qual": 4,
+        "comment": "ok"
+      },
+      "updatedAt": 1791091966847
+    },
+    "75": {
+      "jev": {
+        "rel": 5,
+        "qual": 4,
+        "comment": "Nuanced; sample-check one bulletin's maps against observed rainfall."
+      },
+      "updatedAt": 1791091966847
+    },
+    "76": {
+      "jev": {
+        "rel": 4,
+        "qual": 4,
+        "comment": "ok"
+      },
+      "updatedAt": 1791091966847
+    },
+    "77": {
+      "jev": {
+        "rel": 3,
+        "qual": 4,
+        "comment": "ok"
+      },
+      "updatedAt": 1791091966847
+    },
+    "78": {
+      "jev": {
+        "rel": 2,
+        "qual": 4,
+        "comment": "ok"
+      },
+      "updatedAt": 1791091966847
+    },
+    "79": {
+      "jev": {
+        "rel": 5,
+        "qual": 4,
+        "comment": "Strong; explain how the archive's absence was verified."
+      },
+      "updatedAt": 1791091966847
+    },
+    "80": {
+      "jev": {
+        "rel": 5,
+        "qual": 4,
+        "comment": "ok"
+      },
+      "updatedAt": 1791091966847
+    },
+    "81": {
+      "jev": {
+        "rel": 4,
+        "qual": 4,
+        "comment": "name source for the zone list"
+      },
+      "updatedAt": 1791091966847
+    },
+    "82": {
+      "jev": {
+        "rel": 5,
+        "qual": 4,
+        "comment": "ok"
+      },
+      "updatedAt": 1791091966847
+    },
+    "83": {
+      "jev": {
+        "rel": 4,
+        "qual": 4,
+        "comment": "ok"
+      },
+      "updatedAt": 1791091966847
+    },
+    "84": {
+      "jev": {
+        "rel": 4,
+        "qual": 4,
+        "comment": "ok"
+      },
+      "updatedAt": 1791091966847
+    },
+    "85": {
+      "jev": {
+        "rel": 4,
+        "qual": 4,
+        "comment": "ok"
+      },
+      "updatedAt": 1791091966847
+    },
+    "86": {
+      "jev": {
+        "rel": 3,
+        "qual": 4,
+        "comment": "ok"
+      },
+      "updatedAt": 1791091966847
+    },
+    "87": {
+      "jev": {
+        "rel": 5,
+        "qual": 4,
+        "comment": "ok"
+      },
+      "updatedAt": 1791091966847
+    },
+    "88": {
+      "jev": {
+        "rel": 4,
+        "qual": 2,
+        "comment": "names layers but no access link or how-to — resident can't actually use it"
+      },
+      "updatedAt": 1791091966847
+    },
+    "89": {
+      "jev": {
+        "rel": 5,
+        "qual": 4,
+        "comment": "ok"
+      },
+      "updatedAt": 1791091966847
+    },
+    "90": {
+      "jev": {
+        "rel": 4,
+        "qual": 2,
+        "comment": "too thin — say what was checked; RTI the SMS/dissemination protocol"
+      },
+      "updatedAt": 1791091966847
+    },
+    "91": {
+      "jev": {
+        "rel": 3,
+        "qual": 3,
+        "comment": "ok"
+      },
+      "updatedAt": 1791091966847
+    },
+    "92": {
+      "jev": {
+        "rel": 4,
+        "qual": 4,
+        "comment": "ok"
+      },
+      "updatedAt": 1791091966847
+    },
+    "93": {
+      "jev": {
+        "rel": 3,
+        "qual": 4,
+        "comment": "ok"
+      },
+      "updatedAt": 1791091966847
+    },
+    "94": {
+      "jev": {
+        "rel": 5,
+        "qual": 4,
+        "comment": "ok"
+      },
+      "updatedAt": 1791091966847
+    },
+    "95": {
+      "jev": {
+        "rel": 3,
+        "qual": 3,
+        "comment": "ok"
+      },
+      "updatedAt": 1791091966847
+    },
+    "96": {
+      "jev": {
+        "rel": 4,
+        "qual": 3,
+        "comment": "add what sources were checked for alert-design evidence"
+      },
+      "updatedAt": 1791091966847
+    },
+    "97": {
+      "jev": {
+        "rel": 4,
+        "qual": 4,
+        "comment": "ok"
+      },
+      "updatedAt": 1791091966847
+    },
+    "98": {
+      "jev": {
+        "rel": 5,
+        "qual": 4,
+        "comment": "ok"
+      },
+      "updatedAt": 1791091966847
+    },
+    "99": {
+      "jev": {
+        "rel": 4,
+        "qual": 2,
+        "comment": "one-line negative plus stray '---'; note channels checked and RTI route"
+      },
+      "updatedAt": 1791091966847
+    },
+    "100": {
+      "jev": {
+        "rel": 5,
+        "qual": 5,
+        "comment": "ok"
+      },
+      "updatedAt": 1791091966847
+    },
+    "101": {
+      "jev": {
+        "rel": 4,
+        "qual": 4,
+        "comment": "ok"
+      },
+      "updatedAt": 1791091966847
+    },
+    "102": {
+      "jev": {
+        "rel": 4,
+        "qual": 3,
+        "comment": "ok"
+      },
+      "updatedAt": 1791091966847
+    },
+    "103": {
+      "jev": {
+        "rel": 3,
+        "qual": 4,
+        "comment": "ok"
+      },
+      "updatedAt": 1791091966847
+    },
+    "104": {
+      "jev": {
+        "rel": 4,
+        "qual": 2,
+        "comment": "doesn't answer current status — self-referential probe protocol instead"
+      },
+      "updatedAt": 1791091966847
+    },
+    "105": {
+      "jev": {
+        "rel": 4,
+        "qual": 3,
+        "comment": "plausible but speculative diagnosis; label as inference"
+      },
+      "updatedAt": 1791091966847
+    },
+    "106": {
+      "jev": {
+        "rel": 5,
+        "qual": 4,
+        "comment": "ok"
+      },
+      "updatedAt": 1791091966847
+    },
+    "107": {
+      "jev": {
+        "rel": 4,
+        "qual": 4,
+        "comment": "ok"
+      },
+      "updatedAt": 1791091966847
+    },
+    "108": {
+      "jev": {
+        "rel": 4,
+        "qual": 5,
+        "comment": "ok"
+      },
+      "updatedAt": 1791091966847
+    },
+    "109": {
+      "jev": {
+        "rel": 4,
+        "qual": 2,
+        "comment": "restates archive gap and self-reference; add Ennore event context"
+      },
+      "updatedAt": 1791091966847
+    },
+    "110": {
+      "jev": {
+        "rel": 4,
+        "qual": 5,
+        "comment": "ok"
+      },
+      "updatedAt": 1791091966847
+    },
+    "111": {
+      "jev": {
+        "rel": 3,
+        "qual": 4,
+        "comment": "ok"
+      },
+      "updatedAt": 1791091966847
+    },
+    "112": {
+      "jev": {
+        "rel": 4,
+        "qual": 3,
+        "comment": "add what the SOP requires the control room to do"
+      },
+      "updatedAt": 1791091966847
+    },
+    "113": {
+      "jev": {
+        "rel": 3,
+        "qual": 3,
+        "comment": "ok"
+      },
+      "updatedAt": 1791091966847
+    },
+    "114": {
+      "jev": {
+        "rel": 4,
+        "qual": 4,
+        "comment": "ok"
+      },
+      "updatedAt": 1791091966847
+    },
+    "115": {
+      "jev": {
+        "rel": 2,
+        "qual": 3,
+        "comment": "own-process question; the answer itself is fine"
+      },
+      "updatedAt": 1791091966847
+    },
+    "116": {
+      "jev": {
+        "rel": 4,
+        "qual": 4,
+        "comment": "ok"
+      },
+      "updatedAt": 1791091966847
+    },
+    "117": {
+      "jev": {
+        "rel": 4,
+        "qual": 4,
+        "comment": "ok"
+      },
+      "updatedAt": 1791091966847
+    },
+    "118": {
+      "jev": {
+        "rel": 4,
+        "qual": 4,
+        "comment": "ok"
+      },
+      "updatedAt": 1791091966847
+    },
+    "119": {
+      "jev": {
+        "rel": 3,
+        "qual": 3,
+        "comment": "ok"
+      },
+      "updatedAt": 1791091966847
+    },
+    "120": {
+      "jev": {
+        "rel": 4,
+        "qual": 5,
+        "comment": "ok"
+      },
+      "updatedAt": 1791091966847
+    },
+    "121": {
+      "jev": {
+        "rel": 5,
+        "qual": 2,
+        "comment": "pointer only; no figures, no filing status"
+      },
+      "updatedAt": 1791091966847
+    },
+    "122": {
+      "jev": {
+        "rel": 5,
+        "qual": 3,
+        "comment": "ok; quantify the unresolved liability if possible"
+      },
+      "updatedAt": 1791091966847
+    },
+    "123": {
+      "jev": {
+        "rel": 3,
+        "qual": 4,
+        "comment": "ok"
+      },
+      "updatedAt": 1791091966847
+    },
+    "124": {
+      "jev": {
+        "rel": 4,
+        "qual": 3,
+        "comment": "ok; note what was searched"
+      },
+      "updatedAt": 1791091966847
+    },
+    "125": {
+      "jev": {
+        "rel": 4,
+        "qual": 2,
+        "comment": "thin; stray ---; state basis for negative"
+      },
+      "updatedAt": 1791091966847
+    },
+    "126": {
+      "jev": {
+        "rel": 5,
+        "qual": 4,
+        "comment": "ok"
+      },
+      "updatedAt": 1791091966847
+    },
+    "127": {
+      "jev": {
+        "rel": 3,
+        "qual": 4,
+        "comment": "ok; spell out HMCR on first use"
+      },
+      "updatedAt": 1791091966847
+    },
+    "128": {
+      "jev": {
+        "rel": 5,
+        "qual": 3,
+        "comment": "ok; name sources checked"
+      },
+      "updatedAt": 1791091966847
+    },
+    "129": {
+      "jev": {
+        "rel": 4,
+        "qual": 5,
+        "comment": "ok"
+      },
+      "updatedAt": 1791091966847
+    },
+    "130": {
+      "jev": {
+        "rel": 4,
+        "qual": 3,
+        "comment": "ok"
+      },
+      "updatedAt": 1791091966847
+    },
+    "131": {
+      "jev": {
+        "rel": 5,
+        "qual": 3,
+        "comment": "ok; drop bold markup"
+      },
+      "updatedAt": 1791091966847
+    },
+    "132": {
+      "jev": {
+        "rel": 5,
+        "qual": 4,
+        "comment": "ok"
+      },
+      "updatedAt": 1791091966847
+    },
+    "133": {
+      "jev": {
+        "rel": 5,
+        "qual": 3,
+        "comment": "ok; name the RTI target for ledger split"
+      },
+      "updatedAt": 1791091966847
+    },
+    "134": {
+      "jev": {
+        "rel": 3,
+        "qual": 3,
+        "comment": "ok"
+      },
+      "updatedAt": 1791091966847
+    },
+    "135": {
+      "jev": {
+        "rel": 4,
+        "qual": 2,
+        "comment": "thin; stray ---; define sweep scope"
+      },
+      "updatedAt": 1791091966847
+    },
+    "136": {
+      "jev": {
+        "rel": 3,
+        "qual": 4,
+        "comment": "ok"
+      },
+      "updatedAt": 1791091966847
+    },
+    "137": {
+      "jev": {
+        "rel": 3,
+        "qual": 4,
+        "comment": "ok"
+      },
+      "updatedAt": 1791091966847
+    },
+    "138": {
+      "jev": {
+        "rel": 3,
+        "qual": 5,
+        "comment": "ok"
+      },
+      "updatedAt": 1791091966847
+    },
+    "139": {
+      "jev": {
+        "rel": 2,
+        "qual": 4,
+        "comment": "ok"
+      },
+      "updatedAt": 1791091966847
+    },
+    "140": {
+      "jev": {
+        "rel": 3,
+        "qual": 4,
+        "comment": "ok"
+      },
+      "updatedAt": 1791091966847
+    },
+    "141": {
+      "jev": {
+        "rel": 2,
+        "qual": 2,
+        "comment": "project-mirror pitch, not a finding"
+      },
+      "updatedAt": 1791091966847
+    },
+    "142": {
+      "jev": {
+        "rel": 2,
+        "qual": 2,
+        "comment": "assertion without evidence; stray ---"
+      },
+      "updatedAt": 1791091966847
+    },
+    "143": {
+      "jev": {
+        "rel": 4,
+        "qual": 4,
+        "comment": "ok"
+      },
+      "updatedAt": 1791091966847
+    },
+    "144": {
+      "jev": {
+        "rel": 4,
+        "qual": 2,
+        "comment": "thin; name coverage reviewed; no cost research done"
+      },
+      "updatedAt": 1791091966847
+    },
+    "145": {
+      "jev": {
+        "rel": 5,
+        "qual": 4,
+        "comment": "ok"
+      },
+      "updatedAt": 1791091966847
+    },
+    "146": {
+      "jev": {
+        "rel": 5,
+        "qual": 3,
+        "comment": "evasive framing; state what the re-promise supersedes"
+      },
+      "updatedAt": 1791091966847
+    },
+    "147": {
+      "jev": {
+        "rel": 4,
+        "qual": 4,
+        "comment": "ok"
+      },
+      "updatedAt": 1791091966847
+    },
+    "148": {
+      "jev": {
+        "rel": 1,
+        "qual": 2,
+        "comment": "project-process; pointer to own docs"
+      },
+      "updatedAt": 1791091966847
+    },
+    "149": {
+      "jev": {
+        "rel": 5,
+        "qual": 4,
+        "comment": "ok"
+      },
+      "updatedAt": 1791091966847
+    },
+    "150": {
+      "jev": {
+        "rel": 5,
+        "qual": 5,
+        "comment": "ok"
+      },
+      "updatedAt": 1791091966847
+    },
+    "151": {
+      "jev": {
+        "rel": 4,
+        "qual": 3,
+        "comment": "ok; add forecast-zone count/list"
+      },
+      "updatedAt": 1791091966847
+    },
+    "152": {
+      "jev": {
+        "rel": 4,
+        "qual": 2,
+        "comment": "thin; cite basis"
+      },
+      "updatedAt": 1791091966847
+    },
+    "153": {
+      "jev": {
+        "rel": 5,
+        "qual": 4,
+        "comment": "ok"
+      },
+      "updatedAt": 1791091966847
+    },
+    "154": {
+      "jev": {
+        "rel": 3,
+        "qual": 2,
+        "comment": "thin; no basis given"
+      },
+      "updatedAt": 1791091966847
+    },
+    "155": {
+      "jev": {
+        "rel": 4,
+        "qual": 4,
+        "comment": "ok"
+      },
+      "updatedAt": 1791091966847
+    },
+    "156": {
+      "jev": {
+        "rel": 5,
+        "qual": 4,
+        "comment": "ok"
+      },
+      "updatedAt": 1791091966847
+    },
+    "157": {
+      "jev": {
+        "rel": 4,
+        "qual": 4,
+        "comment": "ok"
+      },
+      "updatedAt": 1791091966847
+    },
+    "158": {
+      "jev": {
+        "rel": 4,
+        "qual": 2,
+        "comment": "thin; stray ---; pointer without content"
+      },
+      "updatedAt": 1791091966847
+    },
+    "159": {
+      "jev": {
+        "rel": 3,
+        "qual": 3,
+        "comment": "ok; cite public CFLOWS figures if available"
+      },
+      "updatedAt": 1791091966847
+    },
+    "160": {
+      "jev": {
+        "rel": 2,
+        "qual": 2,
+        "comment": "thin; add KEWS scope/cost"
+      },
+      "updatedAt": 1791091966847
+    },
+    "161": {
+      "jev": {
+        "rel": 2,
+        "qual": 3,
+        "comment": "thin comparison; name Bengaluru's actual alert systems with sources"
+      },
+      "updatedAt": 1791091966847
+    },
+    "162": {
+      "jev": {
+        "rel": 3,
+        "qual": 3,
+        "comment": "names jurisdictions, not systems; cite UK EA, Japan JMA examples"
+      },
+      "updatedAt": 1791091966847
+    },
+    "163": {
+      "jev": {
+        "rel": 5,
+        "qual": 3,
+        "comment": "honest deferral; sketch cost-per-outcome framework for when verification lands"
+      },
+      "updatedAt": 1791091966847
+    },
+    "164": {
+      "jev": {
+        "rel": 4,
+        "qual": 2,
+        "comment": "counterfactual still queued; deliver unit-rate numbers, not plan references"
+      },
+      "updatedAt": 1791091966847
+    },
+    "165": {
+      "jev": {
+        "rel": 2,
+        "qual": 4,
+        "comment": "ok"
+      },
+      "updatedAt": 1791091966847
+    },
+    "166": {
+      "jev": {
+        "rel": 4,
+        "qual": 4,
+        "comment": "ok"
+      },
+      "updatedAt": 1791091966847
+    },
+    "167": {
+      "jev": {
+        "rel": 4,
+        "qual": 4,
+        "comment": "ok"
+      },
+      "updatedAt": 1791091966847
+    },
+    "168": {
+      "jev": {
+        "rel": 3,
+        "qual": 2,
+        "comment": "promised explainer isn't content; explain bulletin sections now"
+      },
+      "updatedAt": 1791091966847
+    },
+    "169": {
+      "jev": {
+        "rel": 5,
+        "qual": 4,
+        "comment": "ok"
+      },
+      "updatedAt": 1791091966847
+    },
+    "170": {
+      "jev": {
+        "rel": 4,
+        "qual": 4,
+        "comment": "ok"
+      },
+      "updatedAt": 1791091966847
+    },
+    "171": {
+      "jev": {
+        "rel": 4,
+        "qual": 3,
+        "comment": "honest gap; propose RTI or validation test to close it"
+      },
+      "updatedAt": 1791091966847
+    },
+    "172": {
+      "jev": {
+        "rel": 3,
+        "qual": 4,
+        "comment": "ok"
+      },
+      "updatedAt": 1791091966847
+    },
+    "173": {
+      "jev": {
+        "rel": 3,
+        "qual": 4,
+        "comment": "ok"
+      },
+      "updatedAt": 1791091966847
+    },
+    "174": {
+      "jev": {
+        "rel": 2,
+        "qual": 4,
+        "comment": "ok"
+      },
+      "updatedAt": 1791091966847
+    },
+    "175": {
+      "jev": {
+        "rel": 4,
+        "qual": 4,
+        "comment": "ok"
+      },
+      "updatedAt": 1791091966847
+    },
+    "176": {
+      "jev": {
+        "rel": 4,
+        "qual": 4,
+        "comment": "ok"
+      },
+      "updatedAt": 1791091966847
+    },
+    "177": {
+      "jev": {
+        "rel": 5,
+        "qual": 5,
+        "comment": "ok"
+      },
+      "updatedAt": 1791091966847
+    },
+    "178": {
+      "jev": {
+        "rel": 4,
+        "qual": 3,
+        "comment": "add PIO designations, addresses, filing specifics"
+      },
+      "updatedAt": 1791091966847
+    },
+    "179": {
+      "jev": {
+        "rel": 4,
+        "qual": 4,
+        "comment": "ok"
+      },
+      "updatedAt": 1791091966847
+    },
+    "180": {
+      "jev": {
+        "rel": 4,
+        "qual": 4,
+        "comment": "ok"
+      },
+      "updatedAt": 1791091966847
+    },
+    "181": {
+      "jev": {
+        "rel": 4,
+        "qual": 4,
+        "comment": "note Inspection Panel eligibility limits: affected people, harm link to project"
+      },
+      "updatedAt": 1791091966847
+    },
+    "182": {
+      "jev": {
+        "rel": 5,
+        "qual": 4,
+        "comment": "ok"
+      },
+      "updatedAt": 1791091966847
+    },
+    "183": {
+      "jev": {
+        "rel": 3,
+        "qual": 2,
+        "comment": "sweep pending, no content; run assembly Q&A before publishing"
+      },
+      "updatedAt": 1791091966847
+    },
+    "184": {
+      "jev": {
+        "rel": 3,
+        "qual": 3,
+        "comment": "ground 'gap' claim with named launch coverage examples"
+      },
+      "updatedAt": 1791091966847
+    },
+    "185": {
+      "jev": {
+        "rel": 2,
+        "qual": 3,
+        "comment": "self-referential; add licence and citation format"
+      },
+      "updatedAt": 1791091966847
+    },
+    "186": {
+      "jev": {
+        "rel": 3,
+        "qual": 4,
+        "comment": "ok"
+      },
+      "updatedAt": 1791091966847
+    },
+    "187": {
+      "jev": {
+        "rel": 5,
+        "qual": 4,
+        "comment": "ok"
+      },
+      "updatedAt": 1791091966847
+    },
+    "188": {
+      "jev": {
+        "rel": 2,
+        "qual": 3,
+        "comment": "self-referential; add government-side indicators, not just project outputs"
+      },
+      "updatedAt": 1791091966847
+    },
+    "189": {
+      "jev": {
+        "rel": 3,
+        "qual": 4,
+        "comment": "ok"
+      },
+      "updatedAt": 1791091966847
+    },
+    "190": {
+      "jev": {
+        "rel": 2,
+        "qual": 3,
+        "comment": "scope-clarifier; tangential to flood accountability"
+      },
+      "updatedAt": 1791091966847
+    },
+    "191": {
+      "jev": {
+        "rel": 3,
+        "qual": 3,
+        "comment": "state unknown honestly, then file RTI for privacy policy"
+      },
+      "updatedAt": 1791091966847
+    },
+    "192": {
+      "jev": {
+        "rel": 3,
+        "qual": 4,
+        "comment": "overlaps item 170; adds date range"
+      },
+      "updatedAt": 1791091966847
+    },
+    "193": {
+      "jev": {
+        "rel": 3,
+        "qual": 4,
+        "comment": "ok"
+      },
+      "updatedAt": 1791091966847
+    },
+    "194": {
+      "jev": {
+        "rel": 4,
+        "qual": 4,
+        "comment": "ok"
+      },
+      "updatedAt": 1791091966847
+    },
+    "195": {
+      "jev": {
+        "rel": 3,
+        "qual": 3,
+        "comment": "cite wetland-loss studies to ground 'partially'"
+      },
+      "updatedAt": 1791091966847
+    },
+    "196": {
+      "jev": {
+        "rel": 4,
+        "qual": 4,
+        "comment": "ok"
+      },
+      "updatedAt": 1791091966847
+    },
+    "197": {
+      "jev": {
+        "rel": 4,
+        "qual": 3,
+        "comment": "gives completion claim, not process; name desilting agencies and schedule"
+      },
+      "updatedAt": 1791091966847
+    },
+    "198": {
+      "jev": {
+        "rel": 3,
+        "qual": 3,
+        "comment": "add NGT order specifics and marsh-loss figures"
+      },
+      "updatedAt": 1791091966847
+    },
+    "199": {
+      "jev": {
+        "rel": 4,
+        "qual": 4,
+        "comment": "ok"
+      },
+      "updatedAt": 1791091966847
+    },
+    "200": {
+      "jev": {
+        "rel": 4,
+        "qual": 4,
+        "comment": "ok"
+      },
+      "updatedAt": 1791091966847
+    }
+  },
+  "updatedAt": "2026-10-04T05:32:46Z",
   "1": {
-   "rel": 5,
-   "updatedAt": 1791091966847,
-   "qual": 2,
-   "comment": "Add state of  RTFF and  SDSS and its possibilities",
-   "jev": {
     "rel": 4,
     "qual": 3,
     "comment": "Decent orientation; add one concrete capability example instead of REPORT pointer"
-   }
   },
   "2": {
-   "rel": 5,
-   "updatedAt": 1791091966847,
-   "qual": 4,
-   "jev": {
     "rel": 5,
     "qual": 4,
     "comment": "ok"
-   }
   },
   "3": {
-   "qual": 5,
-   "updatedAt": 1791091966847,
-   "rel": 4,
-   "jev": {
     "rel": 3,
     "qual": 4,
     "comment": "ok"
-   }
   },
   "4": {
-   "rel": 4,
-   "updatedAt": 1791091966847,
-   "qual": 4,
-   "comment": "",
-   "jev": {
     "rel": 4,
     "qual": 4,
     "comment": "ok"
-   }
   },
   "5": {
-   "rel": 4,
-   "updatedAt": 1791091966847,
-   "qual": 3,
-   "jev": {
     "rel": 2,
     "qual": 3,
     "comment": "Name the competing 'first' claims explicitly; low accountability weight"
-   }
   },
   "6": {
-   "jev": {
     "rel": 5,
     "qual": 4,
     "comment": "Explain what would publicly verify prediction; mirror self-reference unclear to outsiders"
-   },
-   "updatedAt": 1791091966847
   },
   "7": {
-   "jev": {
     "rel": 4,
     "qual": 4,
     "comment": "ok"
-   },
-   "updatedAt": 1791091966847
   },
   "8": {
-   "jev": {
     "rel": 3,
     "qual": 2,
     "comment": "Pull actual per-ward station counts from the dataset instead of deferring readers there"
-   },
-   "updatedAt": 1791091966847
   },
   "9": {
-   "jev": {
     "rel": 5,
     "qual": 4,
     "comment": "ok"
-   },
-   "updatedAt": 1791091966847
   },
   "10": {
-   "jev": {
     "rel": 4,
     "qual": 3,
     "comment": "Inline the delay reasons; ELI10 pointer carries no content"
-   },
-   "updatedAt": 1791091966847
   },
   "11": {
-   "jev": {
     "rel": 5,
     "qual": 3,
     "comment": "Press-only figure; seek a government-side corroboration"
-   },
-   "updatedAt": 1791091966847
   },
   "12": {
-   "jev": {
     "rel": 5,
     "qual": 5,
     "comment": "ok"
-   },
-   "updatedAt": 1791091966847
   },
   "13": {
-   "jev": {
     "rel": 5,
     "qual": 4,
     "comment": "ok"
-   },
-   "updatedAt": 1791091966847
   },
   "14": {
-   "jev": {
     "rel": 4,
     "qual": 4,
     "comment": "ok"
-   },
-   "updatedAt": 1791091966847
   },
   "15": {
-   "jev": {
     "rel": 3,
     "qual": 4,
     "comment": "ok"
-   },
-   "updatedAt": 1791091966847
   },
   "16": {
-   "jev": {
     "rel": 5,
     "qual": 3,
     "comment": "ok"
-   },
-   "updatedAt": 1791091966847
   },
   "17": {
-   "jev": {
     "rel": 3,
     "qual": 4,
     "comment": "ok"
-   },
-   "updatedAt": 1791091966847
   },
   "18": {
-   "jev": {
     "rel": 3,
     "qual": 4,
     "comment": "ok"
-   },
-   "updatedAt": 1791091966847
   },
   "19": {
-   "jev": {
     "rel": 4,
     "qual": 5,
     "comment": "ok"
-   },
-   "updatedAt": 1791091966847
   },
   "20": {
-   "jev": {
     "rel": 5,
     "qual": 3,
     "comment": "State QCBS definition and why direct selection would matter"
-   },
-   "updatedAt": 1791091966847
   },
   "21": {
-   "jev": {
     "rel": 5,
     "qual": 3,
     "comment": "Quantify consequence: who pays repairs after warranty lapses"
-   },
-   "updatedAt": 1791091966847
   },
   "22": {
-   "jev": {
     "rel": 4,
     "qual": 4,
     "comment": "ok"
-   },
-   "updatedAt": 1791091966847
   },
   "23": {
-   "jev": {
     "rel": 4,
     "qual": 3,
     "comment": "Name the remaining aftercare tranches and amounts"
-   },
-   "updatedAt": 1791091966847
   },
   "24": {
-   "jev": {
     "rel": 5,
     "qual": 4,
     "comment": "ok"
-   },
-   "updatedAt": 1791091966847
   },
   "25": {
-   "jev": {
     "rel": 3,
     "qual": 4,
     "comment": "ok"
-   },
-   "updatedAt": 1791091966847
   },
   "26": {
-   "jev": {
     "rel": 3,
     "qual": 3,
     "comment": "Fetch the actual rate from the published loan agreement"
-   },
-   "updatedAt": 1791091966847
   },
   "27": {
-   "jev": {
     "rel": 3,
     "qual": 4,
     "comment": "ok"
-   },
-   "updatedAt": 1791091966847
   },
   "28": {
-   "jev": {
     "rel": 3,
     "qual": 4,
     "comment": "ok"
-   },
-   "updatedAt": 1791091966847
   },
   "29": {
-   "jev": {
     "rel": 5,
     "qual": 3,
     "comment": "Good RTI/watch target; add what DLR verification would look like"
-   },
-   "updatedAt": 1791091966847
   },
   "30": {
-   "jev": {
     "rel": 4,
     "qual": 4,
     "comment": "ok"
-   },
-   "updatedAt": 1791091966847
   },
   "31": {
-   "jev": {
     "rel": 3,
     "qual": 4,
     "comment": "ok"
-   },
-   "updatedAt": 1791091966847
   },
   "32": {
-   "jev": {
     "rel": 4,
     "qual": 3,
     "comment": "Add filing route and any India precedent complaints"
-   },
-   "updatedAt": 1791091966847
   },
   "33": {
-   "jev": {
     "rel": 3,
     "qual": 3,
     "comment": "List a few named assignments to show the pattern"
-   },
-   "updatedAt": 1791091966847
   },
   "34": {
-   "jev": {
     "rel": 4,
     "qual": 4,
     "comment": "ok"
-   },
-   "updatedAt": 1791091966847
   },
   "35": {
-   "jev": {
     "rel": 4,
     "qual": 3,
     "comment": "Add firm size, other government contracts, track record"
-   },
-   "updatedAt": 1791091966847
   },
   "36": {
-   "jev": {
     "rel": 4,
     "qual": 4,
     "comment": "Insurance-industry parent angle deserves a conflict-of-interest sentence"
-   },
-   "updatedAt": 1791091966847
   },
   "37": {
-   "jev": {
     "rel": 5,
     "qual": 3,
     "comment": "ok"
-   },
-   "updatedAt": 1791091966847
   },
   "38": {
-   "jev": {
     "rel": 3,
     "qual": 2,
     "comment": "Name the AMC vendors and sensor suppliers from mirrored registries, not file pointers"
-   },
-   "updatedAt": 1791091966847
   },
   "39": {
-   "jev": {
     "rel": 4,
     "qual": 3,
     "comment": "Add engagement duration and deliverables if obtainable via RTI"
-   },
-   "updatedAt": 1791091966847
   },
   "40": {
-   "jev": {
     "rel": 4,
     "qual": 4,
     "comment": "ok"
-   },
-   "updatedAt": 1791091966847
   },
   "41": {
-   "jev": {
     "rel": 5,
     "qual": 2,
     "comment": "States gap but defers to internal audit plan; add known AMC lapse examples."
-   },
-   "updatedAt": 1791091966847
   },
   "42": {
-   "jev": {
     "rel": 5,
     "qual": 3,
     "comment": "Adequate; add tender counts, dates, and examples of missing contracts."
-   },
-   "updatedAt": 1791091966847
   },
   "43": {
-   "jev": {
     "rel": 4,
     "qual": 2,
     "comment": "Bare negative; state where you searched and WB disclosure norms."
-   },
-   "updatedAt": 1791091966847
   },
   "44": {
-   "jev": {
     "rel": 4,
     "qual": 2,
     "comment": "Pure RTI placeholder; include any contract clause evidence already gathered."
-   },
-   "updatedAt": 1791091966847
   },
   "45": {
-   "jev": {
     "rel": 3,
     "qual": 2,
     "comment": "Watch-note only; name JV, IFMC scope, and procurement references."
-   },
-   "updatedAt": 1791091966847
   },
   "46": {
-   "jev": {
     "rel": 4,
     "qual": 5,
     "comment": "ok"
-   },
-   "updatedAt": 1791091966847
   },
   "47": {
-   "jev": {
     "rel": 5,
     "qual": 4,
     "comment": "Good; clarify scope — 38 dashboard stations vs 328+ registry sensors."
-   },
-   "updatedAt": 1791091966847
   },
   "48": {
-   "jev": {
     "rel": 5,
     "qual": 5,
     "comment": "ok"
-   },
-   "updatedAt": 1791091966847
   },
   "49": {
-   "jev": {
     "rel": 4,
     "qual": 4,
     "comment": "ok"
-   },
-   "updatedAt": 1791091966847
   },
   "50": {
-   "jev": {
     "rel": 3,
     "qual": 4,
     "comment": "ok"
-   },
-   "updatedAt": 1791091966847
   },
   "51": {
-   "jev": {
     "rel": 2,
     "qual": 4,
     "comment": "ok"
-   },
-   "updatedAt": 1791091966847
   },
   "52": {
-   "jev": {
     "rel": 4,
     "qual": 4,
     "comment": "ok"
-   },
-   "updatedAt": 1791091966847
   },
   "53": {
-   "jev": {
     "rel": 3,
     "qual": 3,
     "comment": "Pointer-style; name the five districts and give a lookup example."
-   },
-   "updatedAt": 1791091966847
   },
   "54": {
-   "jev": {
     "rel": 5,
     "qual": 4,
     "comment": "Good specific example; trim self-referential closer, add observation date."
-   },
-   "updatedAt": 1791091966847
   },
   "55": {
-   "jev": {
     "rel": 4,
     "qual": 3,
     "comment": "ok"
-   },
-   "updatedAt": 1791091966847
   },
   "56": {
-   "jev": {
     "rel": 4,
     "qual": 3,
     "comment": "ok"
-   },
-   "updatedAt": 1791091966847
   },
   "57": {
-   "jev": {
     "rel": 3,
     "qual": 4,
     "comment": "ok"
-   },
-   "updatedAt": 1791091966847
   },
   "58": {
-   "jev": {
     "rel": 4,
     "qual": 5,
     "comment": "ok"
-   },
-   "updatedAt": 1791091966847
   },
   "59": {
-   "jev": {
     "rel": 3,
     "qual": 4,
     "comment": "ok"
-   },
-   "updatedAt": 1791091966847
   },
   "60": {
-   "jev": {
     "rel": 4,
     "qual": 3,
     "comment": "'Compute it yourself' deflects; give a one-line density sketch per district."
-   },
-   "updatedAt": 1791091966847
   },
   "61": {
-   "jev": {
     "rel": 5,
     "qual": 5,
     "comment": "ok"
-   },
-   "updatedAt": 1791091966847
   },
   "62": {
-   "jev": {
     "rel": 4,
     "qual": 4,
     "comment": "ok"
-   },
-   "updatedAt": 1791091966847
   },
   "63": {
-   "jev": {
     "rel": 4,
     "qual": 4,
     "comment": "ok"
-   },
-   "updatedAt": 1791091966847
   },
   "64": {
-   "jev": {
     "rel": 3,
     "qual": 4,
     "comment": "ok"
-   },
-   "updatedAt": 1791091966847
   },
   "65": {
-   "jev": {
     "rel": 2,
     "qual": 4,
     "comment": "ok"
-   },
-   "updatedAt": 1791091966847
   },
   "66": {
-   "jev": {
     "rel": 2,
     "qual": 5,
     "comment": "ok"
-   },
-   "updatedAt": 1791091966847
   },
   "67": {
-   "jev": {
     "rel": 2,
     "qual": 4,
     "comment": "ok"
-   },
-   "updatedAt": 1791091966847
   },
   "68": {
-   "jev": {
     "rel": 1,
     "qual": 3,
     "comment": "ok"
-   },
-   "updatedAt": 1791091966847
   },
   "69": {
-   "jev": {
     "rel": 2,
     "qual": 4,
     "comment": "ok"
-   },
-   "updatedAt": 1791091966847
   },
   "70": {
-   "jev": {
     "rel": 3,
     "qual": 3,
     "comment": "ok"
-   },
-   "updatedAt": 1791091966847
   },
   "71": {
-   "jev": {
     "rel": 4,
     "qual": 5,
     "comment": "ok"
-   },
-   "updatedAt": 1791091966847
   },
   "72": {
-   "jev": {
     "rel": 2,
     "qual": 4,
     "comment": "ok"
-   },
-   "updatedAt": 1791091966847
   },
   "73": {
-   "jev": {
     "rel": 3,
     "qual": 3,
     "comment": "Group counts sum to 199, not 344 — reconcile or note remainder."
-   },
-   "updatedAt": 1791091966847
   },
   "74": {
-   "jev": {
     "rel": 2,
     "qual": 4,
     "comment": "ok"
-   },
-   "updatedAt": 1791091966847
   },
   "75": {
-   "jev": {
     "rel": 5,
     "qual": 4,
     "comment": "Nuanced; sample-check one bulletin's maps against observed rainfall."
-   },
-   "updatedAt": 1791091966847
   },
   "76": {
-   "jev": {
     "rel": 4,
     "qual": 4,
     "comment": "ok"
-   },
-   "updatedAt": 1791091966847
   },
   "77": {
-   "jev": {
     "rel": 3,
     "qual": 4,
     "comment": "ok"
-   },
-   "updatedAt": 1791091966847
   },
   "78": {
-   "jev": {
     "rel": 2,
     "qual": 4,
     "comment": "ok"
-   },
-   "updatedAt": 1791091966847
   },
   "79": {
-   "jev": {
     "rel": 5,
     "qual": 4,
     "comment": "Strong; explain how the archive's absence was verified."
-   },
-   "updatedAt": 1791091966847
   },
   "80": {
-   "jev": {
     "rel": 5,
     "qual": 4,
     "comment": "ok"
-   },
-   "updatedAt": 1791091966847
   },
   "81": {
-   "jev": {
     "rel": 4,
     "qual": 4,
     "comment": "name source for the zone list"
-   },
-   "updatedAt": 1791091966847
   },
   "82": {
-   "jev": {
     "rel": 5,
     "qual": 4,
     "comment": "ok"
-   },
-   "updatedAt": 1791091966847
   },
   "83": {
-   "jev": {
     "rel": 4,
     "qual": 4,
     "comment": "ok"
-   },
-   "updatedAt": 1791091966847
   },
   "84": {
-   "jev": {
     "rel": 4,
     "qual": 4,
     "comment": "ok"
-   },
-   "updatedAt": 1791091966847
   },
   "85": {
-   "jev": {
     "rel": 4,
     "qual": 4,
     "comment": "ok"
-   },
-   "updatedAt": 1791091966847
   },
   "86": {
-   "jev": {
     "rel": 3,
     "qual": 4,
     "comment": "ok"
-   },
-   "updatedAt": 1791091966847
   },
   "87": {
-   "jev": {
     "rel": 5,
     "qual": 4,
     "comment": "ok"
-   },
-   "updatedAt": 1791091966847
   },
   "88": {
-   "jev": {
     "rel": 4,
     "qual": 2,
     "comment": "names layers but no access link or how-to — resident can't actually use it"
-   },
-   "updatedAt": 1791091966847
   },
   "89": {
-   "jev": {
     "rel": 5,
     "qual": 4,
     "comment": "ok"
-   },
-   "updatedAt": 1791091966847
   },
   "90": {
-   "jev": {
     "rel": 4,
     "qual": 2,
     "comment": "too thin — say what was checked; RTI the SMS/dissemination protocol"
-   },
-   "updatedAt": 1791091966847
   },
   "91": {
-   "jev": {
     "rel": 3,
     "qual": 3,
     "comment": "ok"
-   },
-   "updatedAt": 1791091966847
   },
   "92": {
-   "jev": {
     "rel": 4,
     "qual": 4,
     "comment": "ok"
-   },
-   "updatedAt": 1791091966847
   },
   "93": {
-   "jev": {
     "rel": 3,
     "qual": 4,
     "comment": "ok"
-   },
-   "updatedAt": 1791091966847
   },
   "94": {
-   "jev": {
     "rel": 5,
     "qual": 4,
     "comment": "ok"
-   },
-   "updatedAt": 1791091966847
   },
   "95": {
-   "jev": {
     "rel": 3,
     "qual": 3,
     "comment": "ok"
-   },
-   "updatedAt": 1791091966847
   },
   "96": {
-   "jev": {
     "rel": 4,
     "qual": 3,
     "comment": "add what sources were checked for alert-design evidence"
-   },
-   "updatedAt": 1791091966847
   },
   "97": {
-   "jev": {
     "rel": 4,
     "qual": 4,
     "comment": "ok"
-   },
-   "updatedAt": 1791091966847
   },
   "98": {
-   "jev": {
     "rel": 5,
     "qual": 4,
     "comment": "ok"
-   },
-   "updatedAt": 1791091966847
   },
   "99": {
-   "jev": {
     "rel": 4,
     "qual": 2,
     "comment": "one-line negative plus stray '---'; note channels checked and RTI route"
-   },
-   "updatedAt": 1791091966847
   },
   "100": {
-   "jev": {
     "rel": 5,
     "qual": 5,
     "comment": "ok"
-   },
-   "updatedAt": 1791091966847
   },
   "101": {
-   "jev": {
     "rel": 4,
     "qual": 4,
     "comment": "ok"
-   },
-   "updatedAt": 1791091966847
   },
   "102": {
-   "jev": {
     "rel": 4,
     "qual": 3,
     "comment": "ok"
-   },
-   "updatedAt": 1791091966847
   },
   "103": {
-   "jev": {
     "rel": 3,
     "qual": 4,
     "comment": "ok"
-   },
-   "updatedAt": 1791091966847
   },
   "104": {
-   "jev": {
     "rel": 4,
     "qual": 2,
     "comment": "doesn't answer current status — self-referential probe protocol instead"
-   },
-   "updatedAt": 1791091966847
   },
   "105": {
-   "jev": {
     "rel": 4,
     "qual": 3,
     "comment": "plausible but speculative diagnosis; label as inference"
-   },
-   "updatedAt": 1791091966847
   },
   "106": {
-   "jev": {
     "rel": 5,
     "qual": 4,
     "comment": "ok"
-   },
-   "updatedAt": 1791091966847
   },
   "107": {
-   "jev": {
     "rel": 4,
     "qual": 4,
     "comment": "ok"
-   },
-   "updatedAt": 1791091966847
   },
   "108": {
-   "jev": {
     "rel": 4,
     "qual": 5,
     "comment": "ok"
-   },
-   "updatedAt": 1791091966847
   },
   "109": {
-   "jev": {
     "rel": 4,
     "qual": 2,
     "comment": "restates archive gap and self-reference; add Ennore event context"
-   },
-   "updatedAt": 1791091966847
   },
   "110": {
-   "jev": {
     "rel": 4,
     "qual": 5,
     "comment": "ok"
-   },
-   "updatedAt": 1791091966847
   },
   "111": {
-   "jev": {
     "rel": 3,
     "qual": 4,
     "comment": "ok"
-   },
-   "updatedAt": 1791091966847
   },
   "112": {
-   "jev": {
     "rel": 4,
     "qual": 3,
     "comment": "add what the SOP requires the control room to do"
-   },
-   "updatedAt": 1791091966847
   },
   "113": {
-   "jev": {
     "rel": 3,
     "qual": 3,
     "comment": "ok"
-   },
-   "updatedAt": 1791091966847
   },
   "114": {
-   "jev": {
     "rel": 4,
     "qual": 4,
     "comment": "ok"
-   },
-   "updatedAt": 1791091966847
   },
   "115": {
-   "jev": {
     "rel": 2,
     "qual": 3,
     "comment": "own-process question; the answer itself is fine"
-   },
-   "updatedAt": 1791091966847
   },
   "116": {
-   "jev": {
     "rel": 4,
     "qual": 4,
     "comment": "ok"
-   },
-   "updatedAt": 1791091966847
   },
   "117": {
-   "jev": {
     "rel": 4,
     "qual": 4,
     "comment": "ok"
-   },
-   "updatedAt": 1791091966847
   },
   "118": {
-   "jev": {
     "rel": 4,
     "qual": 4,
     "comment": "ok"
-   },
-   "updatedAt": 1791091966847
   },
   "119": {
-   "jev": {
     "rel": 3,
     "qual": 3,
     "comment": "ok"
-   },
-   "updatedAt": 1791091966847
   },
   "120": {
-   "jev": {
     "rel": 4,
     "qual": 5,
     "comment": "ok"
-   },
-   "updatedAt": 1791091966847
   },
   "121": {
-   "jev": {
     "rel": 5,
     "qual": 2,
     "comment": "pointer only; no figures, no filing status"
-   },
-   "updatedAt": 1791091966847
   },
   "122": {
-   "jev": {
     "rel": 5,
     "qual": 3,
     "comment": "ok; quantify the unresolved liability if possible"
-   },
-   "updatedAt": 1791091966847
   },
   "123": {
-   "jev": {
     "rel": 3,
     "qual": 4,
     "comment": "ok"
-   },
-   "updatedAt": 1791091966847
   },
   "124": {
-   "jev": {
     "rel": 4,
     "qual": 3,
     "comment": "ok; note what was searched"
-   },
-   "updatedAt": 1791091966847
   },
   "125": {
-   "jev": {
     "rel": 4,
     "qual": 2,
     "comment": "thin; stray ---; state basis for negative"
-   },
-   "updatedAt": 1791091966847
   },
   "126": {
-   "jev": {
     "rel": 5,
     "qual": 4,
     "comment": "ok"
-   },
-   "updatedAt": 1791091966847
   },
   "127": {
-   "jev": {
     "rel": 3,
     "qual": 4,
     "comment": "ok; spell out HMCR on first use"
-   },
-   "updatedAt": 1791091966847
   },
   "128": {
-   "jev": {
     "rel": 5,
     "qual": 3,
     "comment": "ok; name sources checked"
-   },
-   "updatedAt": 1791091966847
   },
   "129": {
-   "jev": {
     "rel": 4,
     "qual": 5,
     "comment": "ok"
-   },
-   "updatedAt": 1791091966847
   },
   "130": {
-   "jev": {
     "rel": 4,
     "qual": 3,
     "comment": "ok"
-   },
-   "updatedAt": 1791091966847
   },
   "131": {
-   "jev": {
     "rel": 5,
     "qual": 3,
     "comment": "ok; drop bold markup"
-   },
-   "updatedAt": 1791091966847
   },
   "132": {
-   "jev": {
     "rel": 5,
     "qual": 4,
     "comment": "ok"
-   },
-   "updatedAt": 1791091966847
   },
   "133": {
-   "jev": {
     "rel": 5,
     "qual": 3,
     "comment": "ok; name the RTI target for ledger split"
-   },
-   "updatedAt": 1791091966847
   },
   "134": {
-   "jev": {
     "rel": 3,
     "qual": 3,
     "comment": "ok"
-   },
-   "updatedAt": 1791091966847
   },
   "135": {
-   "jev": {
     "rel": 4,
     "qual": 2,
     "comment": "thin; stray ---; define sweep scope"
-   },
-   "updatedAt": 1791091966847
   },
   "136": {
-   "jev": {
     "rel": 3,
     "qual": 4,
     "comment": "ok"
-   },
-   "updatedAt": 1791091966847
   },
   "137": {
-   "jev": {
     "rel": 3,
     "qual": 4,
     "comment": "ok"
-   },
-   "updatedAt": 1791091966847
   },
   "138": {
-   "jev": {
     "rel": 3,
     "qual": 5,
     "comment": "ok"
-   },
-   "updatedAt": 1791091966847
   },
   "139": {
-   "jev": {
     "rel": 2,
     "qual": 4,
     "comment": "ok"
-   },
-   "updatedAt": 1791091966847
   },
   "140": {
-   "jev": {
     "rel": 3,
     "qual": 4,
     "comment": "ok"
-   },
-   "updatedAt": 1791091966847
   },
   "141": {
-   "jev": {
     "rel": 2,
     "qual": 2,
     "comment": "project-mirror pitch, not a finding"
-   },
-   "updatedAt": 1791091966847
   },
   "142": {
-   "jev": {
     "rel": 2,
     "qual": 2,
     "comment": "assertion without evidence; stray ---"
-   },
-   "updatedAt": 1791091966847
   },
   "143": {
-   "jev": {
     "rel": 4,
     "qual": 4,
     "comment": "ok"
-   },
-   "updatedAt": 1791091966847
   },
   "144": {
-   "jev": {
     "rel": 4,
     "qual": 2,
     "comment": "thin; name coverage reviewed; no cost research done"
-   },
-   "updatedAt": 1791091966847
   },
   "145": {
-   "jev": {
     "rel": 5,
     "qual": 4,
     "comment": "ok"
-   },
-   "updatedAt": 1791091966847
   },
   "146": {
-   "jev": {
     "rel": 5,
     "qual": 3,
     "comment": "evasive framing; state what the re-promise supersedes"
-   },
-   "updatedAt": 1791091966847
   },
   "147": {
-   "jev": {
     "rel": 4,
     "qual": 4,
     "comment": "ok"
-   },
-   "updatedAt": 1791091966847
   },
   "148": {
-   "jev": {
     "rel": 1,
     "qual": 2,
     "comment": "project-process; pointer to own docs"
-   },
-   "updatedAt": 1791091966847
   },
   "149": {
-   "jev": {
     "rel": 5,
     "qual": 4,
     "comment": "ok"
-   },
-   "updatedAt": 1791091966847
   },
   "150": {
-   "jev": {
     "rel": 5,
     "qual": 5,
     "comment": "ok"
-   },
-   "updatedAt": 1791091966847
   },
   "151": {
-   "jev": {
     "rel": 4,
     "qual": 3,
     "comment": "ok; add forecast-zone count/list"
-   },
-   "updatedAt": 1791091966847
   },
   "152": {
-   "jev": {
     "rel": 4,
     "qual": 2,
     "comment": "thin; cite basis"
-   },
-   "updatedAt": 1791091966847
   },
   "153": {
-   "jev": {
     "rel": 5,
     "qual": 4,
     "comment": "ok"
-   },
-   "updatedAt": 1791091966847
   },
   "154": {
-   "jev": {
     "rel": 3,
     "qual": 2,
     "comment": "thin; no basis given"
-   },
-   "updatedAt": 1791091966847
   },
   "155": {
-   "jev": {
     "rel": 4,
     "qual": 4,
     "comment": "ok"
-   },
-   "updatedAt": 1791091966847
   },
   "156": {
-   "jev": {
     "rel": 5,
     "qual": 4,
     "comment": "ok"
-   },
-   "updatedAt": 1791091966847
   },
   "157": {
-   "jev": {
     "rel": 4,
     "qual": 4,
     "comment": "ok"
-   },
-   "updatedAt": 1791091966847
   },
   "158": {
-   "jev": {
     "rel": 4,
     "qual": 2,
     "comment": "thin; stray ---; pointer without content"
-   },
-   "updatedAt": 1791091966847
   },
   "159": {
-   "jev": {
     "rel": 3,
     "qual": 3,
     "comment": "ok; cite public CFLOWS figures if available"
-   },
-   "updatedAt": 1791091966847
   },
   "160": {
-   "jev": {
     "rel": 2,
     "qual": 2,
     "comment": "thin; add KEWS scope/cost"
-   },
-   "updatedAt": 1791091966847
   },
   "161": {
-   "jev": {
     "rel": 2,
     "qual": 3,
     "comment": "thin comparison; name Bengaluru's actual alert systems with sources"
-   },
-   "updatedAt": 1791091966847
   },
   "162": {
-   "jev": {
     "rel": 3,
     "qual": 3,
     "comment": "names jurisdictions, not systems; cite UK EA, Japan JMA examples"
-   },
-   "updatedAt": 1791091966847
   },
   "163": {
-   "jev": {
     "rel": 5,
     "qual": 3,
     "comment": "honest deferral; sketch cost-per-outcome framework for when verification lands"
-   },
-   "updatedAt": 1791091966847
   },
   "164": {
-   "jev": {
     "rel": 4,
     "qual": 2,
     "comment": "counterfactual still queued; deliver unit-rate numbers, not plan references"
-   },
-   "updatedAt": 1791091966847
   },
   "165": {
-   "jev": {
     "rel": 2,
     "qual": 4,
     "comment": "ok"
-   },
-   "updatedAt": 1791091966847
   },
   "166": {
-   "jev": {
     "rel": 4,
     "qual": 4,
     "comment": "ok"
-   },
-   "updatedAt": 1791091966847
   },
   "167": {
-   "jev": {
     "rel": 4,
     "qual": 4,
     "comment": "ok"
-   },
-   "updatedAt": 1791091966847
   },
   "168": {
-   "jev": {
     "rel": 3,
     "qual": 2,
     "comment": "promised explainer isn't content; explain bulletin sections now"
-   },
-   "updatedAt": 1791091966847
   },
   "169": {
-   "jev": {
     "rel": 5,
     "qual": 4,
     "comment": "ok"
-   },
-   "updatedAt": 1791091966847
   },
   "170": {
-   "jev": {
     "rel": 4,
     "qual": 4,
     "comment": "ok"
-   },
-   "updatedAt": 1791091966847
   },
   "171": {
-   "jev": {
     "rel": 4,
     "qual": 3,
     "comment": "honest gap; propose RTI or validation test to close it"
-   },
-   "updatedAt": 1791091966847
   },
   "172": {
-   "jev": {
     "rel": 3,
     "qual": 4,
     "comment": "ok"
-   },
-   "updatedAt": 1791091966847
   },
   "173": {
-   "jev": {
     "rel": 3,
     "qual": 4,
     "comment": "ok"
-   },
-   "updatedAt": 1791091966847
   },
   "174": {
-   "jev": {
     "rel": 2,
     "qual": 4,
     "comment": "ok"
-   },
-   "updatedAt": 1791091966847
   },
   "175": {
-   "jev": {
     "rel": 4,
     "qual": 4,
     "comment": "ok"
-   },
-   "updatedAt": 1791091966847
   },
   "176": {
-   "jev": {
     "rel": 4,
     "qual": 4,
     "comment": "ok"
-   },
-   "updatedAt": 1791091966847
   },
   "177": {
-   "jev": {
     "rel": 5,
     "qual": 5,
     "comment": "ok"
-   },
-   "updatedAt": 1791091966847
   },
   "178": {
-   "jev": {
     "rel": 4,
     "qual": 3,
     "comment": "add PIO designations, addresses, filing specifics"
-   },
-   "updatedAt": 1791091966847
   },
   "179": {
-   "jev": {
     "rel": 4,
     "qual": 4,
     "comment": "ok"
-   },
-   "updatedAt": 1791091966847
   },
   "180": {
-   "jev": {
     "rel": 4,
     "qual": 4,
     "comment": "ok"
-   },
-   "updatedAt": 1791091966847
   },
   "181": {
-   "jev": {
     "rel": 4,
     "qual": 4,
     "comment": "note Inspection Panel eligibility limits: affected people, harm link to project"
-   },
-   "updatedAt": 1791091966847
   },
   "182": {
-   "jev": {
     "rel": 5,
     "qual": 4,
     "comment": "ok"
-   },
-   "updatedAt": 1791091966847
   },
   "183": {
-   "jev": {
     "rel": 3,
     "qual": 2,
     "comment": "sweep pending, no content; run assembly Q&A before publishing"
-   },
-   "updatedAt": 1791091966847
   },
   "184": {
-   "jev": {
     "rel": 3,
     "qual": 3,
     "comment": "ground 'gap' claim with named launch coverage examples"
-   },
-   "updatedAt": 1791091966847
   },
   "185": {
-   "jev": {
     "rel": 2,
     "qual": 3,
     "comment": "self-referential; add licence and citation format"
-   },
-   "updatedAt": 1791091966847
   },
   "186": {
-   "jev": {
     "rel": 3,
     "qual": 4,
     "comment": "ok"
-   },
-   "updatedAt": 1791091966847
   },
   "187": {
-   "jev": {
     "rel": 5,
     "qual": 4,
     "comment": "ok"
-   },
-   "updatedAt": 1791091966847
   },
   "188": {
-   "jev": {
     "rel": 2,
     "qual": 3,
     "comment": "self-referential; add government-side indicators, not just project outputs"
-   },
-   "updatedAt": 1791091966847
   },
   "189": {
-   "jev": {
     "rel": 3,
     "qual": 4,
     "comment": "ok"
-   },
-   "updatedAt": 1791091966847
   },
   "190": {
-   "jev": {
     "rel": 2,
     "qual": 3,
     "comment": "scope-clarifier; tangential to flood accountability"
-   },
-   "updatedAt": 1791091966847
   },
   "191": {
-   "jev": {
     "rel": 3,
     "qual": 3,
     "comment": "state unknown honestly, then file RTI for privacy policy"
-   },
-   "updatedAt": 1791091966847
   },
   "192": {
-   "jev": {
     "rel": 3,
     "qual": 4,
     "comment": "overlaps item 170; adds date range"
-   },
-   "updatedAt": 1791091966847
   },
   "193": {
-   "jev": {
     "rel": 3,
     "qual": 4,
     "comment": "ok"
-   },
-   "updatedAt": 1791091966847
   },
   "194": {
-   "jev": {
     "rel": 4,
     "qual": 4,
     "comment": "ok"
-   },
-   "updatedAt": 1791091966847
   },
   "195": {
-   "jev": {
     "rel": 3,
     "qual": 3,
     "comment": "cite wetland-loss studies to ground 'partially'"
-   },
-   "updatedAt": 1791091966847
   },
   "196": {
-   "jev": {
     "rel": 4,
     "qual": 4,
     "comment": "ok"
-   },
-   "updatedAt": 1791091966847
   },
   "197": {
-   "jev": {
     "rel": 4,
     "qual": 3,
     "comment": "gives completion claim, not process; name desilting agencies and schedule"
-   },
-   "updatedAt": 1791091966847
   },
   "198": {
-   "jev": {
     "rel": 3,
     "qual": 3,
     "comment": "add NGT order specifics and marsh-loss figures"
-   },
-   "updatedAt": 1791091966847
   },
   "199": {
-   "jev": {
     "rel": 4,
     "qual": 4,
     "comment": "ok"
-   },
-   "updatedAt": 1791091966847
   },
   "200": {
-   "jev": {
     "rel": 4,
     "qual": 4,
     "comment": "ok"
-   },
-   "updatedAt": 1791091966847
   }
- },
- "updatedAt": "2026-10-04T05:32:46Z"
 }
