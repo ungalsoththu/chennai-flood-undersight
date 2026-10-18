@@ -55,3 +55,18 @@ Corrects the earlier "down worldwide" framing:
 ## Correction (same day, later Chennai-vantage probes → `2026-10-18-episode1-not-forecast.md`)
 
 The verdict above inferred "ingest worked while the public face was dark." True only for the team's private pipeline (gauges → MIKE Operations, evidenced by their tweeted gauge totals). The **portal's own ingest froze ~2026-10-01**: from a Chennai ISP, `GetRainfallDatafordashboard` returns `[]` for all 5 districts, page stamps read 30-09/01-10, and the GeoServer transaction archive has zero records after 2023-01-01. The portal's forecasting function was offline before Episode 1 — see the successor note for the full evidence chain.
+
+## Addendum — Thinkpad (Chennai ISP) re-probe, 18 Oct 6:22–6:40 pm IST
+
+With the resident Thinkpad as Indian-vantage node (token-authenticated AJAX, UA + hidden-field `RequestVerificationToken`):
+
+| Surface | Result |
+| --- | --- |
+| Pages (`/`, `HomePage/Dashboard` 2.1MB, AboutUs) | 200, fast (0.4–1.0 s) — portal UP for India |
+| `GetRainfallDatafordashboard` ×5 districts (with valid token) | `"[]"` — 4 bytes; empty server-side, not an auth wall |
+| `GetBulletins`, `GetPublishAlert`, `GetTankDataByDate`, `GetRlsData`, `GetStorageLevels`, `GetLatestStoragelevelDate` | 500 IIS Internal Server Error (crashed handlers) |
+| GeoServer `aws_arg_transaction` | 0 records after 2023-01-01 (any later cutoff = 0) — archive dead |
+| GeoServer `ObservedRainfallBulletin` (52 stations) | **Values byte-identical to our 2026-09-29 census pull** (Kathivakkam 66.6, Manali-Avurikollaimedu 61.2, mean 53.7) — stale snapshot, NOT Episode 1 |
+| GeoServer NCEP forecast tables (`ControlMax` 72 cells, `EnsembleWebP50` 24 cells, `CMIBulletin` 6 cells) | Serve tiny values (0.2–5.9 mm), no date columns — consistent with long-frozen ingest |
+
+**Bottom line:** even from inside India, the portal contains **zero Episode-1 data** on any surface we can reach. The earlier "last run 30-09/01-10" stamp was the last data the system ever published; nothing was added before, during, or after the flood.
