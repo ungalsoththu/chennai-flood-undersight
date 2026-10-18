@@ -20,6 +20,9 @@ Companion rescue of the dead predecessor portal: [chennai-rain-gauges](https://h
 Chennai's monsoon risk isn't abstract: 2015 (NRSC-mapped city-wide flooding), 2023 Michaung, Dec 2025 (Ennore 56 cm in 3 days, Red Hills shutters opened six times). The state's answer — RTFF & SDSS — is marketed as real-time flood intelligence, yet on our mirror day: only 22 of 38 board stations reported fresh data, the flagship Nungambakkam gauge was a year stale, the alerts API has never shown a single alert, and the ward-level flood scenario is frozen at August 2021. **Public money, undocumented system, unmeasured performance — that combination is what this project exists to end.**
 
 Every number above is reproducible: full layer census in [`docs/wfs_census_2026-09-29.csv`](docs/wfs_census_2026-09-29.csv); catalog diff vs the Dec-2023 rescue in [`docs/layer_diff_vs_2023archive.json`](docs/layer_diff_vs_2023archive.json).
+## Latest finding: NEM 2026 Episode 1 was not forecast (2026-10-17/18)
+
+Chennai's heaviest rain since Michaung (Parrys 361 mm in one night) arrived with **no forecast from the ₹107.2-crore system**: no bulletin, no model run logged since 2025-12-02, dashboard feeds frozen since ~2026-10-01, portal unreachable worldwide at TCP level during the flood's peak. The only predictions on record were IMD's generic district warnings. Full evidence chain: [`probes/2026-10-18-episode1-not-forecast.md`](probes/2026-10-18-episode1-not-forecast.md) · outage verification: [`probes/2026-10-18-portal-outage-during-nem-episode1.md`](probes/2026-10-18-portal-outage-during-nem-episode1.md) · live public mirror of everything the system holds: https://cashlessconsumer.zo.space/cfm-live
 
 ## The two plans
 
