@@ -46,3 +46,28 @@
 
 - CFM Live (https://cashlessconsumer.zo.space/cfm-live) — Episode tab now carries the ❌ verdict line; Forecast tab notes the frozen run registry.
 - This note supersedes the outage note's ingest inference (see correction above).
+
+## Correction (18 Oct, 6:22–6:45 pm IST — Thinkpad browser + curl, Chennai vantage)
+
+Rendering the portal in a real browser from the Indian IP revised three earlier readings:
+
+1. **Forecast engine is alive.** Dashboard cards read **"Based On ECMWF Date: 2026-10-18 Run R00"**
+   with per-station 24/48/72h values (Anna Univ 5.8/16.9/17.3 mm; Valasaravakkam 4.6/14.5/20.3 mm).
+   The stale 81-run registry (last 2025-12-02) is the legacy NCEP-GFS path; the system now runs
+   ECMWF ensembles that don't write to that table. So "no model run since Dec 2025" was wrong —
+   the claim that survives is narrower: **no forecast bulletin/alert was published for Episode 1**,
+   and no public forecast preceded it.
+2. **Observation ingest is split.** Homepage AWS carousel: 9/36 station widgets live (all stamped
+   2026-10-18T18:30 — e.g. Karapakkam 34.0 mm today); 27 dead. Dashboard ARG/AWS grid: 151 widgets,
+   89 "Invalid date", **zero** with an Oct-2026 reading. District rainfall API (the panel the
+   public compares) still returns `"[]"`.
+3. **Last published bulletin = 30-09-2026.** Homepage carousel's newest forecast bulletin is
+   "Rainfall Forecast_ECMWF_Ens75_30 09 2026 00 UTC" — confirming the 30-09 sighting. Nothing
+   published for Oct 15–18 despite a live forecast engine updating daily.
+
+**Revised verdict:** Episode 1 was *not publicly predicted* — the forecast leg has run (ECMWF,
+daily, including through the event window, per the R00/R18 run stamps) but its public output
+stopped at 30-09-2026, and during the event even the observation grid was largely dark. A live
+engine that publishes nothing during a flood is a disclosure failure, not a forecasting one.
+RTI should now ask: were ECMWF run outputs circulated internally (WhatsApp/dept emails) during
+Oct 15–18, and why the public bulletin chain stopped on 30-09-2026?
