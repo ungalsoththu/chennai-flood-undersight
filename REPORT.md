@@ -2,12 +2,41 @@
 
 ## A public audit of Chennai's ₹107.2-crore Real-Time Flood Forecasting & Spatial Decision Support System
 
-**UngalSoththu — AI-native desk** · Report draft v0.7 · 2026-10-04 (v0.1 baseline · v0.2 §5 financing · v0.3 media-claims + data catalogue · v0.4 question-bench loop · v0.5 World Bank documents · v0.6 TNSUDP ICR/IEG two-fates · v0.7 procurement + TN-budget silence)
+**UngalSoththu — AI-native desk** · Report draft v0.8 · 2026-10-19 (v0.1 baseline · v0.2 §5 financing · v0.3 media-claims + data catalogue · v0.4 question-bench loop · v0.5 World Bank documents · v0.6 TNSUDP ICR/IEG two-fates · v0.7 procurement + TN-budget silence · v0.8 NEM 2026 Episode-1 lead + open-questions register; evidence hashes now computed, see `docs/wb/SHA256SUMS-2026-10-19.txt`)
 **Companion data release:** four Hugging Face datasets (links in §3) + the 2026-12 rescue archive `chennai-rain-gauges` · **Media-claims register:** `file MEDIA-CLAIMS.md` (every public success/impact reference, claim-typed and cross-checked) · **Data catalogue:** `file DATA-CATALOGUE.md` (coverage reconciliation + per-layer freshness)**Question bank:** `file 200-QUESTIONS.md` (200 graded accountability questions) · **Chapter:** `file CHAPTER.md` (bench method, reviewer scorecard, gap fixes) · **Resident review bench:** https://cashlessconsumer.zo.space/rtff-200-review
 **Evidence grades used:** **A** = artifact captured in our archive (reproducible command in appendix) · **B** = captured + corroborated by dated press · **C** = press-reported only, not independently verified · **D** = inference from evidence (reasoning stated)
 
 ---
 
+## Lead: NEM 2026 Episode 1 — the first monsoon of the system's second year, and the public record shows nothing from it (17–18 Oct 2026)
+
+On 15 October 2026 the Northeast Monsoon set in over Tamil Nadu; by that evening an upper-air cyclonic circulation stalled over the north coast, and through the night of Saturday 17 October to Sunday morning 18 October Chennai took its heaviest spell since Michaung (2023): **Parrys ~361 mm**, Kathivakkam 343 mm, Meenambakkam 282 mm, Sathangadu 260 mm (8:30 AM 17 Oct → 4:30 AM 18 Oct), with the GCC's ICCC averaging **over 105 mm citywide** in 24 hours and six localities in the "extremely heavy" band. Roads flooded across the northern zones; the city's five reservoirs rose from 3,949 to 4,186 mcft. **[A for system-side records; B for press/GCC figures]**
+
+This was the exact event the ₹107.2-crore RTFF & SDSS exists for. What the public record shows:
+
+- **The last bulletin the system published is dated 30-09-2026** — the forecast-publication chain stopped sixteen days *before* the monsoon, and nothing was issued before, during, or after Episode 1. **[A]**
+- During the flood's peak the portal was unreachable from every foreign vantage we and third-party probes could muster (9 vantages: TCP timeouts worldwide; Cloudflare's edge itself returned 522). From inside India it loaded — into an empty shell: the district rainfall API returned `"[]"` for all five districts, station page stamps read 30-09/01-10, and every GeoServer layer we could reach was byte-identical to our 29 September census — zero Episode-1 data on any public surface. **[A]**
+- The system's own forecast leg, however, was alive: dashboard cards read **"Based On ECMWF Date: 2026-10-18 Run R00"** with per-station 24/48/72-hour values, stamped during the event. A live engine that publishes nothing during a flood is a **disclosure failure, not a forecasting failure**. **[A]**
+- The modelling team's private pipeline demonstrably worked — @TNFloodmodeller tweeted gauge-specific totals within hours (4 posts, all *after* the spell began, descriptive not predictive). The public got the RTFF team's numbers as tweets; the ₹107.2-crore portal itself served nobody. **[A for the posts; I for the pipeline inference]**
+- The only predictions on the public record were **IMD's generic district-level alerts** (orange at onset, yellow through 23 Oct) — a product that costs a fraction of this system and contains no ward-level intelligence. **[B]**
+
+Full evidence chain: [`probes/2026-10-18-episode1-not-forecast.md`](probes/2026-10-18-episode1-not-forecast.md) and [`probes/2026-10-18-portal-outage-during-nem-episode1.md`](probes/2026-10-18-portal-outage-during-nem-episode1.md) · live public mirror: https://cashlessconsumer.zo.space/cfm-live
+
+## Open questions this report publishes with
+
+This report is published as a living audit, not a finished one. The following questions are open, material to its conclusions, and tracked; none of them, in our assessment, undermines the documentable findings above, but readers should hold the flagged claims at their stated evidence grades until they close.
+
+1. **Right of reply (open, gate-keeping).** Four letters are drafted and not yet dispatched: TNSDMA (IFMC vs RTFF & SDSS), WRD (the feed freeze and frozen gauges), TNUIFSL (sanction order, UCs, the vanished $6.06M RTDAS package), World Bank India PIC (Aug-2026 descope, IBRD-96250 disclosure). The reply register is empty; every claim naming an accountable party is written attribution-first ("documents show", "the probe records") and will be updated with any response.
+2. **The money track is press-anchored (open).** ₹71 crore (Nov 2022) → ₹107.2 crore (Oct 2025) rests on two press datapoints; no sanction order or utilisation certificate is public. RTI to WRD + TNUIFSL is the upgrade path (§5.6).
+3. **Why did public output stop on 30-09-2026 while the ECMWF leg ran daily?** Were forecast outputs circulated internally (department email, WhatsApp) during 15–18 Oct while the public chain stayed dark? RTI-able.
+4. **Alert provenance during Episode 1.** A resident-reported TN-Alert/TNSMART push about "extremely heavy rainfall" is unverified for origin: IMD relay or RTFF model product? What exactly did the alert chain originate, 15–18 Oct? RTI-able.
+5. **The hosting posture.** The portal dropped foreign TCP connections sometime after our world-open 29 Sep–4 Oct probes. When did geo-fencing start, on whose order, and what is NIC/NICSI's incident log for 10–18 Oct? RTI-able.
+6. **Vendor SLA.** Was SECON–JBA's forecast-delivery obligation tested against Episode 1's no-show, and what does the contract say a season-opening public silence triggers? (Q-add-4.)
+7. **Forecast skill remains unmeasured.** No archive of forecasts-vs-observed exists anywhere public. Only forward capture can fix this — our per-activation bulletin + model-run watch is running; the system still publishes nothing to capture.
+
+Evidence integrity: every load-bearing artifact is now hashed — `docs/wb/SHA256SUMS-2026-10-19.txt` covers the World Bank set, the WFS census, both Episode-1 probes, the media-claims register and the data catalogue.
+
+---
 ## Executive summary
 
 1. Tamil Nadu operates India's first fully operational urban flood-forecasting decision-support system for Chennai — the RTFF & SDSS, sanctioned at ₹107.2 crore, covering 4,974 km² across five districts, promoted via TNSMART/TN-DSS with World Bank PDGF funding through TNUIFSL and IIT Madras oversight. It has been fully operational since October 2025. **\[C\]**
@@ -182,7 +211,7 @@ Single-day census + full pulls on 2026-09-29: GeoServer `GetCapabilities` parse 
 
 ## 9. Limitations
 
-Point-in-time capture (2026-09-29); activations since Oct 2025 may have changed server state. Press figures (rainfall totals, system cost, launch facts) are corroborated but not independently re-measured. The legal analysis is our own research posture, not legal advice. Five layers failed at source during pull and are excluded (logged). Claims are graded by evidence in the appendix.
+Point-in-time capture (2026-09-29); activations since Oct 2025 may have changed server state. The NEM 2026 Episode-1 findings rest on same-day probes from multiple vantages (17–18 Oct 2026) and are subject to the open questions registered above — notably right of reply, which had produced no responses at publication. Press figures (rainfall totals, system cost, launch facts) are corroborated but not independently re-measured. The legal analysis is our own research posture, not legal advice. Five layers failed at source during pull and are excluded (logged). Claims are graded by evidence in the appendix.
 
 ## Appendix A — Claim-evidence ledger (key claims)
 

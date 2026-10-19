@@ -47,6 +47,16 @@
   <div><b>0</b><span>data license, API docs, or forecast archive</span></div>
 </div>
 
+<h2 id="episode1">Lead: NEM 2026 Episode 1 — not publicly predicted (17–18 Oct 2026)</h2>
+<p>Chennai's heaviest spell since Michaung (Parrys ~361 mm, city average 105+ mm/24h; roads flooded across north Chennai) arrived sixteen days into a monsoon whose <b>forecast-publication chain stopped on 30-09-2026</b>. During the flood the portal was unreachable worldwide (9 vantages, TCP timeouts; Cloudflare edge 522) and served India an empty shell — rainfall API <code>[]</code> for all five districts, every GeoServer layer byte-identical to our 29-09 census. Yet the engine was alive inside: dashboard cards read <b>"Based On ECMWF Date: 2026-10-18 Run R00"</b>. A live forecast engine that publishes nothing during a flood is a <b>disclosure failure, not a forecasting failure</b>. The team's gauge totals reached the public only as @TNFloodmodeller tweets; the only formal predictions were IMD's district alerts.</p>
+<div class="stat">
+  <div><b>0</b><span>bulletins published for Episode 1 (last: 30-09-2026)</span></div>
+  <div><b>361 mm</b><span>Parrys overnight (8:30 AM 17 → 4:30 AM 18 Oct)</span></div>
+  <div><b>9/9</b><span>foreign vantages: portal TCP-dead at the flood's peak</span></div>
+  <div><b>R00</b><span>ECMWF run stamped 18 Oct — engine alive, output dark</span></div>
+</div>
+<p style="color:var(--mut);font-size:.9rem">Evidence chain: <a href="https://github.com/ungalsoththu/chennai-flood-undersight/blob/main/probes/2026-10-18-episode1-not-forecast.md">Episode-1 probe note</a> · <a href="https://github.com/ungalsoththu/chennai-flood-undersight/blob/main/probes/2026-10-18-portal-outage-during-nem-episode1.md">outage + geo-fence probe</a> · live mirror: <a href="https://cashlessconsumer.zo.space/cfm-live">CFM Live</a></p>
+
 <h2>The open-data release — 2026-09-29</h2>
 <div class="grid">
   <div class="card"><h3><a href="https://huggingface.co/datasets/CashlessConsumer/chennai-flood-monitor-transactions">Sensor transactions</a></h3>
@@ -74,15 +84,15 @@
 
 <h2>Documents</h2>
 <ul>
-  <li><a href="https://github.com/LogicIncZo/chennai-flood-undersight/blob/main/REPORT.md">REPORT.md</a> — the full draft report (v0.1, iterating toward a LaTeX PDF)</li>
-  <li><a href="https://github.com/LogicIncZo/chennai-flood-undersight/blob/main/docs/LEGAL-NOTE.md">Legal note</a> — why mirroring public telemetry is lawful: facts aren't copyrightable, §52 fair dealing, NDSAP openness default, takedown posture</li>
-  <li><a href="https://github.com/LogicIncZo/chennai-flood-undersight/blob/main/AUDIT-PLAN.md">Audit plan</a> — Track A (technology/digital) · Track B (economics &amp; debt monitoring)</li>
-  <li><a href="https://github.com/LogicIncZo/chennai-flood-undersight/blob/main/DATA.md">DATA.md</a> · <a href="https://github.com/LogicIncZo/chennai-flood-undersight/blob/main/POSSIBILITIES.md">POSSIBILITIES.md</a></li>
+  <li><a href="https://github.com/ungalsoththu/chennai-flood-undersight/blob/main/REPORT.md">REPORT.md</a> — the full draft report (v0.8, published with an open-questions register; iterating toward a LaTeX PDF)</li>
+  <li><a href="https://github.com/ungalsoththu/chennai-flood-undersight/blob/main/docs/LEGAL-NOTE.md">Legal note</a> — why mirroring public telemetry is lawful: facts aren't copyrightable, §52 fair dealing, NDSAP openness default, takedown posture</li>
+  <li><a href="https://github.com/ungalsoththu/chennai-flood-undersight/blob/main/AUDIT-PLAN.md">Audit plan</a> — Track A (technology/digital) · Track B (economics &amp; debt monitoring)</li>
+  <li><a href="https://github.com/ungalsoththu/chennai-flood-undersight/blob/main/DATA.md">DATA.md</a> · <a href="https://github.com/ungalsoththu/chennai-flood-undersight/blob/main/POSSIBILITIES.md">POSSIBILITIES.md</a></li>
   <li><a href="wfs_census_2026-09-29.csv">Layer census CSV</a> · <a href="layer_diff_vs_2023archive.json">2023→2026 layer diff</a> · <a href="maps/">Layer Atlas — all 344 layers on a map →</a></li>
 </ul>
 
 <div class="note">Data mirrored from a public government portal (chennaifloodmonitor.tn.gov.in). Facts aren't copyrightable; our arrangements are CC BY 4.0; attribution everywhere; notice-and-takedown honored. Not affiliated with TNSMART/TN-DSS/WRD. Security findings go to CERT-In, not the feed.</div>
 
-<footer>ChennaiFloodUndersight — உங்கள் சொத்து, public data belongs to the public. <a href="https://github.com/LogicIncZo/chennai-flood-undersight">GitHub</a> · An <b>UngalSoththu</b> AI-native initiative — <a href="https://ungalsoththu.github.io/">ungalsoththu.github.io</a> · 2026-09-29</footer>
+<footer>ChennaiFloodUndersight — உங்கள் சொத்து, public data belongs to the public. <a href="https://github.com/ungalsoththu/chennai-flood-undersight">GitHub</a> · An <b>UngalSoththu</b> AI-native initiative — <a href="https://ungalsoththu.github.io/">ungalsoththu.github.io</a> · updated 2026-10-19</footer>
 </body>
 </html>
