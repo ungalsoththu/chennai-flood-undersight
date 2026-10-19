@@ -15,8 +15,8 @@ On 15 October 2026 the Northeast Monsoon set in over Tamil Nadu; by that evening
 This was the exact event the ₹107.2-crore RTFF & SDSS exists for. What the public record shows:
 
 - **The last bulletin the system published is dated 30-09-2026** — the forecast-publication chain stopped sixteen days *before* the monsoon, and nothing was issued before, during, or after Episode 1. **[A]**
-- During the flood's peak the portal was unreachable from every foreign vantage we and third-party probes could muster (9 vantages: TCP timeouts worldwide; Cloudflare's edge itself returned 522). From inside India it loaded — into an empty shell: the district rainfall API returned `"[]"` for all five districts, station page stamps read 30-09/01-10, and every GeoServer layer we could reach was byte-identical to our 29 September census — zero Episode-1 data on any public surface. **[A]**
-- The system's own forecast leg, however, was alive: dashboard cards read **"Based On ECMWF Date: 2026-10-18 Run R00"** with per-station 24/48/72-hour values, stamped during the event. A live engine that publishes nothing during a flood is a **disclosure failure, not a forecasting failure**. **[A]**
+- During the flood's peak the portal served nobody. From outside India it would not load at all; from inside India it loaded into an empty shell — no current readings anywhere, pages still stamped 30-09/01-10, and every data layer identical to our 29 September census. Zero Episode-1 data on any public surface. (How we established this, from nine test locations: Appendix C.) **[A]**
+- The system's own forecast leg, however, was alive: during the event its dashboard carried per-neighbourhood 24/48/72-hour forecast values stamped 18 October. A live engine that publishes nothing during a flood is a **disclosure failure, not a forecasting failure**. **[A]**
 - The modelling team's private pipeline demonstrably worked — @TNFloodmodeller tweeted gauge-specific totals within hours (4 posts, all *after* the spell began, descriptive not predictive). The public got the RTFF team's numbers as tweets; the ₹107.2-crore portal itself served nobody. **[A for the posts; I for the pipeline inference]**
 - The only predictions on the public record were **IMD's generic district-level alerts** (orange at onset, yellow through 23 Oct) — a product that costs a fraction of this system and contains no ward-level intelligence. **[B]**
 
@@ -30,7 +30,7 @@ This report is published as a living audit, not a finished one. The following qu
 2. **The money track is press-anchored (open).** ₹71 crore (Nov 2022) → ₹107.2 crore (Oct 2025) rests on two press datapoints; no sanction order or utilisation certificate is public. RTI to WRD + TNUIFSL is the upgrade path (§5.6).
 3. **Why did public output stop on 30-09-2026 while the ECMWF leg ran daily?** Were forecast outputs circulated internally (department email, WhatsApp) during 15–18 Oct while the public chain stayed dark? RTI-able.
 4. **Alert provenance during Episode 1.** A resident-reported TN-Alert/TNSMART push about "extremely heavy rainfall" is unverified for origin: IMD relay or RTFF model product? What exactly did the alert chain originate, 15–18 Oct? RTI-able.
-5. **The hosting posture.** The portal dropped foreign TCP connections sometime after our world-open 29 Sep–4 Oct probes. When did geo-fencing start, on whose order, and what is NIC/NICSI's incident log for 10–18 Oct? RTI-able.
+5. **The hosting posture.** Sometime after our early-October checks, the portal stopped serving visitors from outside India altogether (Appendix C). When did that begin, on whose instruction, and what is the official incident record for 10–18 Oct? RTI-able.
 6. **Vendor SLA.** Was SECON–JBA's forecast-delivery obligation tested against Episode 1's no-show, and what does the contract say a season-opening public silence triggers? (Q-add-4.)
 7. **Forecast skill remains unmeasured.** No archive of forecasts-vs-observed exists anywhere public. Only forward capture can fix this — our per-activation bulletin + model-run watch is running; the system still publishes nothing to capture.
 
@@ -253,6 +253,22 @@ Point-in-time capture (2026-09-29); activations since Oct 2025 may have changed 
 ## Appendix B — Reproduction
 
 Scripts and step-by-step in the release archive README (`UngalSoththu/data/chennai-floods/cfm-dss-2026-09-29/`); census: `file docs/wfs_census_2026-09-29.csv`; layer diff: `file docs/layer_diff_vs_2023archive.json`. Verify any count with a one-line DuckDB query against the Parquet files on Hugging Face.
+
+## Appendix C — Episode-1 technical annex: how and where we probed
+
+*Everything in the lead and §1 stands without this annex; it records the measurement detail for reviewers, the state's server administrators, and any RTI follow-up.*
+
+Full notes with commands: [`probes/2026-10-18-episode1-not-forecast.md`](probes/2026-10-18-episode1-not-forecast.md) · [`probes/2026-10-18-portal-outage-during-nem-episode1.md`](probes/2026-10-18-portal-outage-during-nem-episode1.md) (both sha256'd in `docs/wb/SHA256SUMS-2026-10-19.txt`).
+
+**C.1 Reachability during the flood peak (18 Oct, ~11:00 IST).** Nine independent vantages — our sandbox, our managed browser, a US reader service, a Cloudflare edge fetch, and five check-host.net probe nodes (Canada, Germany, Iran, Singapore, USA) — all failed to open the portal at the network level; Cloudflare's own edge reported origin-unreachable (HTTP 522). check-host report: https://check-host.net/check-report/51c2b8f9k318. Wayback held zero captures 2026-10-10 → 10-18. DNS resolved normally throughout (NIC CDN address 103.59.65.127).
+
+**C.2 The geo-fence.** A resident volunteer on a Chennai consumer ISP loaded the same portal in 0.4–1.0 s while all nine foreign vantages still timed out. Earlier probes from our side (2026-09-29 and 2026-10-04) had world-open reachability, so the foreign-block was introduced in between. From inside India the pages loaded, but the data endpoints behind them returned empty: the district rainfall API returned `"[]"` (4 bytes) for all five districts even with a valid session token; bulletins and alert endpoints returned server errors or were blocked.
+
+**C.3 Zero Episode-1 data behind the walls.** The GeoServer (open, but unadvertised) served its 669,147-row rain-transaction archive with **no record dated after 1 Jan 2023**, and its 52-station observed-rainfall bulletin layer was byte-identical to our 29 September census pull (Kathivakkam 66.6 mm, mean 53.7) — a stale snapshot, not Episode 1. No layer we could reach contained anything dated October 2026.
+
+**C.4 The engine that ran silently.** Rendered in a real browser from the Indian vantage, dashboard forecast cards read **"Based On ECMWF Date: 2026-10-18 Run R00"** with per-station 24/48/72-hour values (e.g. Anna University 5.8/16.9/17.3 mm). This corrected our same-day first reading ("no model run logged since 2025-12-02"): the legacy run registry on which that was based belongs to the retired NCEP-GFS path; the live ECMWF path does not write to it. The narrowed claim — no *published* forecast preceded or accompanied Episode 1 — survives; the newest bulletin on the portal's own carousel is dated 30-09-2026.
+
+**C.5 What this means for measurement.** A portal that answers only domestic IPs, with no archive, no API documentation, and no change-log, cannot be audited from outside by design. Every external observation in this report is therefore either (a) an artifact we captured while the door was open, or (b) an absence we re-confirmed from multiple locations. Both classes are logged with timestamps in the two probe notes.
 
 ## Sources
 
